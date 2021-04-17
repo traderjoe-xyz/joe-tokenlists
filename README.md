@@ -1,5 +1,5 @@
 # Avalanche Tokenlists
-Tokenlists for the Pangolin Exchange and other DEXes.
+Tokenlists for the Trader Joe and other DEXes.
 
 ## Contributions
 ### Adding Your Token to an Existing List
