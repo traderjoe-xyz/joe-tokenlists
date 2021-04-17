@@ -1,0 +1,40 @@
+{
+    "name": "AVAX Stablecoins",
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xde3A24028580884448a5397872046a019649b084/logo.png",
+    "keywords": [
+        "avalanche",
+        "stablecoin"
+    ],
+    "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 0
+    },
+    "timestamp": "2021-03-26T00:00:00+00:00",
+    "tokens": [
+        {
+            "chainId": 43114,
+            "address": "0xde3A24028580884448a5397872046a019649b084",
+            "decimals": 6,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xde3A24028580884448a5397872046a019649b084/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB",
+            "decimals": 18,
+            "name": "TrueUSD",
+            "symbol": "TUSD",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a",
+            "decimals": 18,
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png"
+        }
+    ]
+}

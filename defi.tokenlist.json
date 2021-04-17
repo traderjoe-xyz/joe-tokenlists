@@ -1,0 +1,88 @@
+{
+    "name": "AVAX DeFi Tokens",
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
+    "keywords": [
+        "avalanche",
+        "defi",
+        "dex"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 5
+    },
+    "timestamp": "2021-03-23T22:00:00+00:00",
+    "tokens": [
+        {
+            "chainId": 43113,
+            "address": "0xcee9d937E3627E55F08240072D63f32c3a60fF2D",
+            "decimals": 18,
+            "name": "JoeToken",
+            "symbol": "JOE",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+        },
+        {
+            "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+            "chainId": 43114,
+            "name": "Pangolin",
+            "symbol": "PNG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x3711c397B6c8F7173391361e27e67d72F252cAad",
+            "decimals": 18,
+            "name": "COMPLUS",
+            "symbol": "COM",
+            "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0x3711c397B6c8F7173391361e27e67d72F252cAad/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x488F73cddDA1DE3664775fFd91623637383D6404",
+            "decimals": 18,
+            "name": "YetiSwap",
+            "symbol": "YTS",
+            "logoURI": "https://raw.githubusercontent.com/YetiSwap/yetiswap.app/master/src/assets/image/YTSCoin.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x008E26068B3EB40B443d3Ea88c1fF99B789c10F7",
+            "decimals": 18,
+            "name": "Zero.Exchange Token",
+            "symbol": "ZERO"
+        },
+          {
+            "chainId": 43114,
+            "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
+            "decimals": 18,
+            "name": "Snowball",
+            "symbol": "SNOB",
+            "logoURI": "https://raw.githubusercontent.com/Snowball-Finance/Assets/main/Uphill%20snowball.png"
+        },
+          {
+            "chainId": 43114,
+            "address": "0x1F1FE1eF06ab30a791d6357FdF0a7361B39b1537",
+            "decimals": 9,
+            "name": "sled.finance",
+            "symbol": "SFI",
+            "logoURI": "https://raw.githubusercontent.com/sled-finance/media/main/sled_token_fl.png"
+        },
+        {
+          "chainId": 43114,
+          "address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
+          "decimals": 9,
+          "name": "Spore Finance",
+          "symbol": "SPORE",
+          "logoURI": "https://raw.githubusercontent.com/SporeFinance/Spore-frontend/master/src/utils/SPORE.png"
+      },
+        {
+            "chainId": 43114,
+            "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
+            "decimals": 18,
+            "name": "Penguin Finance",
+            "symbol": "PEFI",
+            "logoURI": "https://raw.githubusercontent.com/Penguin-Finance/png-files/main/PEFILOGOPNG.png"
+        }
+    ]
+}
