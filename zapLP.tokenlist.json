@@ -1,0 +1,50 @@
+{
+    "name": "Zap LPs",
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+    "keywords": [
+        "avalanche",
+        "defi",
+        "joe",
+        "ethereum"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 4,
+            "address": "0x747ec6f38ab5aba02bc5c5b16837f8ae1e9f2822",
+            "decimals": 18,
+            "name": "JOE WAVAX JLP",
+            "symbol": "JOEWAVAXJLP",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+        },
+        {
+            "chainId": 4,
+            "address": "0xdb5109f6006bcefee2458a010dce3796bff79489",
+            "decimals": 18,
+            "name": "JOE FISH JLP",
+            "symbol": "JOEFISHJLP",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+        },
+        {
+            "chainId": 4,
+            "address": "0xbf21027fbf3e6fff156e9f2464881898e4672713",
+            "decimals": 18,
+            "name": "WAVAX FISH JLP",
+            "symbol": "WAVAXFISHJLP",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+        },
+        {
+            "chainId": 4,
+            "address": "0x1860c306c16c7c6fc45b3d3effb5ef7a2a17dbeb",
+            "decimals": 18,
+            "name": "MURLOC FISH JLP",
+            "symbol": "MURLOCFISHJLP",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+        }
+    ],
+    "timestamp": "2021-05-15T00:33:00+00:00"
+}
