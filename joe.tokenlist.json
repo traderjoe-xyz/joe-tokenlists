@@ -8,7 +8,7 @@
         "ethereum"
     ],
     "version": {
-        "major": 3,
+        "major": 4,
         "minor": 0,
         "patch": 0
     },
@@ -36,6 +36,14 @@
             "name": "Wrapped AVAX",
             "symbol": "WAVAX",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+            "decimals": 18,
+            "name": "TraderJoe Token",
+            "symbol": "JOE",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png"
         },
         {
             "chainId": 43114,
@@ -180,6 +188,14 @@
             "name": "Elk",
             "symbol": "ELK",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c/logo.png"
+        }, 
+        {
+            "chainId": 43114,
+            "address": "0x617724974218a18769020a70162165a539c07e8a",
+            "decimals": 18,
+            "name": "OliveCash Token",
+            "symbol": "OLIVE",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x617724974218a18769020a70162165a539c07e8a/logo.png"
         }
 
     ],
