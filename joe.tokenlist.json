@@ -8,7 +8,7 @@
         "ethereum"
     ],
     "version": {
-        "major": 2,
+        "major": 3,
         "minor": 0,
         "patch": 0
     },
@@ -127,12 +127,61 @@
         },
         {
             "chainId": 43114,
-            "address": "0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084",
+            "address": "0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084",
             "decimals": 18,
-            "name": "LydToken",
+            "name": "LydiaFinance Token",
             "symbol": "LYD",
-            "logoURI": "https://www.lydia.finance/images/lyd_logo.png"
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084/logo.png"
+        }, 
+        {
+            "chainId": 43114,
+            "address": "0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4",
+            "decimals": 18,
+            "name": "Avalaunch",
+            "symbol": "XAVA",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4/logo.png"
+        }, 
+        {
+            "chainId": 43114,
+            "address": "0x846d50248baf8b7ceaa9d9b53bfd12d7d7fbb25a",
+            "decimals": 18,
+            "name": "VersoToken",
+            "symbol": "VSO",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x846d50248baf8b7ceaa9d9b53bfd12d7d7fbb25a/logo.png"
+        }, 
+        {
+            "chainId": 43114,
+            "address": "0x6e7f5c0b9f4432716bdd0a77a3601291b9d9e985",
+            "decimals": 18,
+            "name": "Spore.Finance",
+            "symbol": "SPORE",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e7f5c0b9f4432716bdd0a77a3601291b9d9e985/logo.png"
+        }, 
+        {
+            "chainId": 43114,
+            "address": "0xd606199557c8ab6f4cc70bd03facc96ca576f142",
+            "decimals": 18,
+            "name": "Gondola",
+            "symbol": "GDL",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd606199557c8ab6f4cc70bd03facc96ca576f142/logo.png"
+        }, 
+        {
+            "chainId": 43114,
+            "address": "0x65378b697853568da9ff8eab60c13e1ee9f4a654",
+            "decimals": 18,
+            "name": "Husky",
+            "symbol": "HUSKY",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x65378b697853568da9ff8eab60c13e1ee9f4a654/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c",
+            "decimals": 18,
+            "name": "Elk",
+            "symbol": "ELK",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c/logo.png"
         }
+
     ],
     "timestamp": "2021-05-06T00:33:00+00:00"
 }
