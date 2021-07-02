@@ -160,7 +160,7 @@
         {
             "chainId": 43114,
             "address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
-            "decimals": 18,
+            "decimals": 9,
             "name": "Spore.Finance",
             "symbol": "SPORE",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985/logo.png"
