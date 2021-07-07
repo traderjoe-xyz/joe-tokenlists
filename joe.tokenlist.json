@@ -1,218 +1,213 @@
 {
-    "name": "Trader Joe Default",
-    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
-    "keywords": [
-        "avalanche",
-        "defi",
-        "joe",
-        "ethereum"
-    ],
-    "version": {
-        "major": 5,
-        "minor": 2,
-        "patch": 0
+  "name": "Trader Joe Default",
+  "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+  "keywords": ["avalanche", "defi", "joe", "ethereum"],
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 4,
+      "address": "0x23fc76B53882d8dcaB1900f0D3C1C0c504Ffb8E3",
+      "decimals": 18,
+      "name": "JoeToken",
+      "symbol": "JOE",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x23fc76B53882d8dcaB1900f0D3C1C0c504Ffb8E3/logo.png"
     },
-    "tokens": [
-        {
-            "chainId": 43114,
-            "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
-            "decimals": 18,
-            "name": "TraderJoe Token",
-            "symbol": "JOE",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png"
-        },
-        {
-            "chainId": 4,
-            "address": "0x23fc76B53882d8dcaB1900f0D3C1C0c504Ffb8E3",
-            "decimals": 18,
-            "name": "JoeToken",
-            "symbol": "JOE",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x23fc76B53882d8dcaB1900f0D3C1C0c504Ffb8E3/logo.png"
-        },
-        {
-            "chainId": 4,
-            "address": "0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10",
-            "decimals": 18,
-            "name": "FishToken",
-            "symbol": "FISH",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10/logo.png"
-        },
-        {
-            "chainId": 4,
-            "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
-            "decimals": 18,
-            "name": "Wrapped AVAX",
-            "symbol": "WAVAX",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
-        }, 
-        {
-            "chainId": 43114,
-            "address": "0x60781C2586D68229fde47564546784ab3fACA982",
-            "decimals": 18,
-            "name": "Pangolin",
-            "symbol": "PNG",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
-            "decimals": 18,
-            "name": "Wrapped AVAX",
-            "symbol": "WAVAX",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
-            "decimals": 18,
-            "name": "Ether",
-            "symbol": "ETH",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651",
-            "decimals": 18,
-            "name": "ChainLink Token",
-            "symbol": "LINK",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB",
-            "decimals": 8,
-            "name": "Wrapped BTC",
-            "symbol": "WBTC",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
-            "decimals": 18,
-            "name": "SushiToken",
-            "symbol": "SUSHI",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xde3A24028580884448a5397872046a019649b084",
-            "decimals": 6,
-            "name": "Tether USD",
-            "symbol": "USDT",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xde3A24028580884448a5397872046a019649b084/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
-            "decimals": 18,
-            "name": "PenguinToken",
-            "symbol": "PEFI",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a",
-            "decimals": 18,
-            "name": "Dai Stablecoin",
-            "symbol": "DAI",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
-            "decimals": 18,
-            "name": "Snowball",
-            "symbol": "SNOB",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xC38f41A296A4493Ff429F1238e030924A1542e50/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xa1144a6A1304bd9cbb16c800F7a867508726566E",
-            "decimals": 18,
-            "name": "Baguette",
-            "symbol": "BAG",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xa1144a6A1304bd9cbb16c800F7a867508726566E/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084",
-            "decimals": 18,
-            "name": "LydiaFinance Token",
-            "symbol": "LYD",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo.png"
-        }, 
-        {
-            "chainId": 43114,
-            "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
-            "decimals": 18,
-            "name": "Avalaunch",
-            "symbol": "XAVA",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png"
-        }, 
-        {
-            "chainId": 43114,
-            "address": "0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a",
-            "decimals": 18,
-            "name": "VersoToken",
-            "symbol": "VSO",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a/logo.png"
-        }, 
-        {
-            "chainId": 43114,
-            "address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
-            "decimals": 9,
-            "name": "Spore.Finance",
-            "symbol": "SPORE",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985/logo.png"
-        }, 
-        {
-            "chainId": 43114,
-            "address": "0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142",
-            "decimals": 18,
-            "name": "Gondola",
-            "symbol": "GDL",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142/logo.png"
-        }, 
-        {
-            "chainId": 43114,
-            "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
-            "decimals": 18,
-            "name": "Husky",
-            "symbol": "HUSKY",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
-            "decimals": 18,
-            "name": "Elk",
-            "symbol": "ELK",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png"
-        }, 
-        {
-            "chainId": 43114,
-            "address": "0x617724974218A18769020A70162165A539c07E8a",
-            "decimals": 18,
-            "name": "OliveCash Token",
-            "symbol": "OLIVE",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x617724974218A18769020A70162165A539c07E8a/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
-            "name": "Avaware",
-            "symbol": "AVE",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xD9702F5E3b0eb7452967CB82529776D672bdC03F",
-            "name": "Lucky Cat (NEKO)",
-            "symbol": "NEKO",
-            "decimals": 8,
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD9702F5E3b0eb7452967CB82529776D672bdC03F/logo.png"
-        }
-    ],
-    "timestamp": "2021-05-06T00:33:00+00:00"
+    {
+      "chainId": 4,
+      "address": "0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10",
+      "decimals": 18,
+      "name": "FishToken",
+      "symbol": "FISH",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10/logo.png"
+    },
+    {
+      "chainId": 4,
+      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+      "decimals": 18,
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+      "decimals": 18,
+      "name": "TraderJoe Token",
+      "symbol": "JOE",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+      "decimals": 18,
+      "name": "Pangolin",
+      "symbol": "PNG",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "decimals": 18,
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651",
+      "decimals": 18,
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB",
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
+      "decimals": 18,
+      "name": "SushiToken",
+      "symbol": "SUSHI",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xde3A24028580884448a5397872046a019649b084",
+      "decimals": 6,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xde3A24028580884448a5397872046a019649b084/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
+      "decimals": 18,
+      "name": "PenguinToken",
+      "symbol": "PEFI",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a",
+      "decimals": 18,
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
+      "decimals": 18,
+      "name": "Snowball",
+      "symbol": "SNOB",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xC38f41A296A4493Ff429F1238e030924A1542e50/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xa1144a6A1304bd9cbb16c800F7a867508726566E",
+      "decimals": 18,
+      "name": "Baguette",
+      "symbol": "BAG",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xa1144a6A1304bd9cbb16c800F7a867508726566E/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084",
+      "decimals": 18,
+      "name": "LydiaFinance Token",
+      "symbol": "LYD",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+      "decimals": 18,
+      "name": "Avalaunch",
+      "symbol": "XAVA",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a",
+      "decimals": 18,
+      "name": "VersoToken",
+      "symbol": "VSO",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
+      "decimals": 9,
+      "name": "Spore.Finance",
+      "symbol": "SPORE",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142",
+      "decimals": 18,
+      "name": "Gondola",
+      "symbol": "GDL",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
+      "decimals": 18,
+      "name": "Husky",
+      "symbol": "HUSKY",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+      "decimals": 18,
+      "name": "Elk",
+      "symbol": "ELK",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x617724974218A18769020A70162165A539c07E8a",
+      "decimals": 18,
+      "name": "OliveCash Token",
+      "symbol": "OLIVE",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x617724974218A18769020A70162165A539c07E8a/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
+      "name": "Avaware",
+      "symbol": "AVE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xD9702F5E3b0eb7452967CB82529776D672bdC03F",
+      "name": "Lucky Cat (NEKO)",
+      "symbol": "NEKO",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD9702F5E3b0eb7452967CB82529776D672bdC03F/logo.png"
+    }
+  ],
+  "timestamp": "2021-07-07T00:33:00+00:00"
 }
