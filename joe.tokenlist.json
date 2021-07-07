@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 6,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tokens": [
@@ -60,14 +60,6 @@
             "name": "Wrapped BTC",
             "symbol": "WBTC",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
-            "decimals": 18,
-            "name": "SushiToken",
-            "symbol": "SUSHI",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc/logo.png"
         },
         {
             "chainId": 43114,
