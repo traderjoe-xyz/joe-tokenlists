@@ -8,7 +8,7 @@
         "ethereum"
     ],
     "version": {
-        "major": 7,
+        "major": 8,
         "minor": 0,
         "patch": 0
     },
@@ -17,7 +17,7 @@
             "chainId": 43114,
             "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
             "decimals": 18,
-            "name": "(old) Ether",
+            "name": "old-Ether",
             "symbol": "old-ETH",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png"
         },
@@ -25,7 +25,7 @@
             "chainId": 43114,
             "address": "0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651",
             "decimals": 18,
-            "name": "(old) ChainLink Token",
+            "name": "old-ChainLink Token",
             "symbol": "old-LINK",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651/logo.png"
         },
@@ -33,7 +33,7 @@
             "chainId": 43114,
             "address": "0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB",
             "decimals": 8,
-            "name": "(old) Wrapped BTC",
+            "name": "old-Wrapped BTC",
             "symbol": "old-WBTC",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png"
         },
@@ -41,7 +41,7 @@
             "chainId": 43114,
             "address": "0xde3A24028580884448a5397872046a019649b084",
             "decimals": 6,
-            "name": "(old) Tether USD",
+            "name": "old-Tether USD",
             "symbol": "old-USDT",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xde3A24028580884448a5397872046a019649b084/logo.png"
         }, 
@@ -49,7 +49,7 @@
             "chainId": 43114,
             "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a",
             "decimals": 18,
-            "name": "(old) Dai Stablecoin",
+            "name": "old-Dai Stablecoin",
             "symbol": "old-DAI",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png"
         }, 
