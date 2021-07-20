@@ -1,0 +1,98 @@
+{
+    "name": "Test Bridge",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+    "keywords": [
+        "avalanche",
+        "defi",
+        "joe",
+        "ethereum"
+    ],
+    "version": {
+        "major": 7,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 43114,
+            "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
+            "decimals": 18,
+            "name": "(old) Ether",
+            "symbol": "old-ETH",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651",
+            "decimals": 18,
+            "name": "(old) ChainLink Token",
+            "symbol": "old-LINK",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB",
+            "decimals": 8,
+            "name": "(old) Wrapped BTC",
+            "symbol": "old-WBTC",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xde3A24028580884448a5397872046a019649b084",
+            "decimals": 6,
+            "name": "(old) Tether USD",
+            "symbol": "old-USDT",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xde3A24028580884448a5397872046a019649b084/logo.png"
+        }, 
+        {
+            "chainId": 43114,
+            "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a",
+            "decimals": 18,
+            "name": "(old) Dai Stablecoin",
+            "symbol": "old-DAI",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png"
+        }, 
+        {
+            "chainId": 43114,
+            "address": "0xfB840199E0741E483e107011D82CA105AF7C4245",
+            "decimals": 18,
+            "name": "Ether",
+            "symbol": "ETH",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfB840199E0741E483e107011D82CA105AF7C4245/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x4AD64ACbf7509400a9888622D4CFd7bF4a5ecdBe",
+            "decimals": 18,
+            "name": "ChainLink Token",
+            "symbol": "LINK",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4AD64ACbf7509400a9888622D4CFd7bF4a5ecdBe/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xC7160dC7bE4FfC434E89d2BF63D35bBF65cabF8B",
+            "decimals": 8,
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xC7160dC7bE4FfC434E89d2BF63D35bBF65cabF8B/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xA2dD998b983C9d8D6b82A554CF7cda68Bbe42eFD",
+            "decimals": 6,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA2dD998b983C9d8D6b82A554CF7cda68Bbe42eFD/logo.png"
+        }, 
+        {
+            "chainId": 43114,
+            "address": "0xd321aCB8F333966374810c82eDBfb88893890Da4",
+            "decimals": 18,
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd321aCB8F333966374810c82eDBfb88893890Da4/logo.png"
+        }
+    ],
+    "timestamp": "2021-07-21T00:33:00+00:00"
+}
