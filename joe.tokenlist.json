@@ -8,8 +8,8 @@
         "ethereum"
     ],
     "version": {
-        "major": 6,
-        "minor": 2,
+        "major": 7,
+        "minor": 0,
         "patch": 0
     },
     "tokens": [
@@ -164,6 +164,14 @@
             "name": "OliveCash Token",
             "symbol": "OLIVE",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x617724974218A18769020A70162165A539c07E8a/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D",
+            "decimals": 18,
+            "name": "WebleEcosystemToken",
+            "symbol": "WET",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png"
         },
         {
             "chainId": 43114,
