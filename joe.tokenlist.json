@@ -5,10 +5,11 @@
         "avalanche",
         "defi",
         "joe",
-        "ethereum"
+        "ethereum",
+        "trader joe"
     ],
     "version": {
-        "major": 7,
+        "major": 8,
         "minor": 0,
         "patch": 0
     },
@@ -203,6 +204,14 @@
             "decimals": 18,
             "name": "Wrapped AVAX",
             "symbol": "WAVAX",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+        },
+        {
+            "chainId": 4,
+            "address": "0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6",
+            "decimals": 18,
+            "name": "Sherpa",
+            "symbol": "SHERPA",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
         }
     ],
