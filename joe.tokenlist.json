@@ -10,10 +10,34 @@
     ],
     "version": {
         "major": 9,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tokens": [
+        {
+            "chainId": 4,
+            "address": "0x23fc76B53882d8dcaB1900f0D3C1C0c504Ffb8E3",
+            "decimals": 18,
+            "name": "JoeToken",
+            "symbol": "JOE",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x23fc76B53882d8dcaB1900f0D3C1C0c504Ffb8E3/logo.png"
+        },
+        {
+            "chainId": 4,
+            "address": "0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10",
+            "decimals": 18,
+            "name": "FishToken",
+            "symbol": "FISH",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10/logo.png"
+        },
+        {
+            "chainId": 4,
+            "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+            "decimals": 18,
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+        },
         {
             "chainId": 43114,
             "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
@@ -183,31 +207,7 @@
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png"
         },
         {
-            "chainId": 4,
-            "address": "0x23fc76B53882d8dcaB1900f0D3C1C0c504Ffb8E3",
-            "decimals": 18,
-            "name": "JoeToken",
-            "symbol": "JOE",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x23fc76B53882d8dcaB1900f0D3C1C0c504Ffb8E3/logo.png"
-        },
-        {
-            "chainId": 4,
-            "address": "0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10",
-            "decimals": 18,
-            "name": "FishToken",
-            "symbol": "FISH",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10/logo.png"
-        },
-        {
-            "chainId": 4,
-            "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
-            "decimals": 18,
-            "name": "Wrapped AVAX",
-            "symbol": "WAVAX",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
-        },
-        {
-            "chainId": 4,
+            "chainId": 43114,
             "address": "0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6",
             "decimals": 18,
             "name": "Sherpa",
@@ -215,7 +215,7 @@
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
         },
         {
-            "chainId": 4,
+            "chainId": 43114,
             "address": "0x82FE038Ea4b50f9C957da326C412ebd73462077C",
             "decimals": 18,
             "name": "JoeHatToken",
