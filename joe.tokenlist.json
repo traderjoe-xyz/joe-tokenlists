@@ -9,7 +9,7 @@
         "trader joe"
     ],
     "version": {
-        "major": 11,
+        "major": 12,
         "minor": 0,
         "patch": 0
     },
@@ -221,6 +221,14 @@
             "name": "JoeHatToken",
             "symbol": "HAT",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x82FE038Ea4b50f9C957da326C412ebd73462077C/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1",
+            "decimals": 18,
+            "name": "Avaxtars Token",
+            "symbol": "AVXT",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1/logo.png"
         }
     ],
     "timestamp": "2021-05-06T00:33:00+00:00"
