@@ -9,7 +9,7 @@
         "trader joe"
     ],
     "version": {
-        "major": 12,
+        "major": 13,
         "minor": 0,
         "patch": 0
     },
@@ -225,7 +225,7 @@
         {
             "chainId": 43114,
             "address": "0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1",
-            "decimals": 18,
+            "decimals": 6,
             "name": "Avaxtars Token",
             "symbol": "AVXT",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1/logo.png"
