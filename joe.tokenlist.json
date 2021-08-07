@@ -9,7 +9,7 @@
         "trader joe"
     ],
     "version": {
-        "major": 13,
+        "major": 14,
         "minor": 0,
         "patch": 0
     },
@@ -229,6 +229,46 @@
             "name": "Avaxtars Token",
             "symbol": "AVXT",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+            "decimals": 18,
+            "name": "Dai Stablecoin",
+            "symbol": "DAI.e",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x5947BB275c521040051D82396192181b413227A3",
+            "decimals": 18,
+            "name": "ChainLink Token",
+            "symbol": "LINK.e",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5947BB275c521040051D82396192181b413227A3/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "decimals": 6,
+            "name": "Tether USD",
+            "symbol": "USDT.e",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc7198437980c041c805a1edcba50c1ce5db95118/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+            "decimals": 8,
+            "name": "Wrapped BTC",
+            "symbol": "WBTC.e",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x50b7545627a5162f82a992c33b87adc75187b218/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "decimals": 18,
+            "name": "Wrapped Ether",
+            "symbol": "WETH.e",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab/logo.png"
         }
     ],
     "timestamp": "2021-05-06T00:33:00+00:00"
