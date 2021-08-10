@@ -9,7 +9,7 @@
         "trader joe"
     ],
     "version": {
-        "major": 14,
+        "major": 15,
         "minor": 0,
         "patch": 0
     },
@@ -269,7 +269,15 @@
             "name": "Wrapped Ether",
             "symbol": "WETH.e",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7",
+            "decimals": 18,
+            "name": "Yak Token",
+            "symbol": "YAK",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png"
         }
     ],
-    "timestamp": "2021-05-06T00:33:00+00:00"
+    "timestamp": "2021-08-10T00:33:00+00:00"
 }
