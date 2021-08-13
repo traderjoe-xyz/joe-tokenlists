@@ -9,7 +9,7 @@
         "trader joe"
     ],
     "version": {
-        "major": 15,
+        "major": 16,
         "minor": 0,
         "patch": 0
     },
@@ -277,6 +277,22 @@
             "name": "Yak Token",
             "symbol": "YAK",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x78c42324016cd91D1827924711563fb66E33A83A",
+            "decimals": 18,
+            "name": "Relay Token",
+            "symbol": "RELAY",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x78c42324016cd91D1827924711563fb66E33A83A/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xD769bDFc0CaEe933dc0a047C7dBad2Ec42CFb3E2",
+            "decimals": 18,
+            "name": "ChartEx",
+            "symbol": "CHART",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD769bDFc0CaEe933dc0a047C7dBad2Ec42CFb3E2/logo.png"
         }
     ],
     "timestamp": "2021-08-10T00:33:00+00:00"
