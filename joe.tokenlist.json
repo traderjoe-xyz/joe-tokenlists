@@ -9,8 +9,8 @@
         "trader joe"
     ],
     "version": {
-        "major": 16,
-        "minor": 1,
+        "major": 17,
+        "minor": 0,
         "patch": 0
     },
     "tokens": [
@@ -293,7 +293,15 @@
             "name": "ChartEx",
             "symbol": "CHART",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD769bDFc0CaEe933dc0a047C7dBad2Ec42CFb3E2/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+            "decimals": 18,
+            "name": "Benqi",
+            "symbol": "QI",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png"
         }
     ],
-    "timestamp": "2021-08-10T00:33:00+00:00"
+    "timestamp": "2021-08-19T00:33:00+00:00"
 }
