@@ -10,7 +10,7 @@
     ],
     "version": {
         "major": 16,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tokens": [
@@ -240,15 +240,15 @@
         },
         {
             "chainId": 43114,
-            "address": "0x5947bb275c521040051d82396192181b413227a3",
+            "address": "0x5947BB275c521040051D82396192181b413227A3",
             "decimals": 18,
             "name": "ChainLink Token",
             "symbol": "LINK.e",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5947bb275c521040051d82396192181b413227a3/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5947BB275c521040051D82396192181b413227A3/logo.png"
         },
         {
             "chainId": 43114,
-            "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
             "decimals": 6,
             "name": "Tether USD",
             "symbol": "USDT.e",
@@ -256,19 +256,19 @@
         },
         {
             "chainId": 43114,
-            "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+            "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
             "decimals": 8,
             "name": "Wrapped BTC",
             "symbol": "WBTC.e",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x50b7545627a5162f82a992c33b87adc75187b218/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png"
         },
         {
             "chainId": 43114,
-            "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
             "decimals": 18,
             "name": "Wrapped Ether",
             "symbol": "WETH.e",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
         },
         {
             "chainId": 43114,
