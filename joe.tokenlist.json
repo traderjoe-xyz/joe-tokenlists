@@ -232,11 +232,11 @@
         },
         {
             "chainId": 43114,
-            "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+            "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
             "decimals": 18,
             "name": "Dai Stablecoin",
             "symbol": "DAI.e",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd586e7f844cea2f87f50152665bcbc2c279d8d70/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png"
         },
         {
             "chainId": 43114,
