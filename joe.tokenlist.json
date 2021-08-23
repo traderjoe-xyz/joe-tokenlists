@@ -9,7 +9,7 @@
         "trader joe"
     ],
     "version": {
-        "major": 18,
+        "major": 19,
         "minor": 0,
         "patch": 0
     },
@@ -301,7 +301,23 @@
             "name": "Benqi",
             "symbol": "QI",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
+            "decimals": 18,
+            "name": "Aave Token",
+            "symbol": "AAVE.e",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x63a72806098Bd3D9520cC43356dD78afe5D386D9/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76",
+            "decimals": 18,
+            "name": "SushiToken",
+            "symbol": "SUSHI.e",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76/logo.png"
         }
     ],
-    "timestamp": "2021-08-19T02:33:00+00:00"
+    "timestamp": "2021-08-22T02:33:00+00:00"
 }
