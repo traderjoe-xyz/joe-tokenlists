@@ -329,7 +329,7 @@
         {
             "chainId": 43114,
             "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
-            "decimals": 18,
+            "decimals": 6,
             "name": "USD Coin",
             "symbol": "USDC.e",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
