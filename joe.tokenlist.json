@@ -9,7 +9,7 @@
         "trader joe"
     ],
     "version": {
-        "major": 16,
+        "major": 20,
         "minor": 0,
         "patch": 0
     },
@@ -232,23 +232,23 @@
         },
         {
             "chainId": 43114,
-            "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+            "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
             "decimals": 18,
             "name": "Dai Stablecoin",
             "symbol": "DAI.e",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd586e7f844cea2f87f50152665bcbc2c279d8d70/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png"
         },
         {
             "chainId": 43114,
-            "address": "0x5947bb275c521040051d82396192181b413227a3",
+            "address": "0x5947BB275c521040051D82396192181b413227A3",
             "decimals": 18,
             "name": "ChainLink Token",
             "symbol": "LINK.e",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5947bb275c521040051d82396192181b413227a3/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5947BB275c521040051D82396192181b413227A3/logo.png"
         },
         {
             "chainId": 43114,
-            "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
             "decimals": 6,
             "name": "Tether USD",
             "symbol": "USDT.e",
@@ -256,19 +256,19 @@
         },
         {
             "chainId": 43114,
-            "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+            "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
             "decimals": 8,
             "name": "Wrapped BTC",
             "symbol": "WBTC.e",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x50b7545627a5162f82a992c33b87adc75187b218/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png"
         },
         {
             "chainId": 43114,
-            "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
             "decimals": 18,
             "name": "Wrapped Ether",
             "symbol": "WETH.e",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
         },
         {
             "chainId": 43114,
@@ -296,6 +296,30 @@
         },
         {
             "chainId": 43114,
+            "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+            "decimals": 18,
+            "name": "Benqi",
+            "symbol": "QI",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
+            "decimals": 18,
+            "name": "Aave Token",
+            "symbol": "AAVE.e",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x63a72806098Bd3D9520cC43356dD78afe5D386D9/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76",
+            "decimals": 18,
+            "name": "SushiToken",
+            "symbol": "SUSHI.e",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76/logo.png"
+        },
+        {
+            "chainId": 43114,
             "address": "0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1",
             "decimals": 18,
             "name": "SHIBAVAX",
@@ -303,5 +327,5 @@
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png"
         }
     ],
-    "timestamp": "2021-08-10T00:33:00+00:00"
+    "timestamp": "2021-08-24T02:33:00+00:00"
 }
