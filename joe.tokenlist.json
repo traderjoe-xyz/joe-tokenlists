@@ -9,7 +9,7 @@
         "trader joe"
     ],
     "version": {
-        "major": 19,
+        "major": 20,
         "minor": 0,
         "patch": 0
     },
@@ -317,7 +317,15 @@
             "name": "SushiToken",
             "symbol": "SUSHI.e",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1",
+            "decimals": 18,
+            "name": "SHIBAVAX",
+            "symbol": "SHIBX",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png"
         }
     ],
-    "timestamp": "2021-08-22T02:33:00+00:00"
+    "timestamp": "2021-08-24T02:33:00+00:00"
 }
