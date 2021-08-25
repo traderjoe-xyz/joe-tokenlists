@@ -9,7 +9,7 @@
         "trader joe"
     ],
     "version": {
-        "major": 20,
+        "major": 21,
         "minor": 0,
         "patch": 0
     },
@@ -325,7 +325,15 @@
             "name": "SHIBAVAX",
             "symbol": "SHIBX",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+            "decimals": 18,
+            "name": "USD Coin",
+            "symbol": "USDC.e",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
         }
     ],
-    "timestamp": "2021-08-24T02:33:00+00:00"
+    "timestamp": "2021-08-24T06:33:00+00:00"
 }
