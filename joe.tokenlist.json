@@ -293,6 +293,14 @@
             "name": "ChartEx",
             "symbol": "CHART",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD769bDFc0CaEe933dc0a047C7dBad2Ec42CFb3E2/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1",
+            "decimals": 18,
+            "name": "SHIBAVAX",
+            "symbol": "SHIBX",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png"
         }
     ],
     "timestamp": "2021-08-10T00:33:00+00:00"
