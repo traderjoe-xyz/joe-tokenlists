@@ -9,7 +9,7 @@
         "trader joe"
     ],
     "version": {
-        "major": 25,
+        "major": 26,
         "minor": 0,
         "patch": 0
     },
@@ -341,7 +341,15 @@
             "name": "Ape-X",
             "symbol": "APE-X",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
+            "decimals": 9,
+            "name": "Magic Internet Money",
+            "symbol": "MIM",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png"
         }
     ],
-    "timestamp": "2021-08-24T06:33:00+00:00"
+    "timestamp": "2021-08-26T06:33:00+00:00"
 }
