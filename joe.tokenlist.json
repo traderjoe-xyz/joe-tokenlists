@@ -9,7 +9,7 @@
         "trader joe"
     ],
     "version": {
-        "major": 28,
+        "major": 29,
         "minor": 0,
         "patch": 0
     },
@@ -365,7 +365,15 @@
             "name": "Synapse",
             "symbol": "SYN",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1f1E7c893855525b303f99bDF5c3c05Be09ca251/logo.png"
-        }
+        },
+        {
+            "chainId": 43114,
+            "address": "0x4501e37a79cf953116331a105B3644d07b74C0F8",
+            "decimals": 18,
+            "name": "SafeMoonAvax",
+            "symbol": "SAFEMOONA",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4501e37a79cf953116331a105B3644d07b74C0F8/logo.png"
+        }        
     ],
-    "timestamp": "2021-08-27T00:53:00+00:00"
+    "timestamp": "2021-08-28T00:53:00+00:00"
 }
