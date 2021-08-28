@@ -9,7 +9,7 @@
         "trader joe"
     ],
     "version": {
-        "major": 27,
+        "major": 28,
         "minor": 0,
         "patch": 0
     },
@@ -349,7 +349,23 @@
             "name": "Magic Internet Money",
             "symbol": "MIM",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+            "decimals": 18,
+            "name": "Eleven Finance",
+            "symbol": "ELE",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x1f1E7c893855525b303f99bDF5c3c05Be09ca251",
+            "decimals": 18,
+            "name": "Synapse",
+            "symbol": "SYN",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1f1E7c893855525b303f99bDF5c3c05Be09ca251/logo.png"
         }
     ],
-    "timestamp": "2021-08-26T06:53:00+00:00"
+    "timestamp": "2021-08-27T00:53:00+00:00"
 }
