@@ -368,6 +368,14 @@
         },
         {
             "chainId": 43114,
+            "address": "0xA5f209d56514dA92100AF8F5676ede8Bd5039463",
+            "decimals": 9,
+            "name": "valanche",
+            "symbol": "valenche",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA5f209d56514dA92100AF8F5676ede8Bd5039463/logo.png"   
+        },
+        {
+            "chainId": 43114,
             "address": "0x4501e37a79cf953116331a105B3644d07b74C0F8",
             "decimals": 18,
             "name": "SafeMoonAvax",
