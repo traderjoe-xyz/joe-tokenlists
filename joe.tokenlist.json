@@ -9,7 +9,7 @@
         "trader joe"
     ],
     "version": {
-        "major": 29,
+        "major": 30,
         "minor": 0,
         "patch": 0
     },
@@ -373,7 +373,23 @@
             "name": "SafeMoonAvax",
             "symbol": "SAFEMOONA",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4501e37a79cf953116331a105B3644d07b74C0F8/logo.png"
-        }        
+        },
+        {
+            "chainId": 43114,
+            "address": "0xb54f16fB19478766A268F172C9480f8da1a7c9C3",
+            "decimals": 9,
+            "name": "Time",
+            "symbol": "TIME",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb54f16fB19478766A268F172C9480f8da1a7c9C3/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x0dd2d581994132C919827A2d5401ed6FFDAEFFc9",
+            "decimals": 18,
+            "name": "Amogus.Finance",
+            "symbol": "SUS",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0dd2d581994132C919827A2d5401ed6FFDAEFFc9/logo.png"
+        }
     ],
     "timestamp": "2021-08-28T00:53:00+00:00"
 }
