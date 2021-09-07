@@ -9,7 +9,7 @@
         "trader joe"
     ],
     "version": {
-        "major": 30,
+        "major": 31,
         "minor": 0,
         "patch": 0
     },
@@ -64,30 +64,6 @@
         },
         {
             "chainId": 43114,
-            "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
-            "decimals": 18,
-            "name": "Ether",
-            "symbol": "oldWETH",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651",
-            "decimals": 18,
-            "name": "ChainLink Token",
-            "symbol": "oldLINK",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB",
-            "decimals": 8,
-            "name": "Wrapped BTC",
-            "symbol": "oldWBTC",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png"
-        },
-        {
-            "chainId": 43114,
             "address": "0xde3A24028580884448a5397872046a019649b084",
             "decimals": 6,
             "name": "Tether USD",
@@ -101,14 +77,6 @@
             "name": "PenguinToken",
             "symbol": "PEFI",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a",
-            "decimals": 18,
-            "name": "Dai Stablecoin",
-            "symbol": "oldDAI",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png"
         },
         {
             "chainId": 43114,
@@ -149,14 +117,6 @@
             "name": "VersoToken",
             "symbol": "VSO",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a/logo.png"
-        }, 
-        {
-            "chainId": 43114,
-            "address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
-            "decimals": 9,
-            "name": "Spore.Finance",
-            "symbol": "SPORE",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985/logo.png"
         }, 
         {
             "chainId": 43114,
@@ -304,22 +264,6 @@
         },
         {
             "chainId": 43114,
-            "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
-            "decimals": 18,
-            "name": "Aave Token",
-            "symbol": "AAVE.e",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x63a72806098Bd3D9520cC43356dD78afe5D386D9/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76",
-            "decimals": 18,
-            "name": "SushiToken",
-            "symbol": "SUSHI.e",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76/logo.png"
-        },
-        {
-            "chainId": 43114,
             "address": "0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1",
             "decimals": 18,
             "name": "SHIBAVAX",
@@ -389,7 +333,15 @@
             "name": "Amogus.Finance",
             "symbol": "SUS",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0dd2d581994132C919827A2d5401ed6FFDAEFFc9/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xDd453dBD253fA4E5e745047d93667Ce9DA93bbCF",
+            "decimals": 18,
+            "name": "Zabu Token",
+            "symbol": "ZABU",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xDd453dBD253fA4E5e745047d93667Ce9DA93bbCF/logo.png"
         }
     ],
-    "timestamp": "2021-08-28T00:53:00+00:00"
+    "timestamp": "2021-09-07T00:53:00+00:00"
 }
