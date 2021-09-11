@@ -357,6 +357,14 @@
             "name": "miMatic",
             "symbol": "MAI",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x90842eb834cFD2A1DB0b1512B254a18E4D396215",
+            "decimals": 9,
+            "name": "Good Bridging",
+            "symbol": "GB",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo.png"
         }
     ],
     "timestamp": "2021-09-10T02:00:00+00:00"
