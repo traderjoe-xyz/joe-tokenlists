@@ -9,7 +9,7 @@
         "trader joe"
     ],
     "version": {
-        "major": 36,
+        "major": 37,
         "minor": 0,
         "patch": 0
     },
@@ -64,14 +64,6 @@
         },
         {
             "chainId": 43114,
-            "address": "0xde3A24028580884448a5397872046a019649b084",
-            "decimals": 6,
-            "name": "Tether USD",
-            "symbol": "oldUSDT",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xde3A24028580884448a5397872046a019649b084/logo.png"
-        },
-        {
-            "chainId": 43114,
             "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
             "decimals": 18,
             "name": "PenguinToken",
@@ -85,14 +77,6 @@
             "name": "Snowball",
             "symbol": "SNOB",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xC38f41A296A4493Ff429F1238e030924A1542e50/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xa1144a6A1304bd9cbb16c800F7a867508726566E",
-            "decimals": 18,
-            "name": "Baguette",
-            "symbol": "BAG",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xa1144a6A1304bd9cbb16c800F7a867508726566E/logo.png"
         },
         {
             "chainId": 43114,
@@ -117,14 +101,6 @@
             "name": "VersoToken",
             "symbol": "VSO",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a/logo.png"
-        }, 
-        {
-            "chainId": 43114,
-            "address": "0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142",
-            "decimals": 18,
-            "name": "Gondola",
-            "symbol": "GDL",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142/logo.png"
         }, 
         {
             "chainId": 43114,
@@ -160,14 +136,6 @@
         },
         {
             "chainId": 43114,
-            "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
-            "name": "Avaware",
-            "symbol": "AVE",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png"
-        },
-        {
-            "chainId": 43114,
             "address": "0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6",
             "decimals": 18,
             "name": "Sherpa",
@@ -181,14 +149,6 @@
             "name": "JoeHatToken",
             "symbol": "HAT",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x82FE038Ea4b50f9C957da326C412ebd73462077C/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1",
-            "decimals": 6,
-            "name": "Avaxtars Token",
-            "symbol": "AVXT",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1/logo.png"
         },
         {
             "chainId": 43114,
@@ -312,27 +272,11 @@
         },
         {
             "chainId": 43114,
-            "address": "0x4501e37a79cf953116331a105B3644d07b74C0F8",
-            "decimals": 18,
-            "name": "SafeMoonAvax",
-            "symbol": "SAFEMOONA",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4501e37a79cf953116331a105B3644d07b74C0F8/logo.png"
-        },
-        {
-            "chainId": 43114,
             "address": "0xb54f16fB19478766A268F172C9480f8da1a7c9C3",
             "decimals": 9,
             "name": "Time",
             "symbol": "TIME",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb54f16fB19478766A268F172C9480f8da1a7c9C3/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x0dd2d581994132C919827A2d5401ed6FFDAEFFc9",
-            "decimals": 18,
-            "name": "Amogus.Finance",
-            "symbol": "SUS",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0dd2d581994132C919827A2d5401ed6FFDAEFFc9/logo.png"
         },
         {
             "chainId": 43114,
@@ -342,14 +286,6 @@
             "symbol": "FRAX",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98/logo.png"
         },
-        {
-            "chainId": 43114,
-            "address": "0xDd453dBD253fA4E5e745047d93667Ce9DA93bbCF",
-            "decimals": 18,
-            "name": "Zabu Token",
-            "symbol": "ZABU",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xDd453dBD253fA4E5e745047d93667Ce9DA93bbCF/logo.png"
-        }, 
         {
             "chainId": 43114,
             "address": "0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e",
@@ -381,7 +317,23 @@
             "name": "Ape In",
             "symbol": "APEIN",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x938FE3788222A74924E062120E7BFac829c719Fb/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xF9A075C9647e91410bF6C402bDF166e1540f67F0",
+            "decimals": 18,
+            "name": "Sing Token",
+            "symbol": "SING",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xF9A075C9647e91410bF6C402bDF166e1540f67F0/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x88c090496125b751B4E3ce4d3FDB8E47DD079c57",
+            "decimals": 18,
+            "name": "Dragon Egg",
+            "symbol": "DREGG",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x88c090496125b751B4E3ce4d3FDB8E47DD079c57/logo.png"
         }
     ],
-    "timestamp": "2021-09-12T02:00:00+00:00"
+    "timestamp": "2021-09-18T02:00:00+00:00"
 }
