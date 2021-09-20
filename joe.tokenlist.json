@@ -9,7 +9,7 @@
         "trader joe"
     ],
     "version": {
-        "major": 38,
+        "major": 39,
         "minor": 0,
         "patch": 0
     },
@@ -341,6 +341,22 @@
             "name": "Mini Yak",
             "symbol": "mYAK",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x264c1383EA520f73dd837F915ef3a732e204a493",
+            "decimals": 18,
+            "name": "Binance",
+            "symbol": "BNB",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x264c1383EA520f73dd837F915ef3a732e204a493/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
+            "decimals": 18,
+            "name": "Beefy Finance",
+            "symbol": "BIFI",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd6070ae98b8069de6B494332d1A1a81B6179D960/logo.png"
         }
     ],
     "timestamp": "2021-09-18T02:00:00+00:00"
