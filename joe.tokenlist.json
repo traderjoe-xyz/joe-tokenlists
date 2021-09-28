@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "ethereum", "trader joe"],
   "version": {
-    "major": 41,
+    "major": 42,
     "minor": 0,
     "patch": 0
   },
@@ -71,14 +71,6 @@
       "name": "Snowball",
       "symbol": "SNOB",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xC38f41A296A4493Ff429F1238e030924A1542e50/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084",
-      "decimals": 18,
-      "name": "LydiaFinance Token",
-      "symbol": "LYD",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo.png"
     },
     {
       "chainId": 43114,
@@ -383,7 +375,23 @@
       "name": "Kalao Token",
       "symbol": "KLO",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4fbf0429599460D327BD5F55625E30E4fC066095",
+      "decimals": 18,
+      "name": "TSD Stablecoin",
+      "symbol": "TSD",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4fbf0429599460D327BD5F55625E30E4fC066095/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC",
+      "decimals": 18,
+      "name": "TEDDY",
+      "symbol": "TEDDY",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png"
     }
   ],
-  "timestamp": "2021-09-26T02:00:00+00:00"
+  "timestamp": "2021-09-28T02:00:00+00:00"
 }
