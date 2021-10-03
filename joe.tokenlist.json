@@ -391,6 +391,14 @@
       "name": "TEDDY",
       "symbol": "TEDDY",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
+      "decimals": 18,
+      "name": "IceToken",
+      "symbol": "ICE",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe0Ce60AF0850bF54072635e66E79Df17082A1109/logo.png"
     }
   ],
   "timestamp": "2021-09-28T02:00:00+00:00"
