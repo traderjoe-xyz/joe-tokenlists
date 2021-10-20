@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "ethereum", "trader joe"],
   "version": {
-    "major": 45,
+    "major": 46,
     "minor": 0,
     "patch": 0
   },
@@ -407,7 +407,15 @@
       "name": "ROCO",
       "symbol": "ROCO",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xCC2f1d827b18321254223dF4e84dE399D9Ff116c",
+      "decimals": 18,
+      "name": "SmartCoin",
+      "symbol": "SMRT",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xCC2f1d827b18321254223dF4e84dE399D9Ff116c/logo.png"
     }
   ],
-  "timestamp": "2021-10-20T02:00:00+00:00"
+  "timestamp": "2021-10-20T11:00:00+00:00"
 }
