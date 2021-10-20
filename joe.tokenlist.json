@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "ethereum", "trader joe"],
   "version": {
-    "major": 43,
+    "major": 44,
     "minor": 0,
     "patch": 0
   },
@@ -103,14 +103,6 @@
       "name": "Elk",
       "symbol": "ELK",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x617724974218A18769020A70162165A539c07E8a",
-      "decimals": 18,
-      "name": "OliveCash Token",
-      "symbol": "OLIVE",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x617724974218A18769020A70162165A539c07E8a/logo.png"
     },
     {
       "chainId": 43114,
@@ -407,7 +399,15 @@
       "name": "BooFinance",
       "symbol": "BOOFI",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
+      "decimals": 18,
+      "name": "ROCO",
+      "symbol": "ROCO",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo.png"
     }
   ],
-  "timestamp": "2021-10-14T07:58:40+00:00"
+  "timestamp": "2021-10-20T02:00:00+00:00"
 }
