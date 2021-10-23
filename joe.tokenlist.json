@@ -3,14 +3,14 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 47,
+    "major": 48,
     "minor": 0,
     "patch": 0
   },
   "tokens": [
     {
       "chainId": 4,
-      "address": "0x23fc76B53882d8dcaB1900f0D3C1C0c504Ffb8E3",
+      "address": "0xce347E069B68C53A9ED5e7DA5952529cAF8ACCd4",
       "decimals": 18,
       "name": "JoeToken",
       "symbol": "JOE",
