@@ -1,9 +1,9 @@
 {
   "name": "Trader Joe Default",
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
-  "keywords": ["avalanche", "defi", "joe", "ethereum", "trader joe"],
+  "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 46,
+    "major": 47,
     "minor": 0,
     "patch": 0
   },
@@ -31,6 +31,38 @@
       "name": "Wrapped AVAX",
       "symbol": "WAVAX",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+    },
+    {
+      "chainId": 4,
+      "address": "0x5b8470fbc6B31038aa07aBD3010aCffCA6E36611",
+      "decimals": 18,
+      "name": "Fake USDT",
+      "symbol": "fUSDT",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10/logo.png"
+    },
+    {
+      "chainId": 4,
+      "address": "0x7Ea26570ef0d86D02B4f79266f84D2956AEBBd65",
+      "decimals": 18,
+      "name": "TUNA",
+      "symbol": "TUNA",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7Ea26570ef0d86D02B4f79266f84D2956AEBBd65/logo.png"
+    },
+    {
+      "chainId": 4,
+      "address": "0xf515FE956c41F8D919b3f5730943959b169555d3",
+      "decimals": 18,
+      "name": "BACON",
+      "symbol": "BACON",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf515FE956c41F8D919b3f5730943959b169555d3/logo.png"
+    },
+    {
+      "chainId": 4,
+      "address": "0x4d34D1e14129537619f04173e344600F4c092DEb",
+      "decimals": 18,
+      "name": "PIG",
+      "symbol": "PIG",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4d34D1e14129537619f04173e344600F4c092DEb/logo.png"
     },
     {
       "chainId": 43114,
