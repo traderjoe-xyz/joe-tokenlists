@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 48,
+    "major": 49,
     "minor": 0,
     "patch": 0
   },
@@ -447,7 +447,23 @@
       "name": "SmartCoin",
       "symbol": "SMRT",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xCC2f1d827b18321254223dF4e84dE399D9Ff116c/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x027dbcA046ca156De9622cD1e2D907d375e53aa7",
+      "decimals": 9,
+      "name": "Ampleforth",
+      "symbol": "AMPL",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x027dbcA046ca156De9622cD1e2D907d375e53aa7/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21",
+      "decimals": 18,
+      "name": "Oh Finance",
+      "symbol": "OH",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21/logo.png"
     }
   ],
-  "timestamp": "2021-10-20T11:00:00+00:00"
+  "timestamp": "2021-10-26T00:00:00+00:00"
 }
