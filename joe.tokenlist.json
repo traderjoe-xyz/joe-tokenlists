@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
     "major": 51,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
@@ -15,6 +15,14 @@
       "name": "JoeToken",
       "symbol": "JOE",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x23fc76B53882d8dcaB1900f0D3C1C0c504Ffb8E3/logo.png"
+    },
+    {
+      "chainId": 4,
+      "address": "0xdb333724fAE72b4253FC3d44c8270CBBC86d147b",
+      "decimals": 18,
+      "name": "Cabbage.Cash",
+      "symbol": "CABAG",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xdb333724fAE72b4253FC3d44c8270CBBC86d147b/logo.png"
     },
     {
       "chainId": 4,
