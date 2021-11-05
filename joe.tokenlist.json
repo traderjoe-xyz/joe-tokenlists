@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 52,
+    "major": 53,
     "minor": 0,
     "patch": 0
   },
@@ -487,7 +487,15 @@
       "name": "MAI Stablecoin",
       "symbol": "MAI",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x3Ee97d514BBef95a2f110e6B9b73824719030f7a",
+      "decimals": 18,
+      "name": "Staked Spell",
+      "symbol": "sSpell",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3Ee97d514BBef95a2f110e6B9b73824719030f7a/logo.png"
     }
   ],
-  "timestamp": "2021-11-05T00:00:00+00:00"
+  "timestamp": "2021-11-05T03:00:00+00:00"
 }
