@@ -138,14 +138,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D",
-      "decimals": 18,
-      "name": "WebleEcosystemToken",
-      "symbol": "WET",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6",
       "decimals": 18,
       "name": "Sherpa",
@@ -218,14 +210,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0xD769bDFc0CaEe933dc0a047C7dBad2Ec42CFb3E2",
-      "decimals": 18,
-      "name": "ChartEx",
-      "symbol": "CHART",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD769bDFc0CaEe933dc0a047C7dBad2Ec42CFb3E2/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
       "decimals": 18,
       "name": "Benqi",
@@ -266,14 +250,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
-      "decimals": 18,
-      "name": "Eleven Finance",
-      "symbol": "ELE",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0x1f1E7c893855525b303f99bDF5c3c05Be09ca251",
       "decimals": 18,
       "name": "Synapse",
@@ -298,14 +274,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e",
-      "decimals": 18,
-      "name": "MAI-OLD",
-      "symbol": "MAI-OLD",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0x90842eb834cFD2A1DB0b1512B254a18E4D396215",
       "decimals": 9,
       "name": "Good Bridging",
@@ -319,38 +287,6 @@
       "name": "Spell Token",
       "symbol": "SPELL",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x938FE3788222A74924E062120E7BFac829c719Fb",
-      "decimals": 18,
-      "name": "Ape In",
-      "symbol": "APEIN",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x938FE3788222A74924E062120E7BFac829c719Fb/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xF9A075C9647e91410bF6C402bDF166e1540f67F0",
-      "decimals": 18,
-      "name": "Sing Token",
-      "symbol": "SING",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xF9A075C9647e91410bF6C402bDF166e1540f67F0/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x88c090496125b751B4E3ce4d3FDB8E47DD079c57",
-      "decimals": 18,
-      "name": "Dragon Egg",
-      "symbol": "DREGG",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x88c090496125b751B4E3ce4d3FDB8E47DD079c57/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604",
-      "decimals": 12,
-      "name": "Mini Yak",
-      "symbol": "mYAK",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604/logo.png"
     },
     {
       "chainId": 43114,
@@ -386,14 +322,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76",
-      "decimals": 18,
-      "name": "Sushi Token",
-      "symbol": "SUSHI.e",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0xb27c8941a7Df8958A1778c0259f76D1F8B711C35",
       "decimals": 18,
       "name": "Kalao Token",
@@ -426,27 +354,11 @@
     },
     {
       "chainId": 43114,
-      "address": "0xb00f1ad977a949a3ccc389ca1d1282a2946963b0",
-      "decimals": 18,
-      "name": "BooFinance",
-      "symbol": "BOOFI",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
       "decimals": 18,
       "name": "ROCO",
       "symbol": "ROCO",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xCC2f1d827b18321254223dF4e84dE399D9Ff116c",
-      "decimals": 18,
-      "name": "SmartCoin",
-      "symbol": "SMRT",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xCC2f1d827b18321254223dF4e84dE399D9Ff116c/logo.png"
     },
     {
       "chainId": 43114,
