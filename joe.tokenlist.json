@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 53,
+    "major": 54,
     "minor": 0,
     "patch": 0
   },
@@ -495,7 +495,15 @@
       "name": "Staked Spell",
       "symbol": "sSpell",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3Ee97d514BBef95a2f110e6B9b73824719030f7a/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x0f34919404a290e71fc6A510cB4a6aCb8D764b24",
+      "decimals": 18,
+      "name": "Blizz.Finance",
+      "symbol": "BLZZ",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0f34919404a290e71fc6A510cB4a6aCb8D764b24/logo.png"
     }
   ],
-  "timestamp": "2021-11-05T03:00:00+00:00"
+  "timestamp": "2021-11-08T00:00:00+00:00"
 }
