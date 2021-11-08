@@ -8,6 +8,9 @@ Create an issue with the following info:
 
 Tokens are added to tokenlists by JOE team based on market demand and other metrics. 
 
+## HOW TO WHITELIST YOUR TOKEN
+Tokenlist is rebalanced weekly, roughly speaking we add tokens that are top 30 in daily volume, and remove tokens that are below top 40. 
+
 ## Have more questions?
 Come visit us on discord at our `dev-talk` channel. 
 Link: https://discord.com/invite/GHZceZhbZU
