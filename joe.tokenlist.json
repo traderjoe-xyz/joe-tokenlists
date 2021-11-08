@@ -419,7 +419,7 @@
     {
       "chainId": 43114,
       "address": "0x7d1232B90D3F809A54eeaeeBC639C62dF8a8942f",
-      "decimals": 18,
+      "decimals": 9,
       "name": "Snowbank",
       "symbol": "SB",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7d1232B90D3F809A54eeaeeBC639C62dF8a8942f/logo.png"
