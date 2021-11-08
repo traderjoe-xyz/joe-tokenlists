@@ -511,6 +511,14 @@
       "name": "Snowbank",
       "symbol": "SB",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7d1232B90D3F809A54eeaeeBC639C62dF8a8942f/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8CD309e14575203535EF120b5b0Ab4DDeD0C2073",
+      "decimals": 18,
+      "name": "Wrapped sOHM",
+      "symbol": "wsOHM",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8CD309e14575203535EF120b5b0Ab4DDeD0C2073/logo.png"
     }
   ],
   "timestamp": "2021-11-08T00:00:00+00:00"
