@@ -4,7 +4,7 @@ Tokenlists for the Trader Joe, the top 1 DEX on Avalanche.
 ## HOW TO ADD YOUR LOGO
 Create an issue with the following info:
 - c-chain address
-- token logo 300X300 PNG
+- token logo 200X200 PNG
 
 Tokens are added to tokenlists by JOE team based on market demand and other metrics. 
 
