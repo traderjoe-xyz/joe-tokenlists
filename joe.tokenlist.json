@@ -487,6 +487,14 @@
       "name": "SpookyToken",
       "symbol": "BOO",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xbD83010eB60F12112908774998F65761cf9f6f9a/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xbD83010eB60F12112908774998F65761cf9f6f9a",
+      "decimals": 18,
+      "name": "Qi Dao Protocol",
+      "symbol": "QI",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA56F9A54880afBc30CF29bB66d2D9ADCdcaEaDD6/logo.png"
     }
   ],
   "timestamp": "2021-11-17T00:00:00+00:00"
