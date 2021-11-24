@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 58,
+    "major": 59,
     "minor": 0,
     "patch": 0
   },
@@ -218,14 +218,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1",
-      "decimals": 18,
-      "name": "SHIBAVAX",
-      "symbol": "SHIBX",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
       "decimals": 6,
       "name": "USD Coin",
@@ -266,14 +258,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98",
-      "decimals": 18,
-      "name": "Frax",
-      "symbol": "FRAX",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0x90842eb834cFD2A1DB0b1512B254a18E4D396215",
       "decimals": 9,
       "name": "Good Bridging",
@@ -303,14 +287,6 @@
       "name": "Beefy Finance",
       "symbol": "BIFI",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd6070ae98b8069de6B494332d1A1a81B6179D960/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xB147656604217a03Fe2c73c4838770DF8d9D21B8",
-      "decimals": 18,
-      "name": "Blizzard",
-      "symbol": "BLIZZ",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB147656604217a03Fe2c73c4838770DF8d9D21B8/logo.png"
     },
     {
       "chainId": 43114,
@@ -487,7 +463,31 @@
       "name": "SpookyToken",
       "symbol": "BOO",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xbD83010eB60F12112908774998F65761cf9f6f9a/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x01c5E2a4af2bd9f62c7d55C6105b8a64e6905be5",
+      "decimals": 9,
+      "name": "Hatter",
+      "symbol": "HATTER",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x01c5E2a4af2bd9f62c7d55C6105b8a64e6905be5/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xde9e52f1838951e4d2bb6c59723b003c353979b6",
+      "decimals": 9,
+      "name": "Snowdog",
+      "symbol": "SDOG",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xde9e52f1838951e4d2bb6c59723b003c353979b6/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb8EF3a190b68175000B74B4160d325FD5024760e",
+      "decimals": 9,
+      "name": "R U Generous",
+      "symbol": "RUG",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb8EF3a190b68175000B74B4160d325FD5024760e/logo.png"
     }
   ],
-  "timestamp": "2021-11-17T00:00:00+00:00"
+  "timestamp": "2021-11-24T00:00:00+00:00"
 }
