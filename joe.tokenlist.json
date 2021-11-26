@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 60,
+    "major": 61,
     "minor": 0,
     "patch": 0
   },
@@ -391,14 +391,6 @@
       "name": "Blizz.Finance",
       "symbol": "BLZZ",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0f34919404a290e71fc6A510cB4a6aCb8D764b24/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x7d1232B90D3F809A54eeaeeBC639C62dF8a8942f",
-      "decimals": 9,
-      "name": "Snowbank",
-      "symbol": "SB",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7d1232B90D3F809A54eeaeeBC639C62dF8a8942f/logo.png"
     },
     {
       "chainId": 43114,
