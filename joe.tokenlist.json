@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 59,
+    "major": 60,
     "minor": 0,
     "patch": 0
   },
@@ -474,20 +474,28 @@
     },
     {
       "chainId": 43114,
-      "address": "0xde9e52f1838951e4d2bb6c59723b003c353979b6",
-      "decimals": 9,
-      "name": "Snowdog",
-      "symbol": "SDOG",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xde9e52f1838951e4d2bb6c59723b003c353979b6/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0xb8EF3a190b68175000B74B4160d325FD5024760e",
       "decimals": 9,
       "name": "R U Generous",
       "symbol": "RUG",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb8EF3a190b68175000B74B4160d325FD5024760e/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D",
+      "decimals": 18,
+      "name": "Defrost Finance Token",
+      "symbol": "MELT",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8aE8be25C23833e0A01Aa200403e826F611f9CD2",
+      "decimals": 18,
+      "name": "CRAFT",
+      "symbol": "CRAFT",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png"
     }
   ],
-  "timestamp": "2021-11-24T00:00:00+00:00"
+  "timestamp": "2021-11-26T00:00:00+00:00"
 }
