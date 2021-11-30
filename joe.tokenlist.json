@@ -487,6 +487,13 @@
       "name": "CRAFT",
       "symbol": "CRAFT",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png"
+    },    {
+      "chainId": 43114,
+      "address": "0x679c264bf4BB68bBdd92BB73CDBb651F27F6c566",
+      "decimals": 18,
+      "name": "Spongebob",
+      "symbol": "Sponge",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x679c264bf4BB68bBdd92BB73CDBb651F27F6c566/logo.png"
     }
   ],
   "timestamp": "2021-11-26T00:00:00+00:00"
