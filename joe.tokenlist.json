@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 61,
+    "major": 62,
     "minor": 0,
     "patch": 0
   },
@@ -487,7 +487,15 @@
       "name": "CRAFT",
       "symbol": "CRAFT",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x321E7092a180BB43555132ec53AaA65a5bF84251",
+      "decimals": 18,
+      "name": "Governance OHM",
+      "symbol": "gOHM",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x321E7092a180BB43555132ec53AaA65a5bF84251/logo.png"
     }
   ],
-  "timestamp": "2021-11-26T00:00:00+00:00"
+  "timestamp": "2021-11-30T00:00:00+00:00"
 }
