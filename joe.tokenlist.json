@@ -487,6 +487,14 @@
       "name": "CRAFT",
       "symbol": "CRAFT",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf",
+      "decimals": 18,
+      "name": "Canary",
+      "symbol": "CNR",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf/logo.png"
     }
   ],
   "timestamp": "2021-11-26T00:00:00+00:00"
