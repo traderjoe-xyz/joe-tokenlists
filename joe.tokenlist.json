@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 62,
+    "major": 63,
     "minor": 0,
     "patch": 0
   },
@@ -495,7 +495,15 @@
       "name": "Governance OHM",
       "symbol": "gOHM",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x321E7092a180BB43555132ec53AaA65a5bF84251/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xa27a92a4b5c0aed1d1e41abea25897e8fff6cefd",
+      "decimals": 18,
+      "name": "Hash",
+      "symbol": "$HASH",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xa27a92a4b5c0aed1d1e41abea25897e8fff6cefd/logo.png"
     }
   ],
-  "timestamp": "2021-11-30T00:00:00+00:00"
+  "timestamp": "2021-12-01T00:00:00+00:00"
 }
