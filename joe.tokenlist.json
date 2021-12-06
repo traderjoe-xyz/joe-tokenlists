@@ -503,6 +503,14 @@
       "name": "AWOOL",
       "symbol": "aWOOL",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5eDE350E84223fb50775fD91a723F2ca71034cf7/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xF2F7CE610a091B94d41D69f4fF1129434a82E2f0",
+      "decimals": 9,
+      "name": "Galaxy Goggle",
+      "symbol": "GG",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xF2F7CE610a091B94d41D69f4fF1129434a82E2f0/logo.png"
     }
   ],
   "timestamp": "2021-12-01T00:00:00+00:00"
