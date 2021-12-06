@@ -503,14 +503,6 @@
       "name": "AWOOL",
       "symbol": "aWOOL",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5eDE350E84223fb50775fD91a723F2ca71034cf7/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x563CA8141849CdBC70201554b6CF20A2D469EA81",
-      "decimals": 9,
-      "name": "FUCVAX",
-      "symbol": "FVAX",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x563CA8141849CdBC70201554b6CF20A2D469EA81/logo.png"
     }
   ],
   "timestamp": "2021-12-01T00:00:00+00:00"
