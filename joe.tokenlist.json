@@ -503,6 +503,14 @@
       "name": "AWOOL",
       "symbol": "aWOOL",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5eDE350E84223fb50775fD91a723F2ca71034cf7/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x0755FA2F4AA6311E1D7C19990416c86F17D16F86",
+      "decimals": 6,
+      "name": "ETHP",
+      "symbol": "ETHP",
+      "logoURI": "https://github.com/ETHPrint/joe-tokenlists/tree/main/logos/0x0755FA2F4AA6311E1D7C19990416c86F17D16F86"
     }
   ],
   "timestamp": "2021-12-01T00:00:00+00:00"
