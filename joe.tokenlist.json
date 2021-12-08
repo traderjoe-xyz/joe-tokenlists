@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 63,
+    "major": 64,
     "minor": 3,
     "patch": 0
   },
@@ -399,7 +399,7 @@
       "name": "Wrapped sOHM",
       "symbol": "wsOHM",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8CD309e14575203535EF120b5b0Ab4DDeD0C2073/logo.png"
-    }, 
+    },
     {
       "chainId": 43114,
       "address": "0x72699ba15CC734F8db874fa9652c8DE12093F187",
@@ -407,7 +407,7 @@
       "name": "Growth-Peg Token",
       "symbol": "GRO",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x72699ba15CC734F8db874fa9652c8DE12093F187/logo.png"
-    }, 
+    },
     {
       "chainId": 43114,
       "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
@@ -415,7 +415,7 @@
       "name": "Pendle",
       "symbol": "PENDLE",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfB98B335551a418cD0737375a2ea0ded62Ea213b/logo.png"
-    }, 
+    },
     {
       "chainId": 43114,
       "address": "0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D",
@@ -423,7 +423,7 @@
       "name": "Stabilize USD",
       "symbol": "SUSD",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D/logo.png"
-    }, 
+    },
     {
       "chainId": 43114,
       "address": "0x37d87e316CB4e35163881fDb6c6Bc0CdBa91dc0A",
@@ -439,7 +439,7 @@
       "name": "Crabada Token",
       "symbol": "CRA",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed/logo.png"
-    }, 
+    },
     {
       "chainId": 43114,
       "address": "0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172",
@@ -515,7 +515,7 @@
     {
       "chainId": 43114,
       "address": "0x245C2591403e182e41d7A851eab53B01854844CE",
-      "decimals": 18,
+      "decimals": 8,
       "name": "THORS MEAD",
       "symbol": "MEAD",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x245C2591403e182e41d7A851eab53B01854844CE/logo.png"
