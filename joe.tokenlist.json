@@ -519,22 +519,6 @@
       "name": "THORS MEAD",
       "symbol": "MEAD",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x245C2591403e182e41d7A851eab53B01854844CE/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xb5d5ee72dff1c32dc2f1f27bf6781319cb8924b4",
-      "decimals": 18,
-      "name": "PoofCash",
-      "symbol": "POOF",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb5d5ee72dff1c32dc2f1f27bf6781319cb8924b4/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xc7d074c525f04b39f21e6f8c84c9fefcc980f49d",
-      "decimals": 18,
-      "name": "Poof AVAX",
-      "symbol": "pAVAX",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc7d074c525f04b39f21e6f8c84c9fefcc980f49d/logo.png"
     }
   ],
   "timestamp": "2021-12-08T00:00:00+00:00"
