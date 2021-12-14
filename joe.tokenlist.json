@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 65,
+    "major": 66,
     "minor": 0,
     "patch": 0
   },
@@ -220,7 +220,7 @@
       "chainId": 43114,
       "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
       "decimals": 6,
-      "name": "USD Coin",
+      "name": "USD Coin - Bridged",
       "symbol": "USDC.e",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
     },
@@ -511,7 +511,15 @@
       "name": "GalaxyGoggle",
       "symbol": "GG",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xF2F7CE610a091B94d41D69f4fF1129434a82E2f0/logo.png"
-    }    
+    },
+    {
+      "chainId": 43114,
+      "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+      "decimals": 6,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
+    }
   ],
-  "timestamp": "2021-12-10T00:00:00+00:00"
+  "timestamp": "2021-12-14T00:00:00+00:00"
 }
