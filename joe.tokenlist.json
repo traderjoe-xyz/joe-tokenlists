@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
     "major": 66,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
@@ -519,7 +519,15 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x026187BdbC6b751003517bcb30Ac7817D5B766f8",
+      "decimals": 18,
+      "name": "Defrost Finance H2O",
+      "symbol": "H2O",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo.png"
     }
   ],
-  "timestamp": "2021-12-14T00:00:00+00:00"
+  "timestamp": "2021-12-15T00:00:00+00:00"
 }
