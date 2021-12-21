@@ -8,7 +8,7 @@ Submit pull request by adding your token logo 200X200 PNG. If logo is not png or
 
 #### Normal Application
 Create an issue with the following info:
-- c-chain address
+- c-chain checksummed address
 - token logo 200X200 PNG
 - submissions with links intead of attached images will be rejected. 
 - submissions with invalid c-chain address will be rejected. 
