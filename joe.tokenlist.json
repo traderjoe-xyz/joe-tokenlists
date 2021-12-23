@@ -3,8 +3,8 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 66,
-    "minor": 2,
+    "major": 67,
+    "minor": 0,
     "patch": 0
   },
   "tokens": [
@@ -39,30 +39,6 @@
       "name": "Fake USDT",
       "symbol": "fUSDT",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10/logo.png"
-    },
-    {
-      "chainId": 4,
-      "address": "0x7Ea26570ef0d86D02B4f79266f84D2956AEBBd65",
-      "decimals": 18,
-      "name": "TUNA",
-      "symbol": "TUNA",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7Ea26570ef0d86D02B4f79266f84D2956AEBBd65/logo.png"
-    },
-    {
-      "chainId": 4,
-      "address": "0xf515FE956c41F8D919b3f5730943959b169555d3",
-      "decimals": 18,
-      "name": "BACON",
-      "symbol": "BACON",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf515FE956c41F8D919b3f5730943959b169555d3/logo.png"
-    },
-    {
-      "chainId": 4,
-      "address": "0x4d34D1e14129537619f04173e344600F4c092DEb",
-      "decimals": 18,
-      "name": "PIG",
-      "symbol": "PIG",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4d34D1e14129537619f04173e344600F4c092DEb/logo.png"
     },
     {
       "chainId": 43114,
@@ -135,14 +111,6 @@
       "name": "Elk",
       "symbol": "ELK",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6",
-      "decimals": 18,
-      "name": "Sherpa",
-      "symbol": "SHERPA",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo.png"
     },
     {
       "chainId": 43114,
@@ -258,14 +226,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x90842eb834cFD2A1DB0b1512B254a18E4D396215",
-      "decimals": 9,
-      "name": "Good Bridging",
-      "symbol": "GB",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
       "decimals": 18,
       "name": "Spell Token",
@@ -330,14 +290,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21",
-      "decimals": 18,
-      "name": "Oh Finance",
-      "symbol": "OH",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0x6D923f688C7FF287dc3A5943CAeefc994F97b290",
       "decimals": 18,
       "name": "SmarterCoin",
@@ -359,14 +311,6 @@
       "name": "MAI Stablecoin",
       "symbol": "MAI",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x3Ee97d514BBef95a2f110e6B9b73824719030f7a",
-      "decimals": 18,
-      "name": "Staked Spell",
-      "symbol": "sSpell",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3Ee97d514BBef95a2f110e6B9b73824719030f7a/logo.png"
     },
     {
       "chainId": 43114,
@@ -426,22 +370,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x01c5E2a4af2bd9f62c7d55C6105b8a64e6905be5",
-      "decimals": 9,
-      "name": "Hatter",
-      "symbol": "HATTER",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x01c5E2a4af2bd9f62c7d55C6105b8a64e6905be5/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xb8EF3a190b68175000B74B4160d325FD5024760e",
-      "decimals": 9,
-      "name": "R U Generous",
-      "symbol": "RUG",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb8EF3a190b68175000B74B4160d325FD5024760e/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D",
       "decimals": 18,
       "name": "Defrost Finance Token",
@@ -493,7 +421,7 @@
       "address": "0xaBC9547B534519fF73921b1FBA6E672b5f58D083",
       "decimals": 18,
       "name": "Wootrade Network",
-      "symbol": "WOO",
+      "symbol": "WOO.e",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xaBC9547B534519fF73921b1FBA6E672b5f58D083/logo.png"
     },
     {
@@ -535,7 +463,31 @@
       "name": "Platypus",
       "symbol": "PTP",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x22d4002028f537599bE9f666d1c4Fa138522f9c8/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f",
+      "decimals": 18,
+      "name": "Alpha",
+      "symbol": "ALPHA.e",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1",
+      "decimals": 18,
+      "name": "Tomb Finance",
+      "symbol": "TOMB",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6",
+      "decimals": 18,
+      "name": "Imperium Empires Token",
+      "symbol": "IME",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6/logo.png"
     }    
   ],
-  "timestamp": "2021-12-16T00:00:00+00:00"
+  "timestamp": "2021-12-23T00:00:00+00:00"
 }
