@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
     "major": 67,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
@@ -487,7 +487,15 @@
       "name": "Imperium Empires Token",
       "symbol": "IME",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf",
+      "decimals": 18,
+      "name": "Pollen",
+      "symbol": "PLN",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf/logo.png"
     }    
   ],
-  "timestamp": "2021-12-23T00:00:00+00:00"
+  "timestamp": "2021-12-26T00:00:00+00:00"
 }
