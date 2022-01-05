@@ -3,8 +3,8 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 67,
-    "minor": 4,
+    "major": 68,
+    "minor": 0,
     "patch": 0
   },
   "tokens": [
@@ -434,14 +434,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0xF2F7CE610a091B94d41D69f4fF1129434a82E2f0",
-      "decimals": 9,
-      "name": "GalaxyGoggle",
-      "symbol": "GG",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xF2F7CE610a091B94d41D69f4fF1129434a82E2f0/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
       "decimals": 6,
       "name": "USD Coin",
@@ -527,7 +519,23 @@
         "name": "Boo Finance Token",
         "symbol": "BOOFI",
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+      "decimals": 18,
+      "name": "FRAX",
+      "symbol": "FRAX",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x214DB107654fF987AD859F34125307783fC8e387",
+      "decimals": 18,
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x214DB107654fF987AD859F34125307783fC8e387/logo.png"
     }
   ],
-  "timestamp": "2021-01-03T00:00:00+00:00"
+  "timestamp": "2021-01-05T00:00:00+00:00"
 }
