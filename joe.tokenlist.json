@@ -551,6 +551,14 @@
       "name": "Islander",
       "symbol": "ISA",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5",
+      "decimals": 18,
+      "name": "FIRE",
+      "symbol": "FIRE",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5/logo.png"
     }
   ],
   "timestamp": "2021-01-07T00:00:00+00:00"
