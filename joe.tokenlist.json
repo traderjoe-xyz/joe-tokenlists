@@ -551,6 +551,14 @@
       "name": "Islander",
       "symbol": "ISA",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5fc17416925789e0852fbfcd81c490ca4abc51f9",
+      "decimals": 18,
+      "name": "inSure DeFi",
+      "symbol": "SURE",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5fc17416925789e0852fbfcd81c490ca4abc51f9/logo.png"
     }
   ],
   "timestamp": "2021-01-07T00:00:00+00:00"
