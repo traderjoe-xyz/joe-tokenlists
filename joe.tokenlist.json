@@ -3,8 +3,8 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 68,
-    "minor": 1,
+    "major": 69,
+    "minor": 0,
     "patch": 0
   },
   "tokens": [
@@ -191,14 +191,6 @@
       "name": "USD Coin - Bridged",
       "symbol": "USDC.e",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5",
-      "decimals": 9,
-      "name": "Ape-X",
-      "symbol": "APE-X",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5/logo.png"
     },
     {
       "chainId": 43114,
@@ -394,14 +386,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x5eDE350E84223fb50775fD91a723F2ca71034cf7",
-      "decimals": 9,
-      "name": "AWOOL",
-      "symbol": "aWOOL",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5eDE350E84223fb50775fD91a723F2ca71034cf7/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
       "decimals": 18,
       "name": "Colony Token",
@@ -551,7 +535,15 @@
       "name": "Islander",
       "symbol": "ISA",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x637afeff75ca669fF92e4570B14D6399A658902f",
+      "decimals": 18,
+      "name": "Poly-Peg Cook",
+      "symbol": "COOK",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png"
     }
   ],
-  "timestamp": "2021-01-07T00:00:00+00:00"
+  "timestamp": "2021-01-12T00:00:00+00:00"
 }
