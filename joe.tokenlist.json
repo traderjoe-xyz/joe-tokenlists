@@ -543,6 +543,14 @@
       "name": "Poly-Peg Cook",
       "symbol": "COOK",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1263fEA931b86f3e8cE8AFBf29f66631b7be9347",
+      "decimals": 18,
+      "name": "BNPL Pay",
+      "symbol": "BNPL",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1263fEA931b86f3e8cE8AFBf29f66631b7be9347/logo.png"
     }
   ],
   "timestamp": "2021-01-12T00:00:00+00:00"
