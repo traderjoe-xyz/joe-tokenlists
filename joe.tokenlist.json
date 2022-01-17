@@ -58,6 +58,14 @@
     },
     {
       "chainId": 43114,
+      "address": "0xc7f4debc8072e23fe9259a5c0398326d8efb7f5c",
+      "decimals": 18,
+      "name": "HeroesChained",
+      "symbol": "HeC",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc7f4debc8072e23fe9259a5c0398326d8efb7f5c/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       "decimals": 18,
       "name": "Wrapped AVAX",
