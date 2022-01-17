@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 70,
+    "major": 71,
     "minor": 0,
     "patch": 0
   },
@@ -263,14 +263,6 @@
       "name": "IceToken",
       "symbol": "ICE",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe0Ce60AF0850bF54072635e66E79Df17082A1109/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
-      "decimals": 18,
-      "name": "ROCO",
-      "symbol": "ROCO",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo.png"
     },
     {
       "chainId": 43114,
