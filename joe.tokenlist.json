@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
     "major": 72,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
@@ -559,6 +559,22 @@
       "name": "GMX",
       "symbol": "GMX",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x62edc0692BD897D2295872a9FFCac5425011c661/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30",
+      "decimals": 18,
+      "name": "Dragon Crypto Aurum",
+      "symbol": "DCAU",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C",
+      "decimals": 18,
+      "name": "Ferrum Network Token",
+      "symbol": "FRM",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C/logo.png"
     }
   ],
   "timestamp": "2021-01-19T00:00:00+00:00"
