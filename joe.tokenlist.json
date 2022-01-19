@@ -552,6 +552,14 @@
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
     }
+    {
+      "chainId": 43114,
+      "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+      "decimals": 18,
+      "name": "GMX",
+      "symbol": "GMX",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x62edc0692BD897D2295872a9FFCac5425011c661/logo.png"
+    }
   ],
   "timestamp": "2021-01-17T00:00:00+00:00"
 }
