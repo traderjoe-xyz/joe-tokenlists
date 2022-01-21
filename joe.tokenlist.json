@@ -583,6 +583,14 @@
       "name": "THOR v2",
       "symbol": "THOR",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xc6a93d06dba88825020ae421913f63068241ce12",
+      "decimals": 8,
+      "name": "NekoChain",
+      "symbol": "NKC",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc6a93d06dba88825020ae421913f63068241ce12/logo.png"
     }
   ],
   "timestamp": "2021-01-19T00:00:00+00:00"
