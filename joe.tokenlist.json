@@ -583,14 +583,6 @@
       "name": "THOR v2",
       "symbol": "THOR",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x9e20Af05AB5FED467dFDd5bb5752F7d5410C832e",
-      "decimals": 18,
-      "name": "Project X",
-      "symbol": "PXT2",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9e20Af05AB5FED467dFDd5bb5752F7d5410C832e/logo.png"
     }
   ],
   "timestamp": "2021-01-19T00:00:00+00:00"
