@@ -607,6 +607,14 @@
       "name": "Axelar Wrapped LUNA",
       "symbol": "LUNA",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x823Fd620A1382Cb9ecAC988c37d4ff9b5e9B3bbF",
+      "decimals": 9,
+      "name": "DiamondBank",
+      "symbol": "DB",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x823Fd620A1382Cb9ecAC988c37d4ff9b5e9B3bbF/logo.png"
     }
   ],
   "timestamp": "2021-01-26T00:00:00+00:00"
