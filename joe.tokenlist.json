@@ -615,6 +615,14 @@
       "name": "Hon Token",
       "symbol": "HON",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xed2b42d3c9c6e97e11755bb37df29b6375ede3eb/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4123C9A65D4B7B415E472b1eD64635472A344BA8",
+      "decimals": 9,
+      "name": "DiamondBank",
+      "symbol": "DB",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4123C9A65D4B7B415E472b1eD64635472A344BA8/logo.png"
     }
   ],
   "timestamp": "2021-01-26T00:00:00+00:00"
