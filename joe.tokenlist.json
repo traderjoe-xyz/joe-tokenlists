@@ -3,8 +3,8 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 76,
-    "minor": 2,
+    "major": 77,
+    "minor": 0,
     "patch": 0
   },
   "tokens": [
@@ -703,7 +703,31 @@
       "name": "Staked AVAX",
       "symbol": "sAVAX",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xe6E7e03b60c0F8DaAE5Db98B03831610A60FfE1B",
+      "decimals": 18,
+      "name": "Vector",
+      "symbol": "VTX",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe6E7e03b60c0F8DaAE5Db98B03831610A60FfE1B/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x060556209E507d30f2167a101bFC6D256Ed2f3e1",
+      "decimals": 18,
+      "name": "xPlatypus",
+      "symbol": "xPTP",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x060556209E507d30f2167a101bFC6D256Ed2f3e1/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xeb8343d5284caec921f035207ca94db6baaacbcd",
+      "decimals": 18,
+      "name": "Echidna",
+      "symbol": "ECD",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xeb8343d5284caec921f035207ca94db6baaacbcd/logo.png"
     }
   ],
-  "timestamp": "2021-02-16T00:00:00+00:00"
+  "timestamp": "2021-02-27T00:00:00+00:00"
 }
