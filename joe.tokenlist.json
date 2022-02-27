@@ -703,6 +703,14 @@
       "name": "Staked AVAX",
       "symbol": "sAVAX",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xe6E7e03b60c0F8DaAE5Db98B03831610A60FfE1B",
+      "decimals": 18,
+      "name": "Vector",
+      "symbol": "VTX",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe6E7e03b60c0F8DaAE5Db98B03831610A60FfE1B/logo.png"
     }
   ],
   "timestamp": "2021-02-16T00:00:00+00:00"
