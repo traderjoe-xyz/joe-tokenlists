@@ -703,6 +703,14 @@
       "name": "Staked AVAX",
       "symbol": "sAVAX",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xeb8343d5284caec921f035207ca94db6baaacbcd",
+      "decimals": 18,
+      "name": "Echidna",
+      "symbol": "ECD",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xeb8343d5284caec921f035207ca94db6baaacbcd/logo.png"
     }
   ],
   "timestamp": "2021-02-16T00:00:00+00:00"
