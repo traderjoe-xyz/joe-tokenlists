@@ -666,11 +666,11 @@
     },
     {
       "chainId": 43114,
-      "address": "0xe6E7e03b60c0F8DaAE5Db98B03831610A60FfE1B",
+      "address": "0x5817D4F0b62A59b17f75207DA1848C2cE75e7AF4",
       "decimals": 18,
       "name": "Vector",
       "symbol": "VTX",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe6E7e03b60c0F8DaAE5Db98B03831610A60FfE1B/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5817D4F0b62A59b17f75207DA1848C2cE75e7AF4/logo.png"
     },
     {
       "chainId": 43114,
