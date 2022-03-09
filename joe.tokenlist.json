@@ -735,6 +735,14 @@
       "name": "SNO Token",
       "symbol": "SNO",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1fE4869f2C5181b9CD780a7E16194FA2c4C4293D/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xafe3d2a31231230875dee1fa1eef14a412443d22",
+      "decimals": 18,
+      "name": "DeFiato",
+      "symbol": "DFIAT",
+      "logoURI": "https://github.com/defiato/joe-tokenlists/blob/main/logos/0xafe3d2a31231230875dee1fa1eef14a412443d22/logo.png"
     }
   ],
   "timestamp": "2021-03-03T00:00:00+00:00"
