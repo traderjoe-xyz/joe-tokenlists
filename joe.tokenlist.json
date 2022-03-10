@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 78,
+    "major": 80,
     "minor": 0,
     "patch": 0
   },
@@ -258,35 +258,11 @@
     },
     {
       "chainId": 43114,
-      "address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
-      "decimals": 18,
-      "name": "IceToken",
-      "symbol": "ICE",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe0Ce60AF0850bF54072635e66E79Df17082A1109/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x027dbcA046ca156De9622cD1e2D907d375e53aa7",
-      "decimals": 9,
-      "name": "Ampleforth",
-      "symbol": "AMPL",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x027dbcA046ca156De9622cD1e2D907d375e53aa7/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0x6D923f688C7FF287dc3A5943CAeefc994F97b290",
       "decimals": 18,
       "name": "SmarterCoin",
       "symbol": "SMRTr",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6D923f688C7FF287dc3A5943CAeefc994F97b290/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x542fA0B261503333B90fE60c78F2BeeD16b7b7fD",
-      "decimals": 9,
-      "name": "Tractor Joe",
-      "symbol": "TRACTOR",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x542fA0B261503333B90fE60c78F2BeeD16b7b7fD/logo.png"
     },
     {
       "chainId": 43114,
@@ -303,14 +279,6 @@
       "name": "Blizz.Finance",
       "symbol": "BLZZ",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0f34919404a290e71fc6A510cB4a6aCb8D764b24/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x8CD309e14575203535EF120b5b0Ab4DDeD0C2073",
-      "decimals": 18,
-      "name": "Wrapped sOHM",
-      "symbol": "wsOHM",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8CD309e14575203535EF120b5b0Ab4DDeD0C2073/logo.png"
     },
     {
       "chainId": 43114,
@@ -391,14 +359,6 @@
       "name": "THORS MEAD",
       "symbol": "MEAD",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x245C2591403e182e41d7A851eab53B01854844CE/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xaBC9547B534519fF73921b1FBA6E672b5f58D083",
-      "decimals": 18,
-      "name": "Wootrade Network",
-      "symbol": "WOO.e",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xaBC9547B534519fF73921b1FBA6E672b5f58D083/logo.png"
     },
     {
       "chainId": 43114,
@@ -706,11 +666,11 @@
     },
     {
       "chainId": 43114,
-      "address": "0xe6E7e03b60c0F8DaAE5Db98B03831610A60FfE1B",
+      "address": "0x5817D4F0b62A59b17f75207DA1848C2cE75e7AF4",
       "decimals": 18,
       "name": "Vector",
       "symbol": "VTX",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe6E7e03b60c0F8DaAE5Db98B03831610A60FfE1B/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5817D4F0b62A59b17f75207DA1848C2cE75e7AF4/logo.png"
     },
     {
       "chainId": 43114,
@@ -735,7 +695,47 @@
       "name": "Echidna PTP",
       "symbol": "ecdPTP",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb2C5172E5C15aF6aDD1ec92e518A5Ea1c7DeD2ad/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x490bf3ABcAb1fB5c88533d850F2a8d6D38298465",
+      "decimals": 18,
+      "name": "Playmates",
+      "symbol": "PLAYMATES",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x490bf3ABcAb1fB5c88533d850F2a8d6D38298465/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x39912D83acb4A373321387300f4FBE88Aa5d6F14",
+      "decimals": 9,
+      "name": "MidasDAO",
+      "symbol": "CROWN",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x39912D83acb4A373321387300f4FBE88Aa5d6F14/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6121191018BAf067c6Dc6B18D42329447a164F05",
+      "decimals": 18,
+      "name": "Pizza",
+      "symbol": "PIZZA",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6121191018BAf067c6Dc6B18D42329447a164F05/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xe7A102Fbc8AB3581d62830DdB599eCCaae5e7875",
+      "decimals": 18,
+      "name": "SNOSHARES",
+      "symbol": "SNOSHARES",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe7A102Fbc8AB3581d62830DdB599eCCaae5e7875/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1fE4869f2C5181b9CD780a7E16194FA2c4C4293D",
+      "decimals": 18,
+      "name": "SNO Token",
+      "symbol": "SNO",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1fE4869f2C5181b9CD780a7E16194FA2c4C4293D/logo.png"
     }
   ],
-  "timestamp": "2021-03-02T00:00:00+00:00"
+  "timestamp": "2021-03-03T00:00:00+00:00"
 }
