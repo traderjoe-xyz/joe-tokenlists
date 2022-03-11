@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
     "major": 80,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
@@ -735,7 +735,23 @@
       "name": "SNO Token",
       "symbol": "SNO",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1fE4869f2C5181b9CD780a7E16194FA2c4C4293D/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948",
+      "decimals": 18,
+      "name": "Moremoney USD",
+      "symbol": "MONEy",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xAfE3d2A31231230875DEe1fa1eEF14a412443d22",
+      "decimals": 18,
+      "name": "DeFiato",
+      "symbol": "DFIAT",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xAfE3d2A31231230875DEe1fa1eEF14a412443d22/logo.png"
     }
   ],
-  "timestamp": "2021-03-03T00:00:00+00:00"
+  "timestamp": "2021-03-11T00:00:00+00:00"
 }
