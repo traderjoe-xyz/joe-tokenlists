@@ -759,6 +759,14 @@
       "name": "FLY",
       "symbol": "FLY",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x78Ea3fef1c1f07348199Bf44f45b803b9B0Dbe28/logo.png"
+    },
+      {
+      "chainId": 43114,
+      "address": "0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645",
+      "decimals": 18,
+      "name": "DegisToken",
+      "symbol": "DEG",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645/logo.png"
     }
   ],
   "timestamp": "2021-03-13T00:00:00+00:00"
