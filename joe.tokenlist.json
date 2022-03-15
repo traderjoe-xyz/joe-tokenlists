@@ -5,7 +5,7 @@
   "version": {
     "major": 80,
     "minor": 4,
-    "patch": 0
+    "patch": 1
   },
   "tokens": [
     {
@@ -741,7 +741,7 @@
       "address": "0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948",
       "decimals": 18,
       "name": "Moremoney USD",
-      "symbol": "MONEy",
+      "symbol": "MONEY",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo.png"
     },
     {
