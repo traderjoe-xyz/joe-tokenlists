@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
     "major": 80,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "tokens": [
@@ -767,7 +767,15 @@
       "name": "DegisToken",
       "symbol": "DEG",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xA886C732703700efCbd8438768822c8e716cB0EC",
+      "decimals": 18,
+      "name": "Fief Wood",
+      "symbol": "WOOD",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA886C732703700efCbd8438768822c8e716cB0EC/logo.png"
     }
   ],
-  "timestamp": "2021-03-14T00:00:00+00:00"
+  "timestamp": "2021-03-15T00:00:00+00:00"
 }
