@@ -50,6 +50,14 @@
     },
     {
       "chainId": 43114,
+      "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+      "decimals": 18,
+      "name": "OG KushCoin",
+      "symbol": "OGKU",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x60781C2586D68229fde47564546784ab3fACA982",
       "decimals": 18,
       "name": "Pangolin",
