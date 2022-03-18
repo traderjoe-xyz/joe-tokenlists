@@ -5,7 +5,7 @@
   "version": {
     "major": 80,
     "minor": 5,
-    "patch": 0
+    "patch": 1
   },
   "tokens": [
     {
@@ -783,7 +783,15 @@
       "name": "ApeCoin",
       "symbol": "APE",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0802d66f029c46E042b74d543fC43B6705ccb4ba/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4Bfc90322dD638F81F034517359BD447f8E0235a",
+      "decimals": 18,
+      "name": "New Order",
+      "symbol": "NEWO",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4Bfc90322dD638F81F034517359BD447f8E0235a/logo.png"
     }
   ],
-  "timestamp": "2021-03-15T00:00:00+00:00"
+  "timestamp": "2021-03-18T00:00:00+00:00"
 }
