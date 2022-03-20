@@ -9,6 +9,14 @@
   },
   "tokens": [
     {
+      "chainId": 43114,
+      "address": "0xEBB72a2b9ea3d632C5300eBaB9d8Aa1323F9e60F",
+      "decimals": 18,
+      "name": "Juice",  
+      "symbol": "$JUICE",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xEBB72a2b9ea3d632C5300eBaB9d8Aa1323F9e60F/logo.png"
+    },
+    {
       "chainId": 4,
       "address": "0xce347E069B68C53A9ED5e7DA5952529cAF8ACCd4",
       "decimals": 18,
