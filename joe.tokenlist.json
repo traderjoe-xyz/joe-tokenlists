@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
     "major": 81,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
@@ -557,7 +557,7 @@
       "address": "0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11",
       "decimals": 6,
       "name": "Axelar Wrapped UST",
-      "symbol": "UST-AXL",
+      "symbol": "UST.axl",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo.png"
     },
     {
@@ -799,7 +799,15 @@
       "name": "Wormhole UST",
       "symbol": "UST",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+      "decimals": 18,
+      "name": "StargateToken",
+      "symbol": "STG",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590/logo.png"
     }
   ],
-  "timestamp": "2021-03-24T00:00:00+00:00"
+  "timestamp": "2021-03-25T00:00:00+00:00"
 }
