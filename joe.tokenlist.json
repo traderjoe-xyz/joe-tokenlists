@@ -807,6 +807,14 @@
       "name": "StargateToken",
       "symbol": "STG",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x712b05710bcFe9C9B1DF08D0f846f42c3D457F3E",
+      "decimals": 18,
+      "name": "SmartNodes",
+      "symbol": "SMRT",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x712b05710bcFe9C9B1DF08D0f846f42c3D457F3E/logo.png"
     }
   ],
   "timestamp": "2021-03-25T00:00:00+00:00"
