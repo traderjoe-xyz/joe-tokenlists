@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
     "major": 82,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
@@ -815,7 +815,16 @@
       "name": "Zoo Token",
       "symbol": "ZOO",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1B88D7aD51626044Ec62eF9803EA264DA4442F32/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x449674B82F05d498E126Dd6615a1057A9c088f2C",
+      "decimals": 18,
+      "name": "LostToken",
+      "symbol": "LOST",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x449674B82F05d498E126Dd6615a1057A9c088f2C/logo.png"
     }
+
   ],
-  "timestamp": "2021-03-25T00:00:00+00:00"
+  "timestamp": "2021-04-05T00:00:00+00:00"
 }
