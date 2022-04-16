@@ -791,6 +791,14 @@
       "name": "Yeti Finance",
       "symbol": "YETI",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x77777777777d4554c39223C354A05825b2E8Faa3/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xC42935B0F74B8F597e26F2e5996BcF8a4Eef5663", 
+      "decimals": 18,
+      "name": "Eternal Finance", 
+      "symbol": "ETRNL", 
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xC42935B0F74B8F597e26F2e5996BcF8a4Eef5663/logo.png"
     }
   ],
   "timestamp": "2021-04-15T00:00:00+00:00"
