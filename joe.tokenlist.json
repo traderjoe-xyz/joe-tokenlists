@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 83,
+    "major": 84,
     "minor": 0,
     "patch": 0
   },
@@ -338,14 +338,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x7C08413cbf02202a1c13643dB173f2694e0F73f0",
-      "decimals": 9,
-      "name": "Maximizer",
-      "symbol": "MAXI",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7C08413cbf02202a1c13643dB173f2694e0F73f0/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
       "decimals": 6,
       "name": "USD Coin",
@@ -407,30 +399,6 @@
       "name": "Magnet",
       "symbol": "MAG",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1d60109178C48E4A937D8AB71699D8eBb6F7c5dE/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0",
-      "decimals": 18,
-      "name": "Boo Finance Token",
-      "symbol": "BOOFI",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
-      "decimals": 18,
-      "name": "FRAX",
-      "symbol": "FRAX",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x214DB107654fF987AD859F34125307783fC8e387",
-      "decimals": 18,
-      "name": "Frax Share",
-      "symbol": "FXS",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x214DB107654fF987AD859F34125307783fC8e387/logo.png"
     },
     {
       "chainId": 43114,
@@ -618,35 +586,11 @@
     },
     {
       "chainId": 43114,
-      "address": "0x39912D83acb4A373321387300f4FBE88Aa5d6F14",
-      "decimals": 9,
-      "name": "MidasDAO",
-      "symbol": "CROWN",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x39912D83acb4A373321387300f4FBE88Aa5d6F14/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0x6121191018BAf067c6Dc6B18D42329447a164F05",
       "decimals": 18,
       "name": "Pizza",
       "symbol": "PIZZA",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6121191018BAf067c6Dc6B18D42329447a164F05/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xe7A102Fbc8AB3581d62830DdB599eCCaae5e7875",
-      "decimals": 18,
-      "name": "SNOSHARES",
-      "symbol": "SNOSHARES",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe7A102Fbc8AB3581d62830DdB599eCCaae5e7875/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x1fE4869f2C5181b9CD780a7E16194FA2c4C4293D",
-      "decimals": 18,
-      "name": "SNO Token",
-      "symbol": "SNO",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1fE4869f2C5181b9CD780a7E16194FA2c4C4293D/logo.png"
     },
     {
       "chainId": 43114,
@@ -767,7 +711,31 @@
       "name": "POLAR",
       "symbol": "POLAR",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6C1c0319d8dDcb0ffE1a68C5b3829Fd361587DB4/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1111111111182587795eF1098ac7da81a108C97a",
+      "decimals": 18,
+      "name": "Bold Point Token",
+      "symbol": "BPT",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1111111111182587795eF1098ac7da81a108C97a/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x111111111111ed1D73f860F57b2798b683f2d325",
+      "decimals": 18,
+      "name": "YUSD Stablecoin",
+      "symbol": "YUSD",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x111111111111ed1D73f860F57b2798b683f2d325/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x77777777777d4554c39223C354A05825b2E8Faa3",
+      "decimals": 18,
+      "name": "Yeti Finance",
+      "symbol": "YETI",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x77777777777d4554c39223C354A05825b2E8Faa3/logo.png"
     }
   ],
-  "timestamp": "2021-04-05T00:00:00+00:00"
+  "timestamp": "2021-04-15T00:00:00+00:00"
 }
