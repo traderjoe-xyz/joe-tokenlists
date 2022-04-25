@@ -735,7 +735,15 @@
       "name": "Yeti Finance",
       "symbol": "YETI",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x77777777777d4554c39223C354A05825b2E8Faa3/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5085434227aB73151fAd2DE546210Cbc8663dF96",
+      "decimals": 18,
+      "name": "Metaderby token",
+      "symbol": "DBY",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5085434227aB73151fAd2DE546210Cbc8663dF96/logo.png"
     }
   ],
-  "timestamp": "2021-04-15T00:00:00+00:00"
+  "timestamp": "2021-04-25T00:00:00+00:00"
 }
