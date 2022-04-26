@@ -1,7 +1,12 @@
 {
   "name": "Trader Joe Default",
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
-  "keywords": ["avalanche", "defi", "joe", "trader joe"],
+  "keywords": [
+    "avalanche",
+    "defi",
+    "joe",
+    "trader joe"
+  ],
   "version": {
     "major": 84,
     "minor": 1,
@@ -743,6 +748,22 @@
       "name": "Metaderby token",
       "symbol": "DBY",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5085434227aB73151fAd2DE546210Cbc8663dF96/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5A44422beaAA38031f57720d88697105be6970BE",
+      "decimals": 6,
+      "name": "e-Money NGM Staking Token",
+      "symbol": "NGM",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5A44422beaAA38031f57720d88697105be6970BE/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xE1d70994Be12b73E76889412b284A8F19b0DE56d",
+      "decimals": 6,
+      "name": "e-Money EUR Stablecoin",
+      "symbol": "EEUR",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xE1d70994Be12b73E76889412b284A8F19b0DE56d/logo.png"
     }
   ],
   "timestamp": "2021-04-25T00:00:00+00:00"
