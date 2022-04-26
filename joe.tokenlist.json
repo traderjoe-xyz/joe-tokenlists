@@ -743,6 +743,14 @@
       "name": "Metaderby token",
       "symbol": "DBY",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5085434227aB73151fAd2DE546210Cbc8663dF96/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xCCBf7c451F81752F7d2237F2c18C371E6e089E69",
+      "decimals": 18,
+      "name": "Stake DAO Token",
+      "symbol": "SDT",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xCCBf7c451F81752F7d2237F2c18C371E6e089E69/logo.png"
     }
   ],
   "timestamp": "2021-04-25T00:00:00+00:00"
