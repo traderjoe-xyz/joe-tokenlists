@@ -744,14 +744,6 @@
       "symbol": "DBY",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5085434227aB73151fAd2DE546210Cbc8663dF96/logo.png"
     }
-    {
-      "chainId": 43114,
-      "address": "0x505421748269463Fb51b320d12BC68831bbED959",
-      "decimals": 18,
-      "name": "Futureswap",
-      "symbol": "FST",
-      "logoURI": "https://raw.githubusercontent.com/wiltongorske/joe-tokenlists/493dc16c9a86b4b0599656af8d3f7f9bbaeca57c/logos/0x505421748269463Fb51b320d12BC68831bbED959/futureswapFST.png"
-    }
   ],
   "timestamp": "2021-04-25T00:00:00+00:00"
 }
