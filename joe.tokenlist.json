@@ -752,6 +752,14 @@
       "symbol": "HOOF",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe0bb6feD446A2dbb27F84D3C27C4ED8EA7603366/logo.png"
     }
+    {
+      "chainId": 43114,
+      "address": "0x505421748269463Fb51b320d12BC68831bbED959",
+      "decimals": 18,
+      "name": "Futureswap",
+      "symbol": "FST",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x505421748269463Fb51b320d12BC68831bbED959/logo.png"
+    }
   ],
   "timestamp": "2021-04-26T00:00:00+00:00"
 }
