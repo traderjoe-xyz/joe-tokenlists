@@ -556,9 +556,17 @@
       "chainId": 43114,
       "address": "0x060556209E507d30f2167a101bFC6D256Ed2f3e1",
       "decimals": 18,
-      "name": "xPlatypus",
+      "name": "Vector PTP",
       "symbol": "xPTP",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x060556209E507d30f2167a101bFC6D256Ed2f3e1/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x769bfeb9fAacD6Eb2746979a8dD0b7e9920aC2A4",
+      "decimals": 18,
+      "name": "Vector JOE",
+      "symbol": "zJOE",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x769bfeb9fAacD6Eb2746979a8dD0b7e9920aC2A4/logo.png"
     },
     {
       "chainId": 43114,
