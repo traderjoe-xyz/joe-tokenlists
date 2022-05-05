@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
     "major": 84,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "tokens": [
@@ -775,6 +775,14 @@
       "name": "Chikn fert",
       "symbol": "FERT",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9C846D808A41328A209e235B5e3c4E626DAb169E/logo.png"
+    }, 
+    {
+      "chainId": 43114,
+      "address": "0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674",
+      "decimals": 18,
+      "name": "STEAK",
+      "symbol": "STEAK",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674/logo.png"
     }
   ],
   "timestamp": "2021-04-26T00:00:00+00:00"
