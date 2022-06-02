@@ -663,6 +663,14 @@
       "name": "STEAK",
       "symbol": "STEAK",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8a3D4Ec4d974Fc4f0F5003E4364F1a265fB6EA8f",
+      "decimals": 9,
+      "name": "SpongeBob Atlantis (Wormhole)",
+      "symbol": "SPONS",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8a3D4Ec4d974Fc4f0F5003E4364F1a265fB6EA8f/logo.png"
     }
   ],
   "timestamp": "2021-05-24T00:00:00+00:00"
