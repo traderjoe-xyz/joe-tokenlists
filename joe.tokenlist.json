@@ -663,7 +663,15 @@
       "name": "STEAK",
       "symbol": "STEAK",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x33c7CA334A963e9C8c8b105AA097a7E392a286C7",
+      "decimals": 8,
+      "name": "Level 1",
+      "symbol": "LVL",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x33c7CA334A963e9C8c8b105AA097a7E392a286C7/logo.png"
     }
   ],
-  "timestamp": "2021-05-24T00:00:00+00:00"
+  "timestamp": "2022-06-07T00:00:00+00:00"
 }
