@@ -361,6 +361,14 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x62edc0692BD897D2295872a9FFCac5425011c661/logo.png"
     },
     {
+      "chainId": 43113,
+      "address": "0x250bdca7D1845cd543BB55E7D82dcA24D48E9f0F",
+      "decimals": 18,
+      "name": "Dragon Crypto Argenti",
+      "symbol": "DCAR",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x250bdca7D1845cd543BB55E7D82dcA24D48E9f0F/logo.png"
+    },
+    {
       "chainId": 43114,
       "address": "0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30",
       "decimals": 18,
