@@ -671,6 +671,14 @@
       "name": "Openblox Token",
       "symbol": "OBX",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xcCf719c44e2C36E919335692E89d22Cf13D6aaEB/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xA1AfCC973d44cE1C65a21D9e644CB82489d26503",
+      "decimals": 18,
+      "name": "RunBlox Token",
+      "symbol": "RUX",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA1AfCC973d44cE1C65a21D9e644CB82489d26503/logo.png"
     }
   ],
   "timestamp": "2021-08-18T00:00:00+00:00"
