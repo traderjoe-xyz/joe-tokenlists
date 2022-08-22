@@ -687,6 +687,14 @@
       "name": "hJoe v2",
       "symbol": "hJoe",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe7250b05bd8DEE615ecC681eda1196aDD5156F2B/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x54a77F27D2346c3A8F5B43A501434f0f21f33e3C",
+      "decimals": 18,
+      "name": "Kingdom Gold Coin",
+      "symbol": "KGC",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x54a77F27D2346c3A8F5B43A501434f0f21f33e3C/logo.png"
     }  
   ],
   "timestamp": "2021-08-21T00:00:00+00:00"
