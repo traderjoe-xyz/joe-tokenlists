@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
     "major": 86,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
   "tokens": [
@@ -679,7 +679,15 @@
       "name": "RunBlox Token",
       "symbol": "RUX",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA1AfCC973d44cE1C65a21D9e644CB82489d26503/logo.png"
-    }
+    },
+    {
+      "chainId": 43114,
+      "address": "0xe7250b05bd8DEE615ecC681eda1196aDD5156F2B",
+      "decimals": 18,
+      "name": "hJoe v2",
+      "symbol": "hJoe",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe7250b05bd8DEE615ecC681eda1196aDD5156F2B/logo.png"
+    }  
   ],
-  "timestamp": "2021-08-20T00:00:00+00:00"
+  "timestamp": "2021-08-21T00:00:00+00:00"
 }
