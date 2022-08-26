@@ -41,7 +41,7 @@
       "type": "string",
       "description": "The unique identifier of a tag",
       "minLength": 1,
-      "maxLength": 10,
+      "maxLength": 20,
       "pattern": "^[A-Za-z]+\\s?[A-Za-z]*$",
       "examples": ["Large Cap", "Stablecoins"]
     },
