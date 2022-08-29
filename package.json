@@ -1,0 +1,15 @@
+{
+  "name": "joe-tokenlists",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/traderjoe-xyz/joe-tokenlists.git",
+  "author": "traderjoexyz",
+  "scripts": {
+    "start": "npx tsc --watch",
+    "build": "npx tsc --build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
