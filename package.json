@@ -3,11 +3,16 @@
   "version": "2.0.0",
   "description": "Tokenlist typings, schema and lists used on Trader Joe.",
   "main": "dist/index.js",
+  "types": "index.d.ts",
+  "files": [
+    "dist"
+  ],
   "repository": "https://github.com/traderjoe-xyz/joe-tokenlists.git",
   "author": "traderjoexyz",
   "scripts": {
     "start": "npx tsc --watch",
-    "build": "npx tsc --build"
+    "build": "npx tsc --build",
+    "prepublishOnly": "npx tsc --build"
   },
   "license": "MIT",
   "publishConfig": {
