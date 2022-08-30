@@ -1,6 +1,6 @@
 {
   "name": "@traderjoe-xyz/joe-tokenlists",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "Tokenlist typings, schema and lists used on Trader Joe.",
   "main": "dist/index.js",
   "types": "index.d.ts",
