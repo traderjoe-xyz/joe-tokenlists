@@ -104,7 +104,7 @@
       "decimals": 18,
       "name": "Elk",
       "symbol": "ELK",
-      "tags": [],
+      "tags": ["Avalanche", "DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png"
     },
     {
@@ -212,7 +212,7 @@
       "decimals": 9,
       "name": "Time",
       "symbol": "TIME",
-      "tags": [],
+      "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb54f16fB19478766A268F172C9480f8da1a7c9C3/logo.png"
     },
     {
@@ -329,7 +329,7 @@
       "decimals": 18,
       "name": "Defrost Finance H2O",
       "symbol": "H2O",
-      "tags": [],
+      "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo.png"
     },
     {
@@ -383,7 +383,7 @@
       "decimals": 18,
       "name": "Poly-Peg Cook",
       "symbol": "COOK",
-      "tags": [],
+      "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png"
     },
     {
@@ -410,7 +410,7 @@
       "decimals": 18,
       "name": "Dragon Crypto Argenti",
       "symbol": "DCAR",
-      "tags": [],
+      "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x250bdca7D1845cd543BB55E7D82dcA24D48E9f0F/logo.png"
     },
     {
@@ -464,7 +464,7 @@
       "decimals": 18,
       "name": "FIRE",
       "symbol": "FIRE",
-      "tags": [],
+      "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfcc6ce74f4cd7edef0c5429bb99d38a3608043a5/logo.png"
     },
     {
@@ -473,7 +473,7 @@
       "decimals": 18,
       "name": "VaporNodes",
       "symbol": "VPND",
-      "tags": [],
+      "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x83a283641C6B4DF383BCDDf807193284C84c5342/logo.png"
     },
     {
@@ -545,26 +545,8 @@
       "decimals": 18,
       "name": "Pizza",
       "symbol": "PIZZA",
-      "tags": [],
+      "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6121191018BAf067c6Dc6B18D42329447a164F05/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948",
-      "decimals": 18,
-      "name": "Moremoney USD",
-      "symbol": "MONEY",
-      "tags": ["Stablecoins"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xAfE3d2A31231230875DEe1fa1eEF14a412443d22",
-      "decimals": 18,
-      "name": "DeFiato",
-      "symbol": "DFIAT",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xAfE3d2A31231230875DEe1fa1eEF14a412443d22/logo.png"
     },
     {
       "chainId": 43114,
@@ -601,15 +583,6 @@
       "symbol": "NEWO",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4Bfc90322dD638F81F034517359BD447f8E0235a/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
-      "decimals": 6,
-      "name": "Wormhole UST",
-      "symbol": "UST",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1/logo.png"
     },
     {
       "chainId": 43114,
@@ -662,7 +635,7 @@
       "decimals": 18,
       "name": "POLAR",
       "symbol": "POLAR",
-      "tags": [],
+      "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6C1c0319d8dDcb0ffE1a68C5b3829Fd361587DB4/logo.png"
     },
     {
@@ -680,7 +653,7 @@
       "decimals": 18,
       "name": "YUSD Stablecoin",
       "symbol": "YUSD",
-      "tags": [],
+      "tags": ["Avalanche", "DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x111111111111ed1D73f860F57b2798b683f2d325/logo.png"
     },
     {
@@ -772,7 +745,115 @@
       "symbol": "hJoe",
       "tags": [],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe7250b05bd8DEE615ecC681eda1196aDD5156F2B/logo.png"
-    }  
+    },
+    {
+      "chainId": 43114,
+      "address": "0x9e15f045e44ea5a80e7Fbc193A35287712Cc5569",
+      "decimals": 18,
+      "name": "3ULL v2",
+      "symbol": "3ULL",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9e15f045e44ea5a80e7Fbc193A35287712Cc5569/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x47536F17F4fF30e64A96a7555826b8f9e66ec468",
+      "decimals": 18,
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x47536F17F4fF30e64A96a7555826b8f9e66ec468/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+      "decimals": 18,
+      "name": "Frax",
+      "symbol": "FRAX",
+      "tags": ["Stablecoins"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xe6d1aFea0B76C8f51024683DD27FA446dDAF34B6",
+      "decimals": 18,
+      "name": "Frozen Walrus Share",
+      "symbol": "WSHARE",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe6d1aFea0B76C8f51024683DD27FA446dDAF34B6/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5541D83EFaD1f281571B343977648B75d95cdAC2",
+      "decimals": 18,
+      "name": "Grape Finance",
+      "symbol": "GRAPE",
+      "tags": ["DeFi", "Avalanche"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5541D83EFaD1f281571B343977648B75d95cdAC2/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c",
+      "decimals": 18,
+      "name": "HeroesChained",
+      "symbol": "HeC",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6ca558bd3eaB53DA1B25aB97916dd14bf6CFEe4E",
+      "decimals": 18,
+      "name": "pAVAX",
+      "symbol": "pAVAX",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6ca558bd3eaB53DA1B25aB97916dd14bf6CFEe4E/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x44a45a9BaEb63c6ea4860ecf9ac5732c330C4d4E",
+      "decimals": 9,
+      "name": "Thors Mead V2",
+      "symbol": "MEAD",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x44a45a9BaEb63c6ea4860ecf9ac5732c330C4d4E/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xC55036B5348CfB45a932481744645985010d3A44",
+      "decimals": 18,
+      "name": "Wine Shares",
+      "symbol": "WINE",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xC55036B5348CfB45a932481744645985010d3A44/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8b82A291F83ca07Af22120ABa21632088fC92931",
+      "decimals": 18,
+      "name": "Wrapped Ether (Wormhole)",
+      "symbol": "WETH",
+      "tags": ["Large Cap"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8b82A291F83ca07Af22120ABa21632088fC92931/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb",
+      "decimals": 18,
+      "name": "Wrapped Matic (Wormhole)",
+      "symbol": "WMATIC",
+      "tags": ["Large Cap"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F",
+      "decimals": 9,
+      "name": "Wrapped SOL (Wormhole)",
+      "symbol": "SOL",
+      "tags": ["Large Cap"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F/logo.png"
+    }
   ],
   "timestamp": "2021-08-21T00:00:00+00:00"
 }
