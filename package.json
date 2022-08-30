@@ -10,6 +10,9 @@
     "build": "npx tsc --build"
   },
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "typescript": "^4.8.2"
   }
