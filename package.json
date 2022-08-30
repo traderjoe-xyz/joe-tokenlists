@@ -1,6 +1,7 @@
 {
-  "name": "joe-tokenlists",
+  "name": "@traderjoe-xyz/joe-tokenlists",
   "version": "1.0.0",
+  "description": "Tokenlist typings, schema and lists used on Trader Joe.",
   "main": "dist/index.js",
   "repository": "https://github.com/traderjoe-xyz/joe-tokenlists.git",
   "author": "traderjoexyz",
