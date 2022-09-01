@@ -1,0 +1,148 @@
+{
+  "name": "Zap LPs",
+  "logoURI": "",
+  "keywords": ["avalanche", "trader", "joe", "zap"],
+  "version": {
+    "major": 8,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 43114,
+      "address": "0x454E67025631C065d3cFAD6d71E6892f74487a15",
+      "decimals": 18,
+      "name": "JOE-WAVAX",
+      "symbol": "JOE-WAVAX-JLP",
+      "tags": [],
+      "logoURI": ""
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1643de2efB8e35374D796297a9f95f64C082a8ce",
+      "decimals": 18,
+      "name": "JOE-USDT.e",
+      "symbol": "JOE-USDT.e-JLP",
+      "tags": [],
+      "logoURI": ""
+    },
+    {
+      "chainId": 43114,
+      "address": "0x67926d973cD8eE876aD210fAaf7DFfA99E414aCf",
+      "decimals": 18,
+      "name": "JOE-USDC.e",
+      "symbol": "JOE-USDC.e-JLP",
+      "tags": [],
+      "logoURI": ""
+    },
+    {
+      "chainId": 43114,
+      "address": "0xeD8CBD9F0cE3C6986b22002F03c6475CEb7a6256",
+      "decimals": 18,
+      "name": "WAVAX-USDT.e",
+      "symbol": "WAVAX-USDT.e-JLP",
+      "tags": [],
+      "logoURI": ""
+    },
+    {
+      "chainId": 43114,
+      "address": "0xA389f9430876455C36478DeEa9769B7Ca4E3DDB1",
+      "decimals": 18,
+      "name": "WAVAX-USDC.e",
+      "symbol": "WAVAX-USDC.e-JLP",
+      "tags": [],
+      "logoURI": ""
+    },
+    {
+      "chainId": 43114,
+      "address": "0x781655d802670bbA3c89aeBaaEa59D3182fD755D",
+      "decimals": 18,
+      "name": "WAVAX-MIM",
+      "symbol": "WAVAX-MIM-JLP",
+      "tags": [],
+      "logoURI": ""
+    },
+    {
+      "chainId": 43114,
+      "address": "0xFE15c2695F1F920da45C30AAE47d11dE51007AF9",
+      "decimals": 18,
+      "name": "WETH.e-WAVAX",
+      "symbol": "WETH.e-WAVAX-JLP",
+      "tags": [],
+      "logoURI": ""
+    },
+    {
+      "chainId": 43114,
+      "address": "0x2E02539203256c83c7a9F6fA6f8608A32A2b1Ca2",
+      "decimals": 18,
+      "name": "USDT.e-USDC.e",
+      "symbol": "USDT.e-USDC.e-JLP",
+      "tags": [],
+      "logoURI": ""
+    },
+    {
+      "chainId": 43114,
+      "address": "0x63abe32d0ee76c05a11838722a63e012008416e6",
+      "decimals": 18,
+      "name": "USDC.e-DAI.e",
+      "symbol": "USDC.e-DAI.e-JLP",
+      "tags": [],
+      "logoURI": ""
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6F3a0C89f611Ef5dC9d96650324ac633D02265D3",
+      "decimals": 18,
+      "name": "LINK.e-WAVAX",
+      "symbol": "LINK.e-WAVAX-JLP",
+      "tags": [],
+      "logoURI": ""
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb5c9e891af3063004a441ba4fab4ca3d6deb5626",
+      "decimals": 18,
+      "name": "YAK-WAVAX",
+      "symbol": "YAK-WAVAX-JLP",
+      "tags": [],
+      "logoURI": ""
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8fB5bD3aC8eFD05DACae82F512dD03e14aAdAb73",
+      "decimals": 18,
+      "name": "SNOB-WAVAX",
+      "symbol": "SNOB-WAVAX-JLP",
+      "tags": [],
+      "logoURI": ""
+    },
+    {
+      "chainId": 43114,
+      "address": "0x72c3438cf1c915EcF5D9F17A6eD346B273d5bF71",
+      "decimals": 18,
+      "name": "XAVA-WAVAX",
+      "symbol": "XAVA-WAVAX-JLP",
+      "tags": [],
+      "logoURI": ""
+    },
+    {
+      "chainId": 43113,
+      "address": "0xb6f0758f374b3c570e8073ec8f552c9b2db939f3",
+      "decimals": 18,
+      "name": "WAVAX-USDT",
+      "symbol": "WAVAX-USDT-JLP",
+      "tags": [],
+      "logoURI": ""
+    },
+    {
+      "chainId": 43113,
+      "address": "0x0c01abf914b0c4554d9da66167293b10c312fe57",
+      "decimals": 18,
+      "name": "WAVAX-USDC",
+      "symbol": "WAVAX-USDC-JLP",
+      "tags": [],
+      "logoURI": ""
+    }
+  ],
+  "timestamp": "2021-11-30T00:33:00+00:00"
+}
