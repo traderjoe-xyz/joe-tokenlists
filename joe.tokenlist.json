@@ -687,7 +687,15 @@
       "name": "hJoe v2",
       "symbol": "hJoe",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe7250b05bd8DEE615ecC681eda1196aDD5156F2B/logo.png"
-    }  
+    },
+    {
+      "chainId": 43114,
+      "address": "0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0",
+      "decimals": 18,
+      "name": "Colony Avalanche Index",
+      "symbol": "CAI",
+      "logoURI": "https://i.ibb.co/591pz93/CAI-200px.png"
+    }
   ],
   "timestamp": "2021-08-21T00:00:00+00:00"
 }
