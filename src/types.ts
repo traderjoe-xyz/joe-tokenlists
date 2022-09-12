@@ -1,11 +1,11 @@
 type ExtensionValue = string | number | boolean | null | undefined;
 
 export enum TokenlistTabNames {
-  LARGE_CAP = "Large Cap",
   TOP_TOKENS = "Top Tokens",
+  LARGE_CAP = "Large Cap",
   AVALANCHE = "Avalanche",
-  STABLECOINS = "Stablecoins",
   DEFI = "DeFi",
+  STABLECOINS = "Stablecoins",
   GAMEFI = "GameFi",
   MEME = "Meme",
 }
