@@ -30,8 +30,9 @@ The JOE team will continue to maintain the list for quality control. Some rough 
 #### Submission process
 Please refer to `src/joe.tokenlist-v2.json` for format, and tag your token appropriately. 
 - Submit tokenlist PR separately from logo PR.
-- Tag your token with `DeFi` or `GameFi` - (case sensitive). 
-- Tags for `Top Tokens`, `Large Cap`, `Avalanche` and `Stablecoins` are maintained by JOE team only. 
+- Tag your token with `DeFi`, `GameFi` or `Stablecoins`. - (case sensitive). 
+- Tags for `Top Tokens`, `Large Cap` and `Avalanche` are maintained by JOE team only. 
+
 
 
 
