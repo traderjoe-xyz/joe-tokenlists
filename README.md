@@ -23,15 +23,16 @@ In `tokenlist-v2` we will be accepting community PR for adding to tokenlist.
 
 #### Criteria
 The JOE team will continue to maintain the list for quality control. Some rough guidelines:
-- Contract should be verified on `snowtrace.io`
+- Contract should be verified on `snowtrace.io`.
 - New tokens will be accepted on case by case basis. Pls contact `BD` team via discord. 
-- Token should be established liquidity, number of liquidty providers, and 15 day volume. 
+- Token should have established liquidity, a good number of liquidty providers, and 15 day volume. 
 
 #### Submission process
 Please refer to `src/joe.tokenlist-v2.json` for format, and tag your token appropriately. 
-- Submit tokenlist PR separately from logo PR
-- Tag your token with `Defi`, `Gamefi` or `Meme`. 
-- Tags for `Top Tokens` and `Avalanche` are maintained by JOE team only. 
+- Submit tokenlist PR separately from logo PR.
+- Tag your token with `DeFi`, `GameFi` or `Stablecoins`. - (case sensitive). 
+- Tags for `Top Tokens`, `Large Cap` and `Avalanche` are maintained by JOE team only. 
+
 
 
 
