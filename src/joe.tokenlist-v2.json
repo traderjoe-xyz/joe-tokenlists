@@ -997,8 +997,16 @@
         "symbol": "MAGIC",
         "tags": ["GameFi"],
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9a8e0217cd870783c3f2317985c57bf570969153/logo.png"
-        }  
-  
+        }  ,
+        {
+          "chainId": 43114,
+          "address": "0xe7462905B79370389e8180E300F58f63D35B725F",
+          "decimals": 18,
+          "name": "Yield Yak JOE",
+          "symbol": "yyJOE",
+          "tags": ["DeFi"],
+          "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe7462905B79370389e8180E300F58f63D35B725F/logo.png"
+          }  
 
     
   ],
