@@ -14,7 +14,7 @@
       "decimals": 18,
       "name": "Wrapped AVAX",
       "symbol": "WAVAX",
-      "tags": ["Large Cap", "Top Tokens"],
+      "tags": ["Large Cap", "Top Tokens","Avalanche","DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
     },
     {
@@ -68,7 +68,7 @@
       "decimals": 18,
       "name": "Wrapped AVAX",
       "symbol": "WAVAX",
-      "tags": ["Large Cap", "Top Tokens"],
+      "tags": ["Large Cap"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
     },
     {
@@ -626,7 +626,7 @@
       "decimals": 18,
       "name": "YUSD Stablecoin",
       "symbol": "YUSD",
-      "tags": ["Avalanche", "DeFi"],
+      "tags": ["Stablecoins"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x111111111111ed1D73f860F57b2798b683f2d325/logo.png"
     },
     {
@@ -970,7 +970,37 @@
       "symbol": "DFIAT",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xafe3d2a31231230875dee1fa1eef14a412443d22/logo.png"
-    }  
+    },  
+    {
+    "chainId": 43114,
+    "address": "0x395908aeb53d33a9b8ac35e148e9805d34a555d3",
+    "decimals": 18,
+    "name": "frozenwalrus.finance",
+    "symbol": "WLRS",
+    "tags": ["DeFi"],
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x395908aeb53d33a9b8ac35e148e9805d34a555d3/logo.png"
+    }  ,
+    {
+      "chainId": 43114,
+      "address": "0x8ae8be25c23833e0a01aa200403e826f611f9cd2",
+      "decimals": 18,
+      "name": "Craft",
+      "symbol": "CRAFT",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8ae8be25c23833e0a01aa200403e826f611f9cd2/logo.png"
+      }  ,
+      {
+        "chainId": 43114,
+        "address": "0x9a8e0217cd870783c3f2317985c57bf570969153",
+        "decimals": 18,
+        "name": "Magic",
+        "symbol": "MAGIC",
+        "tags": ["GameFi"],
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9a8e0217cd870783c3f2317985c57bf570969153/logo.png"
+        }  
+  
+
+    
   ],
   "timestamp": "2021-08-21T00:00:00+00:00"
 }
