@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 203,
+    "major": 204,
     "minor": 0,
     "patch": 0
   },
@@ -14,7 +14,7 @@
       "decimals": 18,
       "name": "Wrapped AVAX",
       "symbol": "WAVAX",
-      "tags": ["Large Cap", "Top Tokens","Avalanche","DeFi"],
+      "tags": ["Large Cap", "Top Tokens","Avalanche"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
     },
     {
