@@ -997,9 +997,16 @@
           "symbol": "yyJOE",
           "tags": ["DeFi"],
           "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe7462905B79370389e8180E300F58f63D35B725F/logo.png"
-          }  
-
-
+          },
+          {
+            "chainId": 43114,
+            "address": "0xe48c74833ce6f18a8e54f73f1d02b8e9f9ff8caa",
+            "decimals": 18,
+            "name": "Cosmic ",
+            "symbol": "COSMIC",
+            "tags": ["GameFi"],
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe48c74833ce6f18a8e54f73f1d02b8e9f9ff8caa/logo.png"
+            }  
   ],
   "timestamp": "2021-08-21T00:00:00+00:00"
 }
