@@ -20,7 +20,7 @@
     {
       "chainId": 43113,
       "address": "0x791B0c848AD79549F950f69E6E4CF9e3C112a230",
-      "decimals": 18,
+      "decimals": 6,
       "name": "Tether Token",
       "symbol": "USDT",
       "tags": ["Stablecoins", "Large Cap"],
@@ -29,7 +29,7 @@
     {
       "chainId": 43113,
       "address": "0x8c0f5Ade9cBdb19a49B06aDFB67b6702B459162B",
-      "decimals": 18,
+      "decimals": 6,
       "name": "USD Coin",
       "symbol": "USDC",
       "tags": ["Stablecoins", "Top Tokens","Large Cap"],
