@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
     "major": 204,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
@@ -19,21 +19,21 @@
     },
     {
       "chainId": 43113,
-      "address": "0xFc7215C9498Fc12b22Bc0ed335871Db4315f03d3",
+      "address": "0x791B0c848AD79549F950f69E6E4CF9e3C112a230",
       "decimals": 18,
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "tags": ["Stablecoins"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFc7215C9498Fc12b22Bc0ed335871Db4315f03d3/logo.png"
+      "name": "Tether Token",
+      "symbol": "USDT",
+      "tags": ["Stablecoins", "Large Cap"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
     },
     {
       "chainId": 43113,
-      "address": "0x73b4C0C45bfB90FC44D9013FA213eF2C2d908D0A",
+      "address": "0x8c0f5Ade9cBdb19a49B06aDFB67b6702B459162B",
       "decimals": 18,
-      "name": "ChainLink Token",
-      "symbol": "LINK",
-      "tags": ["DeFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x73b4C0C45bfB90FC44D9013FA213eF2C2d908D0A/logo.png"
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "tags": ["Stablecoins", "Top Tokens","Large Cap"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
     },
     {
       "chainId": 43113,
