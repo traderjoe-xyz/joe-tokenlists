@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 204,
+    "major": 205,
     "minor": 1,
     "patch": 0
   },
@@ -835,15 +835,6 @@
       "symbol": "SMRTr",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6d923f688c7ff287dc3a5943caeefc994f97b290/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x714f020c54cc9d104b6f4f6998c63ce2a31d1888",
-      "decimals": 18,
-      "name": "STEP.APP",
-      "symbol": "FITFI",
-      "tags": ["GameFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x714f020c54cc9d104b6f4f6998c63ce2a31d1888/logo.png"
     },
     {
       "chainId": 43114,
