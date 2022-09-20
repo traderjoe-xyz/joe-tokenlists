@@ -3,9 +3,9 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 205,
-    "minor": 1,
-    "patch": 1
+    "major": 206,
+    "minor": 0,
+    "patch": 0
   },
   "tokens": [
     {
@@ -34,15 +34,6 @@
       "symbol": "USDC",
       "tags": ["Stablecoins", "Top Tokens","Large Cap"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
-    },
-    {
-      "chainId": 43113,
-      "address": "0x09C85Ef96e93f0ae892561052B48AE9DB29F2458",
-      "decimals": 18,
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "tags": ["Large Cap"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x09C85Ef96e93f0ae892561052B48AE9DB29F2458/logo.png"
     },
     {
       "chainId": 43114,
@@ -857,7 +848,7 @@
     {
       "chainId": 43114,
       "address": "0xe1d70994be12b73e76889412b284a8f19b0de56d",
-      "decimals": 18,
+      "decimals": 6,
       "name": "e-Money EUR stablecoin",
       "symbol": "EEUR",
       "tags": ["Stablecoins"],
@@ -875,7 +866,7 @@
     {
       "chainId": 43114,
       "address": "0x027dbca046ca156de9622cd1e2d907d375e53aa7",
-      "decimals": 18,
+      "decimals": 9,
       "name": "Ampleforth",
       "symbol": "AMPL",
       "tags": ["DeFi"],
