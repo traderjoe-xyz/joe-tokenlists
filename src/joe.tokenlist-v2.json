@@ -5,7 +5,7 @@
   "version": {
     "major": 205,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   },
   "tokens": [
     {
@@ -866,7 +866,7 @@
     {
       "chainId": 43114,
       "address": "0x9366d30feba284e62900f6295bc28c9906f33172",
-      "decimals": 18,
+      "decimals": 6,
       "name": "BioFi",
       "symbol": "BioFi",
       "tags": ["DeFi"],
