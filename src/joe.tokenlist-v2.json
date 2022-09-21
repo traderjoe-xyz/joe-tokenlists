@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
     "major": 206,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
@@ -988,7 +988,16 @@
       "symbol": "COSMIC",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe48C74833ce6f18A8e54f73f1D02B8E9f9Ff8Caa/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+      "decimals": 18,
+      "name": "BUSD Token ",
+      "symbol": "BUSD",
+      "tags": ["Stablecoins", "Large Cap"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39/logo.png"
     }
   ],
-  "timestamp": "2021-08-21T00:00:00+00:00"
+  "timestamp": "2021-09-21T00:00:00+00:00"
 }
