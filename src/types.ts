@@ -7,6 +7,7 @@ export enum TokenlistTabNames {
   DEFI = "DeFi",
   STABLECOINS = "Stablecoins",
   GAMEFI = "GameFi",
+  USER = "My Tokens"
 }
 
 export interface TokenInfo {
