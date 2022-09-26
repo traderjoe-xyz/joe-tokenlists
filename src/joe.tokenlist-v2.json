@@ -154,6 +154,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0xf538030Ba4B39E35A3576bD6698cfcc6AC34A81f",
+      "decimals": 18,
+      "name": "NEMO Coin",
+      "symbol": "NEMO",
+      "tags": ["Stablecoins"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf538030Ba4B39E35A3576bD6698cfcc6AC34A81f/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
       "decimals": 6,
       "name": "USD Coin - Bridged",
