@@ -997,6 +997,15 @@
       "symbol": "BUSD",
       "tags": ["Stablecoins", "Large Cap"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39/logo.png"
+    },
+    {
+      "chainId": 43113,
+      "address": "0x31c994AC062C1970C086260Bc61babB708643fAc",
+      "decimals": 18,
+      "name": "XANA",
+      "symbol": "XETA",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x31c994AC062C1970C086260Bc61babB708643fAc/Logo.png"
     }
   ],
   "timestamp": "2021-09-21T00:00:00+00:00"
