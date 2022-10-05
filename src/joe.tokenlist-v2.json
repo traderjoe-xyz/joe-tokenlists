@@ -997,15 +997,15 @@
       "symbol": "BUSD",
       "tags": ["Stablecoins", "Large Cap"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39/logo.png"
-    },
+    },    
     {
       "chainId": 43113,
-      "address": "0x68327a91E79f87F501bC8522fc333FB7A72393cb",
+      "address": "0xbBAAA0420D474B34Be197f95A323C2fF3829E811",
       "decimals": 18,
-      "name": "AUX Coin",
-      "symbol": "AUX",
-      "tags": ["Stablecoins"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x68327a91E79f87F501bC8522fc333FB7A72393cb/logo.png"
+      "name": "LODE Token",
+      "symbol": "LODE",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xbBAAA0420D474B34Be197f95A323C2fF3829E811/logo.png"
     }
   ],
   "timestamp": "2021-09-21T00:00:00+00:00"
