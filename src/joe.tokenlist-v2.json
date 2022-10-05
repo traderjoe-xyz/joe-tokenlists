@@ -1000,12 +1000,12 @@
     },
     {
       "chainId": 43113,
-      "address": "0x68327a91E79f87F501bC8522fc333FB7A72393cb",
+      "address": "0x13E7bceFddE72492E656f3fa58baE6029708e673",
       "decimals": 18,
-      "name": "AUX Coin",
-      "symbol": "AUX",
+      "name": "AGX Coin",
+      "symbol": "AGX",
       "tags": ["Stablecoins"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x68327a91E79f87F501bC8522fc333FB7A72393cb/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x13E7bceFddE72492E656f3fa58baE6029708e673/logo.png"
     }
   ],
   "timestamp": "2021-09-21T00:00:00+00:00"
