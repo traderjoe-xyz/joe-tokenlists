@@ -1,0 +1,2602 @@
+[
+  {
+    "name": "USDC.e / BOG",
+    "token0": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    },
+    "token1": {
+      "id": "0xb09fe1613fe03e7361319d2a43edc17422f36b09",
+      "name": "Bogged Finance",
+      "symbol": "BOG"
+    }
+  },
+  {
+    "name": "Genesis / MIM",
+    "token0": {
+      "id": "0x1cc9cb8d0cc686e326893112ea19aa54dea00e2f",
+      "name": "Genesis Node",
+      "symbol": "Genesis"
+    },
+    "token1": {
+      "id": "0xa7b349a9a6595f0e5c7a80a6237ae7dc8ab43b88",
+      "name": "Magic Internet Money",
+      "symbol": "MIM"
+    }
+  },
+  {
+    "name": "JLP / JLP",
+    "token0": {
+      "id": "0x781655d802670bba3c89aebaaea59d3182fd755d",
+      "name": "Joe LP Token",
+      "symbol": "JLP"
+    },
+    "token1": {
+      "id": "0xa56d382c5aa9774d4eb98f1500670d3049fede9b",
+      "name": "Joe LP Token",
+      "symbol": "JLP"
+    }
+  },
+  {
+    "name": "LiPOGE / LiPOGE",
+    "token0": {
+      "id": "0x168c14b83c959778b6b8c4e4fa0c20af8df23e61",
+      "name": "iLiPoge Coin",
+      "symbol": "LiPOGE"
+    },
+    "token1": {
+      "id": "0xd9e8ae66782529b3fc9157af2b6fa137bea46e5d",
+      "name": "iLiPogeCoin",
+      "symbol": "LiPOGE"
+    }
+  },
+  {
+    "name": "JLP / JLP",
+    "token0": {
+      "id": "0x781655d802670bba3c89aebaaea59d3182fd755d",
+      "name": "Joe LP Token",
+      "symbol": "JLP"
+    },
+    "token1": {
+      "id": "0xbca892e5f463af9a27d571cc620cf3ebd998e276",
+      "name": "Joe LP Token",
+      "symbol": "JLP"
+    }
+  },
+  {
+    "name": "AVAX / USDC",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    }
+  },
+  {
+    "name": "WETH.e / AVAX",
+    "token0": {
+      "id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+      "name": "Wrapped Ether",
+      "symbol": "WETH.e"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "USDC.e / USDC",
+    "token0": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    },
+    "token1": {
+      "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    }
+  },
+  {
+    "name": "BTC.b / AVAX",
+    "token0": {
+      "id": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+      "name": "Bitcoin",
+      "symbol": "BTC.b"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "XETA / USDt",
+    "token0": {
+      "id": "0x31c994ac062c1970c086260bc61babb708643fac",
+      "name": "XANA",
+      "symbol": "XETA"
+    },
+    "token1": {
+      "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+      "name": "TetherToken",
+      "symbol": "USDt"
+    }
+  },
+  {
+    "name": "JOE / AVAX",
+    "token0": {
+      "id": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+      "name": "JoeToken",
+      "symbol": "JOE"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "BDF / AVAX",
+    "token0": {
+      "id": "0x60c0b0c3b97c4c1b5c74995cd3e6deebc2c55c78",
+      "name": "Bandung Financial",
+      "symbol": "BDF"
+    },
+    "token1": {
+      "id": "0x9b908fc861cee312255cb91a5f3d1ecb8f2d1772",
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX"
+    }
+  },
+  {
+    "name": "DD / CC",
+    "token0": {
+      "id": "0x206bc2ec94820aa54a4ed2be57249c2400f69631",
+      "name": "DD",
+      "symbol": "DD"
+    },
+    "token1": {
+      "id": "0x289c60a6df2f74afbb6dda88b53515a0c021a55f",
+      "name": "CC",
+      "symbol": "CC"
+    }
+  },
+  {
+    "name": "USDC.e / AVAX",
+    "token0": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "USDt / AVAX",
+    "token0": {
+      "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+      "name": "TetherToken",
+      "symbol": "USDt"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "MIM / JKL",
+    "token0": {
+      "id": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+      "name": "Magic Internet Money",
+      "symbol": "MIM"
+    },
+    "token1": {
+      "id": "0x31d27a3e10839e61cfac5125e5c7b2d42503159f",
+      "name": "Jackal",
+      "symbol": "JKL"
+    }
+  },
+  {
+    "name": "AVAX / USDT.e",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+      "name": "Tether USD",
+      "symbol": "USDT.e"
+    }
+  },
+  {
+    "name": "sAVAX / AVAX",
+    "token0": {
+      "id": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
+      "name": "Staked AVAX",
+      "symbol": "sAVAX"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "Victorinox / AVAX",
+    "token0": {
+      "id": "0x366c02225c7afa52fd591f8816810ab707301871",
+      "name": "Victorinox Metaverse",
+      "symbol": "Victorinox"
+    },
+    "token1": {
+      "id": "0x86124f2a9fddd6badf5b2e8c5f8e101b78a16cfb",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "FLIX / AVAX",
+    "token0": {
+      "id": "0x9e9d3e99230c3bb4fa7efaa8d92be807a03cf2b4",
+      "name": "FLIX Token",
+      "symbol": "FLIX"
+    },
+    "token1": {
+      "id": "0xf5c09ee197d1e393c6cf37f4852b562fac0566da",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "NXUSD / WXT",
+    "token0": {
+      "id": "0xf14f4ce569cb3679e99d5059909e23b07bd2f387",
+      "name": "NXUSD",
+      "symbol": "NXUSD"
+    },
+    "token1": {
+      "id": "0xfcde4a87b8b6fa58326bb462882f1778158b02f1",
+      "name": "Wirex Token",
+      "symbol": "WXT"
+    }
+  },
+  {
+    "name": "WLRS / USDC.e",
+    "token0": {
+      "id": "0x395908aeb53d33a9b8ac35e148e9805d34a555d3",
+      "name": "frozenwalrus.finance",
+      "symbol": "WLRS"
+    },
+    "token1": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    }
+  },
+  {
+    "name": "GMX / AVAX",
+    "token0": {
+      "id": "0x62edc0692bd897d2295872a9ffcac5425011c661",
+      "name": "GMX",
+      "symbol": "GMX"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "USDt / RUX",
+    "token0": {
+      "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+      "name": "TetherToken",
+      "symbol": "USDt"
+    },
+    "token1": {
+      "id": "0xa1afcc973d44ce1c65a21d9e644cb82489d26503",
+      "name": "RunBlox Token",
+      "symbol": "RUX"
+    }
+  },
+  {
+    "name": "MIM / AFARMER",
+    "token0": {
+      "id": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+      "name": "Magic Internet Money",
+      "symbol": "MIM"
+    },
+    "token1": {
+      "id": "0x27dd167375ab6e9916a9dbdb2eed02ebd9604082",
+      "name": "LittleFarmer",
+      "symbol": "AFARMER"
+    }
+  },
+  {
+    "name": "sAVANET / AVANET",
+    "token0": {
+      "id": "0x0c40f5d254bf89499198a38f058b376d895a0c9a",
+      "name": "StakedAVANET",
+      "symbol": "sAVANET"
+    },
+    "token1": {
+      "id": "0x246a08a58549e14d0fcb24d7e9227661ede807a8",
+      "name": "AvangerNews",
+      "symbol": "AVANET"
+    }
+  },
+  {
+    "name": "LiPOGE / USDT",
+    "token0": {
+      "id": "0x168c14b83c959778b6b8c4e4fa0c20af8df23e61",
+      "name": "iLiPoge Coin",
+      "symbol": "LiPOGE"
+    },
+    "token1": {
+      "id": "0xb91411de29ffcd75c3c816cfb1a8e24b13c86f4a",
+      "name": "TetherToken",
+      "symbol": "USDT"
+    }
+  },
+  {
+    "name": "WBTC.e / AVAX",
+    "token0": {
+      "id": "0x50b7545627a5162f82a992c33b87adc75187b218",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC.e"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "THOR / AVAX",
+    "token0": {
+      "id": "0x8f47416cae600bccf9530e9f3aeaa06bdd1caa79",
+      "name": "THOR v2",
+      "symbol": "THOR"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "USDt / OWL",
+    "token0": {
+      "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+      "name": "TetherToken",
+      "symbol": "USDt"
+    },
+    "token1": {
+      "id": "0xab547a8dc764408ce9dea41bdf689aeeb349da12",
+      "name": "Owl Token",
+      "symbol": "OWL"
+    }
+  },
+  {
+    "name": "MIM / GRAPE",
+    "token0": {
+      "id": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+      "name": "Magic Internet Money",
+      "symbol": "MIM"
+    },
+    "token1": {
+      "id": "0x5541d83efad1f281571b343977648b75d95cdac2",
+      "name": "Grape Finance",
+      "symbol": "GRAPE"
+    }
+  },
+  {
+    "name": "MIM / AVAX",
+    "token0": {
+      "id": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+      "name": "Magic Internet Money",
+      "symbol": "MIM"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "MIM / GMA",
+    "token0": {
+      "id": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+      "name": "Magic Internet Money",
+      "symbol": "MIM"
+    },
+    "token1": {
+      "id": "0x19cfd1a6b1cd236b542b561ed26b32d697e5a77f",
+      "name": "ENIGM",
+      "symbol": "GMA"
+    }
+  },
+  {
+    "name": "AVAX / KOO",
+    "token0": {
+      "id": "0x8e07269b6426f3d331c32d4b2ff609cfb4214ae1",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xf0eab3c65adfa7a1cf898817bdaa92052c2b7bdb",
+      "name": "Morning Always Comes",
+      "symbol": "KOO"
+    }
+  },
+  {
+    "name": "MIM / SKULL",
+    "token0": {
+      "id": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+      "name": "Magic Internet Money",
+      "symbol": "MIM"
+    },
+    "token1": {
+      "id": "0x84a8297720fe27c71ffccfa3f685e4d9fc377afc",
+      "name": "Skull Finance",
+      "symbol": "SKULL"
+    }
+  },
+  {
+    "name": "PTP / AVAX",
+    "token0": {
+      "id": "0x22d4002028f537599be9f666d1c4fa138522f9c8",
+      "name": "Platypus",
+      "symbol": "PTP"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "JOE / USDC",
+    "token0": {
+      "id": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+      "name": "JoeToken",
+      "symbol": "JOE"
+    },
+    "token1": {
+      "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    }
+  },
+  {
+    "name": "USDC.e / WSHARE",
+    "token0": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    },
+    "token1": {
+      "id": "0xe6d1afea0b76c8f51024683dd27fa446ddaf34b6",
+      "name": "Frozen Walrus Share",
+      "symbol": "WSHARE"
+    }
+  },
+  {
+    "name": "EGG / AVAX",
+    "token0": {
+      "id": "0x7761e2338b35bceb6bda6ce477ef012bde7ae611",
+      "name": "chikn egg",
+      "symbol": "EGG"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "STG / USDC",
+    "token0": {
+      "id": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "name": "StargateToken",
+      "symbol": "STG"
+    },
+    "token1": {
+      "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    }
+  },
+  {
+    "name": "WETH / USDC.e",
+    "token0": {
+      "id": "0x8b82a291f83ca07af22120aba21632088fc92931",
+      "name": "Wrapped Ether (Wormhole)",
+      "symbol": "WETH"
+    },
+    "token1": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    }
+  },
+  {
+    "name": "USDt / USDT.e",
+    "token0": {
+      "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+      "name": "TetherToken",
+      "symbol": "USDt"
+    },
+    "token1": {
+      "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+      "name": "Tether USD",
+      "symbol": "USDT.e"
+    }
+  },
+  {
+    "name": "AVAX / FIRE",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xfcc6ce74f4cd7edef0c5429bb99d38a3608043a5",
+      "name": "FIRE",
+      "symbol": "FIRE"
+    }
+  },
+  {
+    "name": "UMAGA / AVAX",
+    "token0": {
+      "id": "0x495318dd72d0803c328d8a473ade0e3e6fe6feb9",
+      "name": "UltraMAGA",
+      "symbol": "UMAGA"
+    },
+    "token1": {
+      "id": "0xc545da6510834f46dd2f46e843206bf8a73f0673",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "BBB / AAA",
+    "token0": {
+      "id": "0xaf55626a06e8d48f70b6b58b0806765274e5ab46",
+      "name": "BBB",
+      "symbol": "BBB"
+    },
+    "token1": {
+      "id": "0xfc32516c6df1d346b56c4e477125a5d4a0ca56a2",
+      "name": "AAA",
+      "symbol": "AAA"
+    }
+  },
+  {
+    "name": "SKY / WAVX",
+    "token0": {
+      "id": "0x641e3862ec51eaff9368e39279f46db2a9aa5c47",
+      "name": "SKY",
+      "symbol": "SKY"
+    },
+    "token1": {
+      "id": "0xe3766695083db4c6155a69b1aead09b165535f23",
+      "name": "WAVX",
+      "symbol": "WAVX"
+    }
+  },
+  {
+    "name": "BNB / AVAX",
+    "token0": {
+      "id": "0x264c1383ea520f73dd837f915ef3a732e204a493",
+      "name": "Binance",
+      "symbol": "BNB"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "LINK.e / AVAX",
+    "token0": {
+      "id": "0x5947bb275c521040051d82396192181b413227a3",
+      "name": "Chainlink Token",
+      "symbol": "LINK.e"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "USDC.e / SOL",
+    "token0": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    },
+    "token1": {
+      "id": "0xfe6b19286885a4f7f55adad09c3cd1f906d2478f",
+      "name": "Wrapped SOL (Wormhole)",
+      "symbol": "SOL"
+    }
+  },
+  {
+    "name": "AVAX / DAI.e",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI.e"
+    }
+  },
+  {
+    "name": "bAVAX / USDC.e",
+    "token0": {
+      "id": "0x4f1437a43500b7863c614528e6a15b220904010b",
+      "name": "bAVAX",
+      "symbol": "bAVAX"
+    },
+    "token1": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    }
+  },
+  {
+    "name": "Hitech / DROP",
+    "token0": {
+      "id": "0x856d6d0cabf1adc2ab746cdcb7dda70f71793a25",
+      "name": "Hitech Network",
+      "symbol": "Hitech"
+    },
+    "token1": {
+      "id": "0xe7774a7904b4fc7f360660c6cfafa1d75ef6a90e",
+      "name": "DROP",
+      "symbol": "DROP"
+    }
+  },
+  {
+    "name": "VTX / AVAX",
+    "token0": {
+      "id": "0x5817d4f0b62a59b17f75207da1848c2ce75e7af4",
+      "name": "Vector",
+      "symbol": "VTX"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "USDC.e / WMATIC",
+    "token0": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    },
+    "token1": {
+      "id": "0xf2f13f0b7008ab2fa4a2418f4ccc3684e49d20eb",
+      "name": "Wrapped Matic (Wormhole)",
+      "symbol": "WMATIC"
+    }
+  },
+  {
+    "name": "PLAYMATES / AVAX",
+    "token0": {
+      "id": "0x490bf3abcab1fb5c88533d850f2a8d6d38298465",
+      "name": "Playmates",
+      "symbol": "PLAYMATES"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "DAI.e / VOLT",
+    "token0": {
+      "id": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI.e"
+    },
+    "token1": {
+      "id": "0xf5ee578505f4d876fef288dfd9fd5e15e9ea1318",
+      "name": "Asgardian Aereus",
+      "symbol": "VOLT"
+    }
+  },
+  {
+    "name": "JOE / USDC.e",
+    "token0": {
+      "id": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+      "name": "JoeToken",
+      "symbol": "JOE"
+    },
+    "token1": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    }
+  },
+  {
+    "name": "SMRTr / AVAX",
+    "token0": {
+      "id": "0x6d923f688c7ff287dc3a5943caeefc994f97b290",
+      "name": "SmarterCoin",
+      "symbol": "SMRTr"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "ZOO / AVAX",
+    "token0": {
+      "id": "0x1b88d7ad51626044ec62ef9803ea264da4442f32",
+      "name": "ZooToken",
+      "symbol": "ZOO"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "gOHM / AVAX",
+    "token0": {
+      "id": "0x321e7092a180bb43555132ec53aaa65a5bf84251",
+      "name": "Governance OHM",
+      "symbol": "gOHM"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "TRUSD / USDa",
+    "token0": {
+      "id": "0x2a385dfeab87ace4f5f64523932e4c6cec51bbd3",
+      "name": "TRUSD Stable Dollar",
+      "symbol": "TRUSD"
+    },
+    "token1": {
+      "id": "0x8ba03ce31f71c6733b0764ce82f3c68d4f6173fa",
+      "name": "USDa Stable Dollar",
+      "symbol": "USDa"
+    }
+  },
+  {
+    "name": "AVAX / RISE",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xc17c30e98541188614df99239cabd40280810ca3",
+      "name": "EverRise",
+      "symbol": "RISE"
+    }
+  },
+  {
+    "name": "VPND / AVAX",
+    "token0": {
+      "id": "0x83a283641c6b4df383bcddf807193284c84c5342",
+      "name": "VaporNodes",
+      "symbol": "VPND"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "AVAX / FIEF",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xea068fba19ce95f12d252ad8cb2939225c4ea02d",
+      "name": "Fief",
+      "symbol": "FIEF"
+    }
+  },
+  {
+    "name": "EVO / AVAX",
+    "token0": {
+      "id": "0x42006ab57701251b580bdfc24778c43c9ff589a1",
+      "name": "EVO",
+      "symbol": "EVO"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "YETI / AVAX",
+    "token0": {
+      "id": "0x77777777777d4554c39223c354a05825b2e8faa3",
+      "name": "Yeti Finance",
+      "symbol": "YETI"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "USDC.e / OT / qiUSDC / 28DEC2023",
+    "token0": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    },
+    "token1": {
+      "id": "0xfffe5fc3e511ce11df20684aec435a3e2b7d8136",
+      "name": "OT Benqi USDC 28DEC2023",
+      "symbol": "OT / qiUSDC / 28DEC2023"
+    }
+  },
+  {
+    "name": "MU / MUG",
+    "token0": {
+      "id": "0xd036414fa2bcbb802691491e323bff1348c5f4ba",
+      "name": "Mu Coin",
+      "symbol": "MU"
+    },
+    "token1": {
+      "id": "0xf7ed17f0fb2b7c9d3ddbc9f0679b2e1098993e81",
+      "name": "Mu Gold",
+      "symbol": "MUG"
+    }
+  },
+  {
+    "name": "AVAX / XAVA",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4",
+      "name": "Avalaunch",
+      "symbol": "XAVA"
+    }
+  },
+  {
+    "name": "ASTRO / AVAX",
+    "token0": {
+      "id": "0x6d2f5dbf3a7396fce32cfe406aef7a8aff812fbb",
+      "name": "100 Days Ventures  /  v1.1",
+      "symbol": "ASTRO"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "DCAR / USDC",
+    "token0": {
+      "id": "0x250bdca7d1845cd543bb55e7d82dca24d48e9f0f",
+      "name": "Dragon Crypto Argenti",
+      "symbol": "DCAR"
+    },
+    "token1": {
+      "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    }
+  },
+  {
+    "name": "MIM / WINE",
+    "token0": {
+      "id": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+      "name": "Magic Internet Money",
+      "symbol": "MIM"
+    },
+    "token1": {
+      "id": "0xc55036b5348cfb45a932481744645985010d3a44",
+      "name": "Wine Shares",
+      "symbol": "WINE"
+    }
+  },
+  {
+    "name": "AAVE.e / AVAX",
+    "token0": {
+      "id": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+      "name": "Aave Token",
+      "symbol": "AAVE.e"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "pAVAX / AVAX",
+    "token0": {
+      "id": "0x6ca558bd3eab53da1b25ab97916dd14bf6cfee4e",
+      "name": "pAVAX",
+      "symbol": "pAVAX"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "USDC.e / SDT",
+    "token0": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    },
+    "token1": {
+      "id": "0xccbf7c451f81752f7d2237f2c18c371e6e089e69",
+      "name": "Stake DAO Token",
+      "symbol": "SDT"
+    }
+  },
+  {
+    "name": "ALPHA.e / AVAX",
+    "token0": {
+      "id": "0x2147efff675e4a4ee1c2f918d181cdbd7a8e208f",
+      "name": "AlphaToken",
+      "symbol": "ALPHA.e"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "AVAX / PENDLE",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
+      "name": "Pendle",
+      "symbol": "PENDLE"
+    }
+  },
+  {
+    "name": "rloop / AVAX",
+    "token0": {
+      "id": "0x822b906e74d493d07223cf6858620ccda66b2154",
+      "name": "rLoop",
+      "symbol": "rloop"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "CRV / AVAX",
+    "token0": {
+      "id": "0x47536f17f4ff30e64a96a7555826b8f9e66ec468",
+      "name": "Curve DAO Token",
+      "symbol": "CRV"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "AVAX / ECD",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xeb8343d5284caec921f035207ca94db6baaacbcd",
+      "name": "Echidna Token",
+      "symbol": "ECD"
+    }
+  },
+  {
+    "name": "JOE / USDT.e",
+    "token0": {
+      "id": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+      "name": "JoeToken",
+      "symbol": "JOE"
+    },
+    "token1": {
+      "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+      "name": "Tether USD",
+      "symbol": "USDT.e"
+    }
+  },
+  {
+    "name": "MIM / ASND",
+    "token0": {
+      "id": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+      "name": "Magic Internet Money",
+      "symbol": "MIM"
+    },
+    "token1": {
+      "id": "0xfd0c58f03c83d6960bb9dbfd45076d78df2f095d",
+      "name": "Ascend",
+      "symbol": "ASND"
+    }
+  },
+  {
+    "name": "QI / AVAX",
+    "token0": {
+      "id": "0xa56f9a54880afbc30cf29bb66d2d9adcdcaeadd6",
+      "name": "Qi Dao Protocol",
+      "symbol": "QI"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "AVAX / GMT",
+    "token0": {
+      "id": "0x0ef6b314c985dbda2c2611550a705a0a85ee4955",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0x60737f22cdffaef1746e082a2a1940f0421fab58",
+      "name": "Green Metaverse Token",
+      "symbol": "GMT"
+    }
+  },
+  {
+    "name": "AVAX / FRAX",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64",
+      "name": "Frax",
+      "symbol": "FRAX"
+    }
+  },
+  {
+    "name": "USDC / MEAD",
+    "token0": {
+      "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "token1": {
+      "id": "0xd21cdca47fa45a0a51eec030e27af390ab3aa489",
+      "name": "Mead",
+      "symbol": "MEAD"
+    }
+  },
+  {
+    "name": "DEG / AVAX",
+    "token0": {
+      "id": "0x9f285507ea5b4f33822ca7abb5ec8953ce37a645",
+      "name": "DegisToken",
+      "symbol": "DEG"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "CRA / AVAX",
+    "token0": {
+      "id": "0xa32608e873f9ddef944b24798db69d80bbb4d1ed",
+      "name": "CRA",
+      "symbol": "CRA"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "LIQR / AVAX",
+    "token0": {
+      "id": "0x33333ee26a7d02e41c33828b42fb1e0889143477",
+      "name": "LIQR",
+      "symbol": "LIQR"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "NEWO / AVAX",
+    "token0": {
+      "id": "0x4bfc90322dd638f81f034517359bd447f8e0235a",
+      "name": "New Order",
+      "symbol": "NEWO"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "xPTP / PTP",
+    "token0": {
+      "id": "0x060556209e507d30f2167a101bfc6d256ed2f3e1",
+      "name": "xPTP",
+      "symbol": "xPTP"
+    },
+    "token1": {
+      "id": "0x22d4002028f537599be9f666d1c4fa138522f9c8",
+      "name": "Platypus",
+      "symbol": "PTP"
+    }
+  },
+  {
+    "name": "USDC.e / USDT.e",
+    "token0": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    },
+    "token1": {
+      "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+      "name": "Tether USD",
+      "symbol": "USDT.e"
+    }
+  },
+  {
+    "name": "MAGIC / COSMIC",
+    "token0": {
+      "id": "0x9a8e0217cd870783c3f2317985c57bf570969153",
+      "name": "Magic",
+      "symbol": "MAGIC"
+    },
+    "token1": {
+      "id": "0xe48c74833ce6f18a8e54f73f1d02b8e9f9ff8caa",
+      "name": "Cosmic",
+      "symbol": "COSMIC"
+    }
+  },
+  {
+    "name": "WET / AVAX",
+    "token0": {
+      "id": "0xb1466d4cf0dcfc0bcddcf3500f473cdacb88b56d",
+      "name": "Weble Ecosystem Token",
+      "symbol": "WET"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "CMSN / AVAX",
+    "token0": {
+      "id": "0x2e1a7a2889154cded22f4ce8c4d1cc6dc4a58452",
+      "name": "The Commission",
+      "symbol": "CMSN"
+    },
+    "token1": {
+      "id": "0xed8a46ffc1835ff196b17487d8e9383a1e7c4753",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "AVAX / IME",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xf891214fdcf9cdaa5fdc42369ee4f27f226adad6",
+      "name": "Imperium Empires Token",
+      "symbol": "IME"
+    }
+  },
+  {
+    "name": "ORBIT / AVAX",
+    "token0": {
+      "id": "0x340990358ae38008181b6db6156d9021a2d425da",
+      "name": "Europa Token",
+      "symbol": "ORBIT"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "WLRS / GRAPE",
+    "token0": {
+      "id": "0x395908aeb53d33a9b8ac35e148e9805d34a555d3",
+      "name": "frozenwalrus.finance",
+      "symbol": "WLRS"
+    },
+    "token1": {
+      "id": "0x5541d83efad1f281571b343977648b75d95cdac2",
+      "name": "Grape Finance",
+      "symbol": "GRAPE"
+    }
+  },
+  {
+    "name": "OT / JLP / 28DEC2023 / PENDLE",
+    "token0": {
+      "id": "0xabced2a62fd308bd1b98085c13df74b685140c0b",
+      "name": "OT Joe LP Token 28DEC2023",
+      "symbol": "OT / JLP / 28DEC2023"
+    },
+    "token1": {
+      "id": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
+      "name": "Pendle",
+      "symbol": "PENDLE"
+    }
+  },
+  {
+    "name": "$ALPHA / AVAX",
+    "token0": {
+      "id": "0x325a98f258a5732c7b06555603f6af5bc1c17f0a",
+      "name": "$ALPHA",
+      "symbol": "$ALPHA"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "PIZZA / AVAX",
+    "token0": {
+      "id": "0x6121191018baf067c6dc6b18d42329447a164f05",
+      "name": "Pizza",
+      "symbol": "PIZZA"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "MIM / LF",
+    "token0": {
+      "id": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+      "name": "Magic Internet Money",
+      "symbol": "MIM"
+    },
+    "token1": {
+      "id": "0x5684a087c739a2e845f4aaaabf4fbd261edc2be8",
+      "name": "Life",
+      "symbol": "LF"
+    }
+  },
+  {
+    "name": "SNCT / AVAX",
+    "token0": {
+      "id": "0x2905d6d6957983d9ed73bc019ff2782c39dd7a49",
+      "name": "Snake City Token",
+      "symbol": "SNCT"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "JOE / zJoe",
+    "token0": {
+      "id": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+      "name": "JoeToken",
+      "symbol": "JOE"
+    },
+    "token1": {
+      "id": "0x769bfeb9faacd6eb2746979a8dd0b7e9920ac2a4",
+      "name": "zJoe",
+      "symbol": "zJoe"
+    }
+  },
+  {
+    "name": "WBTC.e / USDC.e",
+    "token0": {
+      "id": "0x50b7545627a5162f82a992c33b87adc75187b218",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC.e"
+    },
+    "token1": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    }
+  },
+  {
+    "name": "gOHM / FRAX",
+    "token0": {
+      "id": "0x321e7092a180bb43555132ec53aaa65a5bf84251",
+      "name": "Governance OHM",
+      "symbol": "gOHM"
+    },
+    "token1": {
+      "id": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64",
+      "name": "Frax",
+      "symbol": "FRAX"
+    }
+  },
+  {
+    "name": "USDC.e / MU",
+    "token0": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    },
+    "token1": {
+      "id": "0xd036414fa2bcbb802691491e323bff1348c5f4ba",
+      "name": "Mu Coin",
+      "symbol": "MU"
+    }
+  },
+  {
+    "name": "BDSCI1 / APE / X",
+    "token0": {
+      "id": "0x88e3850000ef6e56dfc7475b1a4b2214063eedb8",
+      "name": "BlackDiamondSCInc1",
+      "symbol": "BDSCI1"
+    },
+    "token1": {
+      "id": "0xd039c9079ca7f2a87d632a9c0d7cea0137bacfb5",
+      "name": "Ape / X",
+      "symbol": "APE / X"
+    }
+  },
+  {
+    "name": "AVAX / HON",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xed2b42d3c9c6e97e11755bb37df29b6375ede3eb",
+      "name": "HonToken",
+      "symbol": "HON"
+    }
+  },
+  {
+    "name": "USDC.e / OT / qiAVAX / 28DEC2023",
+    "token0": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    },
+    "token1": {
+      "id": "0xecc5748b1ff6b23f284ec81e8bf034409961d8dc",
+      "name": "OT Benqi AVAX 28DEC2023",
+      "symbol": "OT / qiAVAX / 28DEC2023"
+    }
+  },
+  {
+    "name": "GRAPE / WINE",
+    "token0": {
+      "id": "0x5541d83efad1f281571b343977648b75d95cdac2",
+      "name": "Grape Finance",
+      "symbol": "GRAPE"
+    },
+    "token1": {
+      "id": "0xc55036b5348cfb45a932481744645985010d3a44",
+      "name": "Wine Shares",
+      "symbol": "WINE"
+    }
+  },
+  {
+    "name": "USDC.e / DAI.e",
+    "token0": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    },
+    "token1": {
+      "id": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI.e"
+    }
+  },
+  {
+    "name": "STEAK / AVAX",
+    "token0": {
+      "id": "0xb279f8dd152b99ec1d84a489d32c35bc0c7f5674",
+      "name": "STEAK",
+      "symbol": "STEAK"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "DCAU / AVAX",
+    "token0": {
+      "id": "0x100cc3a819dd3e8573fd2e46d1e66ee866068f30",
+      "name": "Dragon Crypto Aurum",
+      "symbol": "DCAU"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "3ULL / AVAX",
+    "token0": {
+      "id": "0x9e15f045e44ea5a80e7fbc193a35287712cc5569",
+      "name": "3ULL v2",
+      "symbol": "3ULL"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "POLAR / AVAX",
+    "token0": {
+      "id": "0x6c1c0319d8ddcb0ffe1a68c5b3829fd361587db4",
+      "name": "POLAR",
+      "symbol": "POLAR"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "DBY / AVAX",
+    "token0": {
+      "id": "0x5085434227ab73151fad2de546210cbc8663df96",
+      "name": "Metaderby token",
+      "symbol": "DBY"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "JADE / USDC",
+    "token0": {
+      "id": "0x80b010450fdaf6a3f8df033ee296e92751d603b3",
+      "name": "Jade Protocol",
+      "symbol": "JADE"
+    },
+    "token1": {
+      "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    }
+  },
+  {
+    "name": "PAE / AVAX",
+    "token0": {
+      "id": "0x9466ab927611725b9af76b9f31b2f879ff14233d",
+      "name": "Ripae",
+      "symbol": "PAE"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "ASAFTI / AVAX",
+    "token0": {
+      "id": "0x8832d30286907612952aafc3d249e79e39732dcc",
+      "name": "SafuTitano",
+      "symbol": "ASAFTI"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "AVAX / DOMI",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xfc6da929c031162841370af240dec19099861d3b",
+      "name": "Domi",
+      "symbol": "DOMI"
+    }
+  },
+  {
+    "name": "XETA / USDC",
+    "token0": {
+      "id": "0x31c994ac062c1970c086260bc61babb708643fac",
+      "name": "XANA",
+      "symbol": "XETA"
+    },
+    "token1": {
+      "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    }
+  },
+  {
+    "name": "KINE / USDT.e",
+    "token0": {
+      "id": "0xa9c1740fa56e4c0f6ce5a792fd27095c8b6ccd87",
+      "name": "Kine Governance Token",
+      "symbol": "KINE"
+    },
+    "token1": {
+      "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+      "name": "Tether USD",
+      "symbol": "USDT.e"
+    }
+  },
+  {
+    "name": "AVAX / LiPOGE",
+    "token0": {
+      "id": "0x631a499e79fb46e2ab7e4a5f18e3391ad32386b6",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xd9e8ae66782529b3fc9157af2b6fa137bea46e5d",
+      "name": "iLiPogeCoin",
+      "symbol": "LiPOGE"
+    }
+  },
+  {
+    "name": "DCAU / USDT.e",
+    "token0": {
+      "id": "0x100cc3a819dd3e8573fd2e46d1e66ee866068f30",
+      "name": "Dragon Crypto Aurum",
+      "symbol": "DCAU"
+    },
+    "token1": {
+      "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+      "name": "Tether USD",
+      "symbol": "USDT.e"
+    }
+  },
+  {
+    "name": "MIM / FORT",
+    "token0": {
+      "id": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+      "name": "Magic Internet Money",
+      "symbol": "MIM"
+    },
+    "token1": {
+      "id": "0xf6d46849db378ae01d93732585bec2c4480d1fd5",
+      "name": "Fort",
+      "symbol": "FORT"
+    }
+  },
+  {
+    "name": "FLY / AVAX",
+    "token0": {
+      "id": "0x78ea3fef1c1f07348199bf44f45b803b9b0dbe28",
+      "name": "FLY",
+      "symbol": "FLY"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "AVAL / USDC.e",
+    "token0": {
+      "id": "0xa216f344fcd412c129e0c012798a137e332f8955",
+      "name": "Avalend Finance",
+      "symbol": "AVAL"
+    },
+    "token1": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    }
+  },
+  {
+    "name": "MEAD / AVAX",
+    "token0": {
+      "id": "0x44a45a9baeb63c6ea4860ecf9ac5732c330c4d4e",
+      "name": "Thors Mead V2",
+      "symbol": "MEAD"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "FOOK / AVAX",
+    "token0": {
+      "id": "0x95923f63da09b4f7520f7c65a31f318d8228b744",
+      "name": "FOOK Token",
+      "symbol": "FOOK"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "USDC.e / RUG",
+    "token0": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    },
+    "token1": {
+      "id": "0xb8ef3a190b68175000b74b4160d325fd5024760e",
+      "name": "R U Generous",
+      "symbol": "RUG"
+    }
+  },
+  {
+    "name": "USDT.e / DAI.e",
+    "token0": {
+      "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+      "name": "Tether USD",
+      "symbol": "USDT.e"
+    },
+    "token1": {
+      "id": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI.e"
+    }
+  },
+  {
+    "name": "AVAX / LVT",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xff579d6259dedcc80488c9b89d2820bcb5609160",
+      "name": "Louverture",
+      "symbol": "LVT"
+    }
+  },
+  {
+    "name": "SMRT / AVAX",
+    "token0": {
+      "id": "0x712b05710bcfe9c9b1df08d0f846f42c3d457f3e",
+      "name": "SmartNodes",
+      "symbol": "SMRT"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "KLO / AVAX",
+    "token0": {
+      "id": "0xb27c8941a7df8958a1778c0259f76d1f8b711c35",
+      "name": "Kalao Token",
+      "symbol": "KLO"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "LiPOGE / AVAX",
+    "token0": {
+      "id": "0x168c14b83c959778b6b8c4e4fa0c20af8df23e61",
+      "name": "iLiPoge Coin",
+      "symbol": "LiPOGE"
+    },
+    "token1": {
+      "id": "0x631a499e79fb46e2ab7e4a5f18e3391ad32386b6",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "WETH.e / USDC.e",
+    "token0": {
+      "id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+      "name": "Wrapped Ether",
+      "symbol": "WETH.e"
+    },
+    "token1": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    }
+  },
+  {
+    "name": "AVAX / CLY",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xec3492a2508ddf4fdc0cd76f31f340b30d1793e6",
+      "name": "Colony Token",
+      "symbol": "CLY"
+    }
+  },
+  {
+    "name": "USDibs / WLRS",
+    "token0": {
+      "id": "0x0efa5328fefce96c8d10661bd97403764d477853",
+      "name": "Dibs USD",
+      "symbol": "USDibs"
+    },
+    "token1": {
+      "id": "0x395908aeb53d33a9b8ac35e148e9805d34a555d3",
+      "name": "frozenwalrus.finance",
+      "symbol": "WLRS"
+    }
+  },
+  {
+    "name": "MIND+ / AVAX",
+    "token0": {
+      "id": "0x92876c3a3e2b0788c841587a14989392a555bffe",
+      "name": "MIND+",
+      "symbol": "MIND+"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "AVIC / USDC",
+    "token0": {
+      "id": "0x59b18817ca9f4ad2dee6fbf30132df6aeb9d763d",
+      "name": "Victory",
+      "symbol": "AVIC"
+    },
+    "token1": {
+      "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    }
+  },
+  {
+    "name": "SLIME / AVAX",
+    "token0": {
+      "id": "0x5a15bdcf9a3a8e799fa4381e666466a516f2d9c8",
+      "name": "Snail Trail",
+      "symbol": "SLIME"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "MIM / USDC.e",
+    "token0": {
+      "id": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+      "name": "Magic Internet Money",
+      "symbol": "MIM"
+    },
+    "token1": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    }
+  },
+  {
+    "name": "AVAX / TUS",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xf693248f96fe03422fea95ac0afbbbc4a8fdd172",
+      "name": "Treasure Under Sea",
+      "symbol": "TUS"
+    }
+  },
+  {
+    "name": "AVAX / CINU",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xc11bf915db4b43714bc8d32bf83bf5ea53d40981",
+      "name": "CHEEMSINU",
+      "symbol": "CINU"
+    }
+  },
+  {
+    "name": "SCAT / DAI.e",
+    "token0": {
+      "id": "0xbe3e1f44d99edb10cf6378e5a3879bb533a67331",
+      "name": "SnowCat",
+      "symbol": "SCAT"
+    },
+    "token1": {
+      "id": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI.e"
+    }
+  },
+  {
+    "name": "MAGIC / USDC",
+    "token0": {
+      "id": "0x9a8e0217cd870783c3f2317985c57bf570969153",
+      "name": "Magic",
+      "symbol": "MAGIC"
+    },
+    "token1": {
+      "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    }
+  },
+  {
+    "name": "QI / AVAX",
+    "token0": {
+      "id": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+      "name": "BENQI",
+      "symbol": "QI"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "AVAX / CCY",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xb723783e0f9015c8e20b87f6cf7ae24df6479e62",
+      "name": "ChoccyCoin",
+      "symbol": "CCY"
+    }
+  },
+  {
+    "name": "MELT / AVAX",
+    "token0": {
+      "id": "0x47eb6f7525c1aa999fbc9ee92715f5231eb1241d",
+      "name": "Defrost Finance Token",
+      "symbol": "MELT"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "BRZ / USDC",
+    "token0": {
+      "id": "0x491a4eb4f1fc3bff8e1d2fc856a6a46663ad556f",
+      "name": "BRZ",
+      "symbol": "BRZ"
+    },
+    "token1": {
+      "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    }
+  },
+  {
+    "name": "USDC.e / XLGS",
+    "token0": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    },
+    "token1": {
+      "id": "0xcd6d596adb9070b5075d1309bc0b4ea7d9ddb821",
+      "name": "LegionSwap",
+      "symbol": "XLGS"
+    }
+  },
+  {
+    "name": "AVAX / AXL",
+    "token0": {
+      "id": "0x819f75f9e4fb6609716e120c8549c21769c79f7f",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xd97ff0f7be2e2a0c7b4b3a2f41b74d2b636aee78",
+      "name": "Axxeleum Finance",
+      "symbol": "AXL"
+    }
+  },
+  {
+    "name": "BDAO / USDC",
+    "token0": {
+      "id": "0x83c7412931398502922a35911e5fab221822f4b6",
+      "name": "Bamboo DAO Shares",
+      "symbol": "BDAO"
+    },
+    "token1": {
+      "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    }
+  },
+  {
+    "name": "BioFi / AVAX",
+    "token0": {
+      "id": "0x9366d30feba284e62900f6295bc28c9906f33172",
+      "name": "BioFi",
+      "symbol": "BioFi"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "APE / AVAX",
+    "token0": {
+      "id": "0x0802d66f029c46e042b74d543fc43b6705ccb4ba",
+      "name": "ApeCoin",
+      "symbol": "APE"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "AVAX / CHRO",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xbf1230bb63bfd7f5d628ab7b543bcefa8a24b81b",
+      "name": "Chronicum",
+      "symbol": "CHRO"
+    }
+  },
+  {
+    "name": "AVAX / AXIAL",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xcf8419a615c57511807236751c0af38db4ba3351",
+      "name": "AxialToken",
+      "symbol": "AXIAL"
+    }
+  },
+  {
+    "name": "SIFU / AVAX",
+    "token0": {
+      "id": "0x4123f55048889fa021dfb6de4b4071c6f90112ed",
+      "name": "Sifu Inu",
+      "symbol": "SIFU"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "PTP / ecdPTP",
+    "token0": {
+      "id": "0x22d4002028f537599be9f666d1c4fa138522f9c8",
+      "name": "Platypus",
+      "symbol": "PTP"
+    },
+    "token1": {
+      "id": "0xb2c5172e5c15af6add1ec92e518a5ea1c7ded2ad",
+      "name": "Echidna PTP",
+      "symbol": "ecdPTP"
+    }
+  },
+  {
+    "name": "FXS / AVAX",
+    "token0": {
+      "id": "0x214db107654ff987ad859f34125307783fc8e387",
+      "name": "Frax Share",
+      "symbol": "FXS"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "OH / AVAX",
+    "token0": {
+      "id": "0x937e077abaea52d3abf879c9b9d3f2ebd15baa21",
+      "name": "Oh! Finance",
+      "symbol": "OH"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "AVAX / SWAP.e",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xc7b5d72c836e718cda8888eaf03707faef675079",
+      "name": "TrustSwap Token",
+      "symbol": "SWAP.e"
+    }
+  },
+  {
+    "name": "BSN / AVAX",
+    "token0": {
+      "id": "0x237bed318a3bb26bdb3790901a7a79cf53c7b80f",
+      "name": "Black Shark Nodes",
+      "symbol": "BSN"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "XIO / USDC",
+    "token0": {
+      "id": "0x2cf51e73c3516f3d86e9c0b4de0971dbf0766fd4",
+      "name": "XIO Network",
+      "symbol": "XIO"
+    },
+    "token1": {
+      "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    }
+  },
+  {
+    "name": "AVAX / YEL",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xc5e7520432ebdbf0a610287ac45fc231876f5e99",
+      "name": "YEL Token",
+      "symbol": "YEL"
+    }
+  },
+  {
+    "name": "Dice / Dice",
+    "token0": {
+      "id": "0x0b47d67a059a22fc741faadf2d2bcf216d3cdd7a",
+      "name": "Dice DAO",
+      "symbol": "Dice"
+    },
+    "token1": {
+      "id": "0xdd30bd91d9424a6c618eecffca56179128e1c88a",
+      "name": "Dice DAO",
+      "symbol": "Dice"
+    }
+  },
+  {
+    "name": "USDC / PND",
+    "token0": {
+      "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "token1": {
+      "id": "0xd8a30ba14128193a02f90e2d5eaa943bc446630d",
+      "name": "Panda Finance",
+      "symbol": "PND"
+    }
+  },
+  {
+    "name": "PIZZA / RONI",
+    "token0": {
+      "id": "0x6121191018baf067c6dc6b18d42329447a164f05",
+      "name": "Pizza",
+      "symbol": "PIZZA"
+    },
+    "token1": {
+      "id": "0xe52459f8e93d3ee8aec834fee8f8dbbe1b964cec",
+      "name": "Pepperoni",
+      "symbol": "RONI"
+    }
+  },
+  {
+    "name": "YUSD / AVAX",
+    "token0": {
+      "id": "0x111111111111ed1d73f860f57b2798b683f2d325",
+      "name": "YUSD Stablecoin",
+      "symbol": "YUSD"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "AVAX / HeC",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xc7f4debc8072e23fe9259a5c0398326d8efb7f5c",
+      "name": "HeroesChained",
+      "symbol": "HeC"
+    }
+  },
+  {
+    "name": "DLC / USDC",
+    "token0": {
+      "id": "0x6cc8ef6cfc173fc55a920c29e05222dead33b573",
+      "name": "DashLeague Crystals",
+      "symbol": "DLC"
+    },
+    "token1": {
+      "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    }
+  },
+  {
+    "name": "USDC.e / BAVA",
+    "token0": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    },
+    "token1": {
+      "id": "0xe19a1684873fab5fb694cfd06607100a632ff21c",
+      "name": "BavaToken",
+      "symbol": "BAVA"
+    }
+  },
+  {
+    "name": "LINK.e / USDC.e",
+    "token0": {
+      "id": "0x5947bb275c521040051d82396192181b413227a3",
+      "name": "Chainlink Token",
+      "symbol": "LINK.e"
+    },
+    "token1": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    }
+  },
+  {
+    "name": "Yuzu / USDC.e",
+    "token0": {
+      "id": "0x6cf7e3814dd76ac20086359802dd2eba5d99012d",
+      "name": "Yuzu Node",
+      "symbol": "Yuzu"
+    },
+    "token1": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    }
+  },
+  {
+    "name": "AVAX / MORE",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xd9d90f882cddd6063959a9d837b05cb748718a05",
+      "name": "More Token",
+      "symbol": "MORE"
+    }
+  },
+  {
+    "name": "NNT / USDC",
+    "token0": {
+      "id": "0x771c01e1917b5ab5b791f7b96f0cd69e22f6dbcf",
+      "name": "NunuToken",
+      "symbol": "NNT"
+    },
+    "token1": {
+      "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    }
+  },
+  {
+    "name": "PINT / USDC",
+    "token0": {
+      "id": "0x3af0eb8bcbd4c4c6e26e309c4e47af59bad5fc2f",
+      "name": "pub.finance",
+      "symbol": "PINT"
+    },
+    "token1": {
+      "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    }
+  },
+  {
+    "name": "AMPL / AVAX",
+    "token0": {
+      "id": "0x027dbca046ca156de9622cd1e2d907d375e53aa7",
+      "name": "Ampleforth secured by Meter Passport",
+      "symbol": "AMPL"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "UNCL / AVAX",
+    "token0": {
+      "id": "0x7d86f1eaff29f076576b2ff09ce3bcc7533fd2c5",
+      "name": "UNCL",
+      "symbol": "UNCL"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "AVAX / LVT",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xd641e62525e830e98cb9d7d033a538a1f092ff34",
+      "name": "Louverture v2",
+      "symbol": "LVT"
+    }
+  },
+  {
+    "name": "AVAX / NEIBR",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xe337a99fe0ac0f3e01a97167d21082a2bb96326e",
+      "name": "The Neighbours",
+      "symbol": "NEIBR"
+    }
+  },
+  {
+    "name": "MAGIC / AVAX",
+    "token0": {
+      "id": "0x9a8e0217cd870783c3f2317985c57bf570969153",
+      "name": "Magic",
+      "symbol": "MAGIC"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "VSO / AVAX",
+    "token0": {
+      "id": "0x846d50248baf8b7ceaa9d9b53bfd12d7d7fbb25a",
+      "name": "VersoToken",
+      "symbol": "VSO"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "AVAX / URQA",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xbd3936ec8d83a5d4e73eca625ecfa006da8c8f52",
+      "name": "UREEQA Token [via ChainPort.io]",
+      "symbol": "URQA"
+    }
+  },
+  {
+    "name": "AVAT / USDC",
+    "token0": {
+      "id": "0x7086c48c997b8597a1692798155b4fcf2cee7f0f",
+      "name": "AVAT",
+      "symbol": "AVAT"
+    },
+    "token1": {
+      "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    }
+  },
+  {
+    "name": "USDT / LiPOGE",
+    "token0": {
+      "id": "0xb91411de29ffcd75c3c816cfb1a8e24b13c86f4a",
+      "name": "TetherToken",
+      "symbol": "USDT"
+    },
+    "token1": {
+      "id": "0xd9e8ae66782529b3fc9157af2b6fa137bea46e5d",
+      "name": "iLiPogeCoin",
+      "symbol": "LiPOGE"
+    }
+  },
+  {
+    "name": "LOST / AVAX",
+    "token0": {
+      "id": "0x449674b82f05d498e126dd6615a1057a9c088f2c",
+      "name": "LostToken",
+      "symbol": "LOST"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "AVAX / TIME",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xb54f16fb19478766a268f172c9480f8da1a7c9c3",
+      "name": "Time",
+      "symbol": "TIME"
+    }
+  },
+  {
+    "name": "AVAX / SPELL",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xce1bffbd5374dac86a2893119683f4911a2f7814",
+      "name": "Spell Token",
+      "symbol": "SPELL"
+    }
+  },
+  {
+    "name": "DFIAT / AVAX",
+    "token0": {
+      "id": "0xafe3d2a31231230875dee1fa1eef14a412443d22",
+      "name": "DeFiato [via ChainPort.io]",
+      "symbol": "DFIAT"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "BEE / TEST",
+    "token0": {
+      "id": "0x5b4192b5636f7b6ab6d963865963e92bbba5aac0",
+      "name": "BCoin",
+      "symbol": "BEE"
+    },
+    "token1": {
+      "id": "0xa6dbd0f6b39a2383d4558dd23e84c0210a007151",
+      "name": "TestCoin",
+      "symbol": "TEST"
+    }
+  },
+  {
+    "name": "USDC.e / UNCLE",
+    "token0": {
+      "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "name": "USD Coin",
+      "symbol": "USDC.e"
+    },
+    "token1": {
+      "id": "0xf49fe07b97bbfaa474614a43259d460e4c84f6fa",
+      "name": "Uncle",
+      "symbol": "UNCLE"
+    }
+  },
+  {
+    "name": "RELAY / AVAX",
+    "token0": {
+      "id": "0x78c42324016cd91d1827924711563fb66e33a83a",
+      "name": "Relay Token",
+      "symbol": "RELAY"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "ZEUS / AVAX",
+    "token0": {
+      "id": "0x4156f18bf7c1ef04248632c66aa119de152d8f2e",
+      "name": "Zeus Node Finance",
+      "symbol": "ZEUS"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "PRMD / AVAX",
+    "token0": {
+      "id": "0x74c2a8a0161ff501d44a71c2e2dfdb5485912b1f",
+      "name": "Pyramid",
+      "symbol": "PRMD"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "SYN / AVAX",
+    "token0": {
+      "id": "0x1f1e7c893855525b303f99bdf5c3c05be09ca251",
+      "name": "Synapse",
+      "symbol": "SYN"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "ISA / AVAX",
+    "token0": {
+      "id": "0x3eefb18003d033661f84e48360ebecd181a84709",
+      "name": "Islander",
+      "symbol": "ISA"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "PLN / AVAX",
+    "token0": {
+      "id": "0x7b2b702706d9b361dfe3f00bd138c0cfda7fb2cf",
+      "name": "Pollen",
+      "symbol": "PLN"
+    },
+    "token1": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    }
+  },
+  {
+    "name": "AVAX / HOOF",
+    "token0": {
+      "id": "AVAX",
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "token1": {
+      "id": "0xe0bb6fed446a2dbb27f84d3c27c4ed8ea7603366",
+      "name": "Metaderby game token",
+      "symbol": "HOOF"
+    }
+  }
+]
