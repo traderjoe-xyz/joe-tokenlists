@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
     "major": 206,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tokens": [
@@ -19,7 +19,7 @@
     },
     {
       "chainId": 43113,
-      "address": "0x791B0c848AD79549F950f69E6E4CF9e3C112a230",
+      "address": "0xAb231A5744C8E6c45481754928cCfFFFD4aa0732",
       "decimals": 6,
       "name": "Tether Token",
       "symbol": "USDT",
@@ -28,7 +28,7 @@
     },
     {
       "chainId": 43113,
-      "address": "0x8c0f5Ade9cBdb19a49B06aDFB67b6702B459162B",
+      "address": "0xB6076C93701D6a07266c31066B298AeC6dd65c2d",
       "decimals": 6,
       "name": "USD Coin",
       "symbol": "USDC",
