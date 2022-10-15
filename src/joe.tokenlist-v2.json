@@ -997,6 +997,15 @@
       "symbol": "BUSD",
       "tags": ["Stablecoins", "Large Cap"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE",
+      "decimals": 18,
+      "name": "Royale",
+      "symbol": "ROY",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE/logo.png"
     }
   ],
   "timestamp": "2021-09-21T00:00:00+00:00"
