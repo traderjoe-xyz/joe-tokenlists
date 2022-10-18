@@ -1008,7 +1008,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE/logo.png"
     }
     {
-      "chainId": 43113,
+      "chainId": 43114,
       "address": "0x13E7bceFddE72492E656f3fa58baE6029708e673",
       "decimals": 18,
       "name": "AGX Coin",
@@ -1017,7 +1017,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x13E7bceFddE72492E656f3fa58baE6029708e673/logo.png"
     },
     {
-      "chainId": 43113,
+      "chainId": 43114,
       "address": "0x68327a91E79f87F501bC8522fc333FB7A72393cb",
       "decimals": 18,
       "name": "AUX Coin",
@@ -1026,7 +1026,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x68327a91E79f87F501bC8522fc333FB7A72393cb/logo.png"
     },    
     {
-      "chainId": 43113,
+      "chainId": 43114,
       "address": "0xbBAAA0420D474B34Be197f95A323C2fF3829E811",
       "decimals": 18,
       "name": "LODE Token",
