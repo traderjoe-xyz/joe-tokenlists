@@ -9,7 +9,7 @@
   },
   "tokens": [
     {
-      "chainId": 43113,
+      "chainId": 43114,
       "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
       "decimals": 18,
       "name": "Wrapped AVAX",
@@ -18,7 +18,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
     },
     {
-      "chainId": 43113,
+      "chainId": 43114,
       "address": "0xAb231A5744C8E6c45481754928cCfFFFD4aa0732",
       "decimals": 6,
       "name": "Tether Token",
@@ -27,7 +27,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
     },
     {
-      "chainId": 43113,
+      "chainId": 43114,
       "address": "0xB6076C93701D6a07266c31066B298AeC6dd65c2d",
       "decimals": 6,
       "name": "USD Coin",
