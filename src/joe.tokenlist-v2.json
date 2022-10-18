@@ -9,7 +9,7 @@
   },
   "tokens": [
     {
-      "chainId": 43114,
+      "chainId": 43113,
       "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
       "decimals": 18,
       "name": "Wrapped AVAX",
@@ -18,7 +18,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
     },
     {
-      "chainId": 43114,
+      "chainId": 43113,
       "address": "0xAb231A5744C8E6c45481754928cCfFFFD4aa0732",
       "decimals": 6,
       "name": "Tether Token",
@@ -27,7 +27,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
     },
     {
-      "chainId": 43114,
+      "chainId": 43113,
       "address": "0xB6076C93701D6a07266c31066B298AeC6dd65c2d",
       "decimals": 6,
       "name": "USD Coin",
@@ -984,7 +984,7 @@
       "chainId": 43114,
       "address": "0xe48C74833ce6f18A8e54f73f1D02B8E9f9Ff8Caa",
       "decimals": 18,
-      "name": "Cosmic ",
+      "name": "Cosmic",
       "symbol": "COSMIC",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe48C74833ce6f18A8e54f73f1D02B8E9f9Ff8Caa/logo.png"
@@ -993,7 +993,7 @@
       "chainId": 43114,
       "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
       "decimals": 18,
-      "name": "BUSD Token ",
+      "name": "BUSD Token",
       "symbol": "BUSD",
       "tags": ["Stablecoins", "Large Cap"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39/logo.png"
@@ -1006,7 +1006,7 @@
       "symbol": "ROY",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE/logo.png"
-    }
+    },
     {
       "chainId": 43114,
       "address": "0x13E7bceFddE72492E656f3fa58baE6029708e673",
@@ -1024,7 +1024,7 @@
       "symbol": "AUX",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x68327a91E79f87F501bC8522fc333FB7A72393cb/logo.png"
-    },    
+    },
     {
       "chainId": 43114,
       "address": "0xbBAAA0420D474B34Be197f95A323C2fF3829E811",
@@ -1042,7 +1042,7 @@
       "symbol": "HATCHY",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x502580fc390606b47FC3b741d6D49909383c28a9/logo.png"
-   }
- ],
+    }
+  ],
   "timestamp": "2021-09-21T00:00:00+00:00"
 }
