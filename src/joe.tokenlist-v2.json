@@ -1033,7 +1033,15 @@
       "symbol": "LODE",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xbBAAA0420D474B34Be197f95A323C2fF3829E811/logo.png"
-    }
-  ],
+    },
+    {
+      "chainId": 43114,
+      "address": "0x502580fc390606b47FC3b741d6D49909383c28a9",
+      "decimals": 18,
+      "name": "HATCHY",
+      "symbol": "HATCHY",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x502580fc390606b47FC3b741d6D49909383c28a9/logo.png"
+  ]
   "timestamp": "2021-09-21T00:00:00+00:00"
 }
