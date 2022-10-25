@@ -3,19 +3,13 @@ Tokenlists for the Trader Joe, the top 1 DEX on Avalanche.
 
 ## HOW TO ADD YOUR LOGO
 
-#### Fast Application
+#### Application
 Submit pull request by adding your token logo 200X200 PNG. 
 - If logo is not png or exceeds 200X200 it will be rejected. 
 - PRs including tokenlist will be rejected. Logos only. 
+- submissions with invalid c-chain address will be rejected. 
 - PRs will be processed every 2-4 days. 
 
-#### Normal Application
-Create an issue with the following info:
-- c-chain checksummed address
-- token logo 200X200 PNG
-- submissions with links intead of attached images will be rejected. 
-- submissions with invalid c-chain address will be rejected. 
-- processed every 5-10 days.
 
 ## HOW TO ADD YOUR TOKEN TO TOKENLIST
 In `tokenlist-v2` we will be accepting community PR for adding to tokenlist. 
