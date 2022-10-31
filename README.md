@@ -3,24 +3,34 @@ Tokenlists for the Trader Joe, the top 1 DEX on Avalanche.
 
 ## HOW TO ADD YOUR LOGO
 
-#### Fast Application
+#### Application
 Submit pull request by adding your token logo 200X200 PNG. 
+- Folder name need to be named with the token address 
 - If logo is not png or exceeds 200X200 it will be rejected. 
 - PRs including tokenlist will be rejected. Logos only. 
-- PRs will be processed every 2-4 days. 
-
-#### Normal Application
-Create an issue with the following info:
-- c-chain checksummed address
-- token logo 200X200 PNG
-- submissions with links intead of attached images will be rejected. 
 - submissions with invalid c-chain address will be rejected. 
-- processed every 5-10 days.
+- PRs will be processed every 3-5 days. 
 
-## HOW TO WHITELIST YOUR TOKEN
-- Tokens are added to tokenlists by JOE team based on market demand and other metrics. 
-- Tokenlist is rebalanced every 2 weeks, roughly speaking we add tokens that are top 30 in daily volume, and remove tokens that are below top 40. 
+
+## HOW TO ADD YOUR TOKEN TO TOKENLIST
+In `tokenlist-v2` we will be accepting community PR for adding to tokenlist. 
+
+
+#### Criteria
+The JOE team will continue to maintain the list for quality control. Some rough guidelines:
+- Contract should be verified on `snowtrace.io`.
+- New tokens will be accepted on case by case basis. Pls contact `BD` team via discord. 
+- Token should have established liquidity, a good number of liquidty providers, and 15 day volume. 
+
+#### Submission process
+Please refer to `src/joe.tokenlist-v2.json` for format, and tag your token appropriately. 
+- Submit tokenlist PR separately from logo PR.
+- Tag your token with `DeFi`, `GameFi` or `Stablecoins`. - (case sensitive). 
+- Tags for `Top Tokens`, `Large Cap` and `Avalanche` are maintained by JOE team only. 
+
+
+
 
 ## Have more questions?
-Come visit us on discord at our `dev-talk` channel. 
+Come visit us on discord at our `sdk-dev` channel. 
 Link: https://discord.com/invite/GHZceZhbZU
