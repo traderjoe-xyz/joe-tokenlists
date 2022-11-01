@@ -642,7 +642,7 @@
       "chainId": 43114,
       "address": "0xab592d197ACc575D16C3346f4EB70C703F308D1E",
       "decimals": 18,
-      "name": "Chikn feed",
+      "name": "Chikn Feed",
       "symbol": "FEED",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xab592d197ACc575D16C3346f4EB70C703F308D1E/logo.png"
@@ -651,7 +651,7 @@
       "chainId": 43114,
       "address": "0x9C846D808A41328A209e235B5e3c4E626DAb169E",
       "decimals": 18,
-      "name": "Chikn fert",
+      "name": "Chikn Fert",
       "symbol": "FERT",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9C846D808A41328A209e235B5e3c4E626DAb169E/logo.png"
@@ -1047,7 +1047,7 @@
       "chainId": 43114,
       "address": "0x79BA10485ae46a9436D560D9664369176EC2eB2b",
       "decimals": 18,
-      "name": "chikn worm",
+      "name": "Chikn Worm",
       "symbol": "WORM",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x79BA10485ae46a9436D560D9664369176EC2eB2b/logo.png"
