@@ -1043,6 +1043,15 @@
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x502580fc390606b47FC3b741d6D49909383c28a9/logo.png"
     }
+    {
+      "chainId": 43114,
+      "address": "0x8c6493c531b89034844bfe73824fb5fe39a8457a",
+      "decimals": 18,
+      "name": "Invest Club Coin",
+      "symbol": "ICC",
+      "tags": ["Stablecoins"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8c6493c531b89034844bfe73824fb5fe39a8457a/logo.png"
+    }
   ],
   "timestamp": "2021-09-21T00:00:00+00:00"
 }
