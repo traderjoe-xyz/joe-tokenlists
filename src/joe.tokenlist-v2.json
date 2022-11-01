@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 208,
+    "major": 209,
     "minor": 0,
     "patch": 0
   },
@@ -1042,6 +1042,15 @@
       "symbol": "HATCHY",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x502580fc390606b47FC3b741d6D49909383c28a9/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x79BA10485ae46a9436D560D9664369176EC2eB2b",
+      "decimals": 18,
+      "name": "chikn worm",
+      "symbol": "WORM",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x79BA10485ae46a9436D560D9664369176EC2eB2b/logo.png"
     }
   ],
   "timestamp": "2021-09-21T00:00:00+00:00"
