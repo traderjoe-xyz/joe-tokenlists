@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "defi", "joe", "trader joe"],
   "version": {
-    "major": 209,
+    "major": 210,
     "minor": 0,
     "patch": 0
   },
@@ -1051,6 +1051,15 @@
       "symbol": "WORM",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x79BA10485ae46a9436D560D9664369176EC2eB2b/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5947bb275c521040051d82396192181b413227a3",
+      "decimals": 18,
+      "name": "Chainlink Token",
+      "symbol": "LINK.e ",
+      "tags": ["Large Cap"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5947bb275c521040051d82396192181b413227a3/logo.png"
     }
   ],
   "timestamp": "2021-09-21T00:00:00+00:00"
