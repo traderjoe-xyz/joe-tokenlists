@@ -19,15 +19,6 @@
     },
     {
       "chainId": 43113,
-      "address": "0xAb231A5744C8E6c45481754928cCfFFFD4aa0732",
-      "decimals": 6,
-      "name": "Tether Token",
-      "symbol": "USDT",
-      "tags": ["Stablecoins", "Large Cap", "Top Tokens"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xAb231A5744C8E6c45481754928cCfFFFD4aa0732/logo.png"
-    },
-    {
-      "chainId": 43113,
       "address": "0xB6076C93701D6a07266c31066B298AeC6dd65c2d",
       "decimals": 6,
       "name": "USD Coin",
@@ -365,7 +356,7 @@
       "decimals": 6,
       "name": "Tether Token",
       "symbol": "USDT",
-      "tags": ["Stablecoins", "Large Cap"],
+      "tags": ["Stablecoins", "Large Cap", "Top Tokens"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
     },
     {
