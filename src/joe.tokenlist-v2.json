@@ -23,7 +23,7 @@
       "decimals": 6,
       "name": "Tether Token",
       "symbol": "USDT",
-      "tags": ["Stablecoins", "Large Cap"],
+      "tags": ["Stablecoins", "Large Cap", "Top Tokens"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xAb231A5744C8E6c45481754928cCfFFFD4aa0732/logo.png"
     },
     {
@@ -995,7 +995,7 @@
       "decimals": 18,
       "name": "BUSD Token",
       "symbol": "BUSD",
-      "tags": ["Stablecoins", "Large Cap"],
+      "tags": ["Stablecoins", "Large Cap", "Top Tokens"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39/logo.png"
     },
     {
