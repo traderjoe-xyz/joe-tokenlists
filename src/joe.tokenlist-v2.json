@@ -1051,7 +1051,16 @@
       "symbol": "LINK.e",
       "tags": ["Large Cap"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5947bb275c521040051d82396192181b413227a3/logo.png"
-    }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x779595F212B53e4f1F51b0875405Bf21B5e4D805",
+      "decimals": 6,
+      "name": "Avoge",
+      "symbol": "AVOGE",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x779595F212B53e4f1F51b0875405Bf21B5e4D805/logo.png"
+    },
   ],
   "timestamp": "2021-09-21T00:00:00+00:00"
 }
