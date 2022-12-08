@@ -1051,6 +1051,15 @@
       "symbol": "LINK.e",
       "tags": ["Large Cap"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5947bb275c521040051d82396192181b413227a3/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xFa113908f851E6357D8A20e2a18c22113D5755A9",
+      "decimals": 18,
+      "name": "XGEM",
+      "symbol": "WXGEM",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFa113908f851E6357D8A20e2a18c22113D5755A9/logo.png"
     }
   ],
   "timestamp": "2021-09-21T00:00:00+00:00"
