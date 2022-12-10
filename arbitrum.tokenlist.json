@@ -1,0 +1,95 @@
+{
+    "name": "Trader Joe Arbitrum Tokenlist",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+    "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 421613,
+            "address": "0xaE4EC9901c3076D0DdBe76A520F9E90a6227aCB7",
+            "decimals": 18,
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "tags": [
+                "Large Cap",
+                "Top Tokens"
+            ],
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xaE4EC9901c3076D0DdBe76A520F9E90a6227aCB7/logo.png"
+        },
+        {
+            "chainId": 421613,
+            "address": "0xb3482A25a12e5261b02E0acc5b96c656358a4086",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "tags": [
+                "Stablecoins",
+                "Top Tokens"
+            ],
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb3482A25a12e5261b02E0acc5b96c656358a4086/logo.png"
+        },
+        {
+            "chainId": 421613,
+            "address": "0xf450749aeA1c5feF27Ae0237C56FecC43f6bE244",
+            "decimals": 6,
+            "name": "Tether Token",
+            "symbol": "USDT",
+            "tags": [
+                "Stablecoins",
+                "Top Tokens"
+            ],
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf450749aeA1c5feF27Ae0237C56FecC43f6bE244/logo.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+            "decimals": 18,
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "tags": [
+                "Large Cap",
+                "Top Tokens"
+            ],
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x82af49447d8a07e3bd95bd0d56f35241523fbab1/logo.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "tags": [
+                "Stablecoins",
+                "Top Tokens"
+            ],
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8/logo.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+            "decimals": 6,
+            "name": "Tether Token",
+            "symbol": "USDT",
+            "tags": [
+                "Stablecoins",
+                "Top Tokens"
+            ],
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9/logo.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+            "decimals": 18,
+            "name": "Dai",
+            "symbol": "DAI",
+            "tags": [
+                "Stablecoins",
+                "Top Tokens"
+            ],
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1/logo.png"
+        }
+    ]
+}
