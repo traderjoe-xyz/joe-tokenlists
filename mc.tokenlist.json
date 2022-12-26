@@ -8,8 +8,8 @@
     "trader joe"
   ],
   "version": {
-    "major": 212,
-    "minor": 1,
+    "major": 213,
+    "minor": 0,
     "patch": 0
   },
   "tokens": [
@@ -367,17 +367,7 @@
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
     },
-    {
-      "chainId": 43114,
-      "address": "0x026187BdbC6b751003517bcb30Ac7817D5B766f8",
-      "decimals": 18,
-      "name": "Defrost Finance H2O",
-      "symbol": "H2O",
-      "tags": [
-        "DeFi"
-      ],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo.png"
-    },
+
     {
       "chainId": 43114,
       "address": "0x22d4002028f537599bE9f666d1c4Fa138522f9c8",
@@ -433,17 +423,7 @@
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png"
     },
-    {
-      "chainId": 43114,
-      "address": "0x637afeff75ca669fF92e4570B14D6399A658902f",
-      "decimals": 18,
-      "name": "Poly-Peg Cook",
-      "symbol": "COOK",
-      "tags": [
-        "DeFi"
-      ],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png"
-    },
+
     {
       "chainId": 43114,
       "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
