@@ -321,17 +321,7 @@
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172/logo.png"
     },
-    {
-      "chainId": 43114,
-      "address": "0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D",
-      "decimals": 18,
-      "name": "Defrost Finance Token",
-      "symbol": "MELT",
-      "tags": [
-        "DeFi"
-      ],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo.png"
-    },
+ 
     {
       "chainId": 43114,
       "address": "0x321E7092a180BB43555132ec53AaA65a5bF84251",
