@@ -1445,6 +1445,15 @@
         "Top Tokens"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xe19A1684873faB5Fb694CfD06607100A632fF21c",
+      "decimals": 18,
+      "name": "BavaToken",
+      "symbol": "BAVA",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe19A1684873faB5Fb694CfD06607100A632fF21c/logo.png"
     }
   ],
   "timestamp": "2021-12-25T00:00:00+00:00"
