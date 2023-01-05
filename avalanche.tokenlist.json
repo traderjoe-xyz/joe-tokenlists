@@ -1060,6 +1060,15 @@
       "symbol": "WXGEM",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFa113908f851E6357D8A20e2a18c22113D5755A9/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xe19A1684873faB5Fb694CfD06607100A632fF21c",
+      "decimals": 18,
+      "name": "BavaToken",
+      "symbol": "BAVA",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe19A1684873faB5Fb694CfD06607100A632fF21c/logo.png"
     }
   ],
   "timestamp": "2021-12-10T00:00:00+00:00"
