@@ -8,8 +8,8 @@
     "trader joe"
   ],
   "version": {
-    "major": 212,
-    "minor": 1,
+    "major": 213,
+    "minor": 0,
     "patch": 0
   },
   "tokens": [
@@ -321,17 +321,7 @@
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172/logo.png"
     },
-    {
-      "chainId": 43114,
-      "address": "0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D",
-      "decimals": 18,
-      "name": "Defrost Finance Token",
-      "symbol": "MELT",
-      "tags": [
-        "DeFi"
-      ],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo.png"
-    },
+ 
     {
       "chainId": 43114,
       "address": "0x321E7092a180BB43555132ec53AaA65a5bF84251",
@@ -367,17 +357,7 @@
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
     },
-    {
-      "chainId": 43114,
-      "address": "0x026187BdbC6b751003517bcb30Ac7817D5B766f8",
-      "decimals": 18,
-      "name": "Defrost Finance H2O",
-      "symbol": "H2O",
-      "tags": [
-        "DeFi"
-      ],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo.png"
-    },
+
     {
       "chainId": 43114,
       "address": "0x22d4002028f537599bE9f666d1c4Fa138522f9c8",
@@ -433,17 +413,7 @@
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png"
     },
-    {
-      "chainId": 43114,
-      "address": "0x637afeff75ca669fF92e4570B14D6399A658902f",
-      "decimals": 18,
-      "name": "Poly-Peg Cook",
-      "symbol": "COOK",
-      "tags": [
-        "DeFi"
-      ],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png"
-    },
+
     {
       "chainId": 43114,
       "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
@@ -496,7 +466,7 @@
       "chainId": 43114,
       "address": "0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79",
       "decimals": 18,
-      "name": "THOR v2",
+      "name": "ThorFi",
       "symbol": "THOR",
       "tags": [
         "DeFi"
