@@ -1051,6 +1051,24 @@
       "symbol": "LINK.e",
       "tags": ["Large Cap"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5947bb275c521040051d82396192181b413227a3/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x223174d9F096d8b468B24f620A02f43b70792789",
+      "decimals": 18,
+      "name": "Avalanche Hills",
+      "symbol": "AHILL",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x223174d9F096d8b468B24f620A02f43b70792789/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x7c22E823b5eE641ed534CE3e368b59b5F0A3b7e0",
+      "decimals": 18,
+      "name": "Grantsville",
+      "symbol": "GVILLE",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7c22E823b5eE641ed534CE3e368b59b5F0A3b7e0/logo.png"
     }
   ],
   "timestamp": "2021-09-21T00:00:00+00:00"
