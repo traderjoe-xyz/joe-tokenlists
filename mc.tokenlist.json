@@ -8,7 +8,7 @@
     "trader joe"
   ],
   "version": {
-    "major": 213,
+    "major": 214,
     "minor": 0,
     "patch": 0
   },
@@ -1018,17 +1018,7 @@
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5a15Bdcf9a3A8e799fa4381E666466a516F2d9C8/logo.png"
     },
-    {
-      "chainId": 43114,
-      "address": "0xE1d70994Be12b73E76889412b284A8F19b0DE56d",
-      "decimals": 6,
-      "name": "e-Money EUR stablecoin",
-      "symbol": "EEUR",
-      "tags": [
-        "Stablecoins"
-      ],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xE1d70994Be12b73E76889412b284A8F19b0DE56d/logo.png"
-    },
+  
     {
       "chainId": 43114,
       "address": "0x9366d30FeBA284E62900f6295BC28c9906f33172",
@@ -1415,7 +1405,17 @@
         "Top Tokens"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a/logo.png"
-    }
+    },
+    {"chainId": 42161,
+       "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
+       "decimals": 18,
+       "name": "Gains Network",
+       "symbol": "GNS",
+       "tags": [
+         "DeFi"
+       ],
+       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x18c11FD286C5EC11c3b683Caa813B77f5163A122/logo.png"
+     }
   ],
   "timestamp": "2021-12-25T00:00:00+00:00"
 }
