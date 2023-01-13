@@ -23,7 +23,7 @@ The JOE team will continue to maintain the list for quality control. Some rough 
 - Token should have established liquidity, a good number of liquidty providers, and 15 day volume. 
 
 #### Submission process
-Please refer to `src/joe.tokenlist-v2.json` for format, and tag your token appropriately. 
+Please refer to `src/mc.tokenlist.json` for format, and tag your token appropriately. 
 - Submit tokenlist PR separately from logo PR.
 - Tag your token with `DeFi`, `GameFi` or `Stablecoins`. - (case sensitive). 
 - Tags for `Top Tokens`, `Large Cap` and `Avalanche` are maintained by JOE team only. 
