@@ -1415,7 +1415,27 @@
          "DeFi"
        ],
        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x18c11FD286C5EC11c3b683Caa813B77f5163A122/logo.png"
-     }
+     },
+     {"chainId": 42161,
+     "address": "0x32Eb7902D4134bf98A28b963D26de779AF92A212",
+     "decimals": 18,
+     "name": "Dopex Rebate Token",
+     "symbol": "RDPX",
+     "tags": [
+       "DeFi"
+     ],
+     "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x32Eb7902D4134bf98A28b963D26de779AF92A212/logo.png"
+   },
+   {"chainId": 42161,
+   "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
+   "decimals": 18,
+   "name": "Dopex Governance Token",
+   "symbol": "DPX",
+   "tags": [
+     "DeFi"
+   ],
+   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55/logo.png"
+ }
   ],
   "timestamp": "2021-12-25T00:00:00+00:00"
 }
