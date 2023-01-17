@@ -1287,6 +1287,17 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFa113908f851E6357D8A20e2a18c22113D5755A9/logo.png"
     },
     {
+      "chainId": 43114,
+      "address": "0x80B010450fDAf6a3f8dF033Ee296E92751D603B3",
+      "decimals": 18,
+      "name": "Jade Protocol",
+      "symbol": "JADE",
+      "tags": [
+        "DeFi"
+    ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x80B010450fDAf6a3f8dF033Ee296E92751D603B3/logo.png"
+    },
+    {
       "chainId": 421613,
       "address": "0xaE4EC9901c3076D0DdBe76A520F9E90a6227aCB7",
       "decimals": 18,
