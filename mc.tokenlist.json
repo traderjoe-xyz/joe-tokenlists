@@ -1435,7 +1435,18 @@
      "DeFi"
    ],
    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55/logo.png"
+ },
+  {"chainId": 42161,
+   "address": "0x4945970EfeEc98D393b4b979b9bE265A3aE28A8B",
+   "decimals": 18,
+   "name": "GMD Protocol",
+   "symbol": "GMD",
+   "tags": [
+     "DeFi"
+   ],
+   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4945970EfeEc98D393b4b979b9bE265A3aE28A8B/logo.png"
  }
+
   ],
   "timestamp": "2021-12-25T00:00:00+00:00"
 }
