@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 214,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
@@ -321,7 +321,6 @@
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172/logo.png"
     },
- 
     {
       "chainId": 43114,
       "address": "0x321E7092a180BB43555132ec53AaA65a5bF84251",
@@ -357,7 +356,6 @@
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
     },
-
     {
       "chainId": 43114,
       "address": "0x22d4002028f537599bE9f666d1c4Fa138522f9c8",
@@ -413,7 +411,6 @@
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png"
     },
-
     {
       "chainId": 43114,
       "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
@@ -1018,7 +1015,6 @@
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5a15Bdcf9a3A8e799fa4381E666466a516F2d9C8/logo.png"
     },
-  
     {
       "chainId": 43114,
       "address": "0x9366d30FeBA284E62900f6295BC28c9906f33172",
@@ -1417,47 +1413,62 @@
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017/logo.png"
     },
-    {"chainId": 42161,
-       "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
-       "decimals": 18,
-       "name": "Gains Network",
-       "symbol": "GNS",
-       "tags": [
-         "DeFi"
-       ],
-       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x18c11FD286C5EC11c3b683Caa813B77f5163A122/logo.png"
-     },
-     {"chainId": 42161,
-     "address": "0x32Eb7902D4134bf98A28b963D26de779AF92A212",
-     "decimals": 18,
-     "name": "Dopex Rebate Token",
-     "symbol": "RDPX",
-     "tags": [
-       "DeFi"
-     ],
-     "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x32Eb7902D4134bf98A28b963D26de779AF92A212/logo.png"
-   },
-   {"chainId": 42161,
-   "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
-   "decimals": 18,
-   "name": "Dopex Governance Token",
-   "symbol": "DPX",
-   "tags": [
-     "DeFi"
-   ],
-   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55/logo.png"
- },
-  {"chainId": 42161,
-   "address": "0x4945970EfeEc98D393b4b979b9bE265A3aE28A8B",
-   "decimals": 18,
-   "name": "GMD Protocol",
-   "symbol": "GMD",
-   "tags": [
-     "DeFi"
-   ],
-   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4945970EfeEc98D393b4b979b9bE265A3aE28A8B/logo.png"
- }
-
+    {
+      "chainId": 42161,
+      "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
+      "decimals": 18,
+      "name": "Gains Network",
+      "symbol": "GNS",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x18c11FD286C5EC11c3b683Caa813B77f5163A122/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x32Eb7902D4134bf98A28b963D26de779AF92A212",
+      "decimals": 18,
+      "name": "Dopex Rebate Token",
+      "symbol": "RDPX",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x32Eb7902D4134bf98A28b963D26de779AF92A212/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
+      "decimals": 18,
+      "name": "Dopex Governance Token",
+      "symbol": "DPX",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x4945970EfeEc98D393b4b979b9bE265A3aE28A8B",
+      "decimals": 18,
+      "name": "GMD Protocol",
+      "symbol": "GMD",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4945970EfeEc98D393b4b979b9bE265A3aE28A8B/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
+      "decimals": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC.b",
+      "tags": [
+        "Large Cap",
+        "Top Tokens"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2297aEbD383787A160DD0d9F71508148769342E3/logo.png"
+    }
   ],
-  "timestamp": "2021-12-25T00:00:00+00:00"
+  "timestamp": "2021-01-18T00:00:00+00:00"
 }
