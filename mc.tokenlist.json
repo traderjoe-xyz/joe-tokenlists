@@ -8,8 +8,8 @@
     "trader joe"
   ],
   "version": {
-    "major": 212,
-    "minor": 0,
+    "major": 214,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
@@ -323,17 +323,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D",
-      "decimals": 18,
-      "name": "Defrost Finance Token",
-      "symbol": "MELT",
-      "tags": [
-        "DeFi"
-      ],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0x321E7092a180BB43555132ec53AaA65a5bF84251",
       "decimals": 18,
       "name": "Governance OHM",
@@ -366,17 +355,6 @@
         "Large Cap"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x026187BdbC6b751003517bcb30Ac7817D5B766f8",
-      "decimals": 18,
-      "name": "Defrost Finance H2O",
-      "symbol": "H2O",
-      "tags": [
-        "DeFi"
-      ],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo.png"
     },
     {
       "chainId": 43114,
@@ -435,17 +413,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x637afeff75ca669fF92e4570B14D6399A658902f",
-      "decimals": 18,
-      "name": "Poly-Peg Cook",
-      "symbol": "COOK",
-      "tags": [
-        "DeFi"
-      ],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
       "decimals": 6,
       "name": "Tether Token",
@@ -496,7 +463,7 @@
       "chainId": 43114,
       "address": "0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79",
       "decimals": 18,
-      "name": "THOR v2",
+      "name": "ThorFi",
       "symbol": "THOR",
       "tags": [
         "DeFi"
@@ -1050,17 +1017,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0xE1d70994Be12b73E76889412b284A8F19b0DE56d",
-      "decimals": 6,
-      "name": "e-Money EUR stablecoin",
-      "symbol": "EEUR",
-      "tags": [
-        "Stablecoins"
-      ],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xE1d70994Be12b73E76889412b284A8F19b0DE56d/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0x9366d30FeBA284E62900f6295BC28c9906f33172",
       "decimals": 6,
       "name": "BioFi",
@@ -1420,7 +1376,110 @@
         "GameFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9BedCE29F79076b21DD04958a9Fd4B22F63fD86D/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "tags": [
+        "Large Cap",
+        "Top Tokens"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
+      "decimals": 18,
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "tags": [
+        "DeFi",
+        "Top Tokens"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5979D7b546E38E414F7E9822514be443A4800529/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+      "decimals": 18,
+      "name": "GMX",
+      "symbol": "GMX",
+      "tags": [
+        "DeFi",
+        "Top Tokens"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017",
+      "decimals": 18,
+      "name": "Radiant",
+      "symbol": "RDNT",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
+      "decimals": 18,
+      "name": "Gains Network",
+      "symbol": "GNS",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x18c11FD286C5EC11c3b683Caa813B77f5163A122/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x32Eb7902D4134bf98A28b963D26de779AF92A212",
+      "decimals": 18,
+      "name": "Dopex Rebate Token",
+      "symbol": "RDPX",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x32Eb7902D4134bf98A28b963D26de779AF92A212/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
+      "decimals": 18,
+      "name": "Dopex Governance Token",
+      "symbol": "DPX",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x4945970EfeEc98D393b4b979b9bE265A3aE28A8B",
+      "decimals": 18,
+      "name": "GMD Protocol",
+      "symbol": "GMD",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4945970EfeEc98D393b4b979b9bE265A3aE28A8B/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
+      "decimals": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC.b",
+      "tags": [
+        "Large Cap",
+        "Top Tokens"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2297aEbD383787A160DD0d9F71508148769342E3/logo.png"
     }
   ],
-  "timestamp": "2021-12-10T00:00:00+00:00"
+  "timestamp": "2021-01-18T00:00:00+00:00"
 }
