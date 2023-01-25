@@ -8,7 +8,7 @@
     "trader joe"
   ],
   "version": {
-    "major": 214,
+    "major": 215,
     "minor": 1,
     "patch": 0
   },
@@ -515,17 +515,7 @@
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfcc6ce74f4cd7edef0c5429bb99d38a3608043a5/logo.png"
     },
-    {
-      "chainId": 43114,
-      "address": "0x83a283641C6B4DF383BCDDf807193284C84c5342",
-      "decimals": 18,
-      "name": "VaporNodes",
-      "symbol": "VPND",
-      "tags": [
-        "DeFi"
-      ],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x83a283641C6B4DF383BCDDf807193284C84c5342/logo.png"
-    },
+  
     {
       "chainId": 43114,
       "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
