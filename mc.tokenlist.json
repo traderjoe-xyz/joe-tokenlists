@@ -1394,6 +1394,17 @@
     },
     {
       "chainId": 42161,
+      "address": "0x1A5B0aaF478bf1FDA7b934c76E7692D722982a6D",
+      "decimals": 18,
+      "name": "Buffer Finance",
+      "symbol": "BFR",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1A5B0aaF478bf1FDA7b934c76E7692D722982a6D/logo.png"
+    },
+    {
+      "chainId": 42161,
       "address": "0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017",
       "decimals": 18,
       "name": "Radiant",
