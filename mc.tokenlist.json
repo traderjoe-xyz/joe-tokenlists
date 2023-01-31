@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 215,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tokens": [
@@ -515,7 +515,6 @@
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfcc6ce74f4cd7edef0c5429bb99d38a3608043a5/logo.png"
     },
-  
     {
       "chainId": 43114,
       "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
@@ -1480,8 +1479,18 @@
         "GameFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x539bdE0d7Dbd336b79148AA742883198BBF60342/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+      "decimals": 18,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "tags": [
+        "Large Cap"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf97f4df75117a78c1A5a0DBb814Af92458539FB4/logo.png"
     }
-
   ],
-  "timestamp": "2021-01-18T00:00:00+00:00"
+  "timestamp": "2021-01-31T00:00:00+00:00"
 }
