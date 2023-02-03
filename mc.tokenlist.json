@@ -1459,6 +1459,17 @@
     },
     {
       "chainId": 42161,
+      "address": "0x5575552988A3A80504bBaeB1311674fCFd40aD4B",
+      "decimals": 18,
+      "name": "Sperax",
+      "symbol": "SPA",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5575552988A3A80504bBaeB1311674fCFd40aD4B/logo.png"
+    },
+    {
+      "chainId": 42161,
       "address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
       "decimals": 8,
       "name": "Bitcoin",
