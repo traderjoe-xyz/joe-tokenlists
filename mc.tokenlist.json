@@ -1470,6 +1470,17 @@
     },
     {
       "chainId": 42161,
+      "address": "0xa684cd057951541187f288294a1e1C2646aA2d24",
+      "decimals": 18,
+      "name": "Vesta",
+      "symbol": "VSTA",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xa684cd057951541187f288294a1e1C2646aA2d24/logo.png"
+    },
+    {
+      "chainId": 42161,
       "address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
       "decimals": 8,
       "name": "Bitcoin",
