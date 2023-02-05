@@ -1502,6 +1502,17 @@
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x539bdE0d7Dbd336b79148AA742883198BBF60342/logo.png"
     },
+    {
+      "chainId": 42161,
+      "address": "0x64343594ab9b56e99087bfa6f2335db24c2d1f17",
+      "decimals": 18,
+      "name": "Vesta Stable",
+      "symbol": "VST",
+      "tags": [
+        "Stablecoins"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x64343594ab9b56e99087bfa6f2335db24c2d1f17/logo.png"
+    },
      {
       "chainId": 42161,
       "address": "0x51318B7D00db7ACc4026C88c3952B66278B6A67F",
