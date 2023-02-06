@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 215,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "tokens": [
@@ -1545,6 +1545,28 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
+      "decimals": 18,
+      "name": "Stargate Token",
+      "symbol": "STG",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6694340fc020c5E6B96567843da2df01b2CE1eb6/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
+      "decimals": 18,
+      "name": "Stargate Token",
+      "symbol": "STG",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6694340fc020c5E6B96567843da2df01b2CE1eb6/logo.png"
     }
   ],
   "timestamp": "2021-01-31T00:00:00+00:00"
