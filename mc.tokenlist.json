@@ -1589,7 +1589,29 @@
         "Stablecoins"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7/logo.png"
-      }
+      },
+    {
+      "chainId": 43114,
+      "address": "0xc763f8570A48c4c00C80B76107cbE744dDa67b79",
+      "decimals": 18,
+      "name": "BetSwirl Token",
+      "symbol": "BETS",
+      "tags": [
+        "GameFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc763f8570A48c4c00C80B76107cbE744dDa67b79/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xe26ae3d881f3d5def58d795f611753804e7a6b26",
+      "decimals": 18,
+      "name": "BetSwirl Token",
+      "symbol": "BETS",
+      "tags": [
+        "GameFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe26ae3d881f3d5def58d795f611753804e7a6b26/logo.png"
+    }
   ],
   "timestamp": "2021-01-31T00:00:00+00:00"
 }
