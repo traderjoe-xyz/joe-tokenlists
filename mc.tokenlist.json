@@ -1611,6 +1611,28 @@
         "GameFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe26ae3d881f3d5def58d795f611753804e7a6b26/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x0639B0822D0038e70B4455B041E227e85F6029De",
+      "decimals": 18,
+      "name": "xtrip GXT",
+      "symbol": "GXT",
+      "tags": [
+        "GameFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0639B0822D0038e70B4455B041E227e85F6029De/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb3f252E9E3Ee56f564e13654F1d85aeDc7606b28",
+      "decimals": 18,
+      "name": "xtrip XTR",
+      "symbol": "XTR",
+      "tags": [
+        "GameFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb3f252E9E3Ee56f564e13654F1d85aeDc7606b28/logo.png"
     }
   ],
   "timestamp": "2021-01-31T00:00:00+00:00"
