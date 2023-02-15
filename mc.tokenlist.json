@@ -1622,7 +1622,31 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xddBfBd5dc3BA0FeB96Cb513B689966b2176d4c09/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x088cd8f5eF3652623c22D48b1605DCfE860Cd704",
+      "decimals": 18,
+      "name": "VelaToken",
+      "symbol": "VELA",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x088cd8f5eF3652623c22D48b1605DCfE860Cd704/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x602Eb0D99A5e3e76D1510372C4d2020e12EaEa8a",
+      "decimals": 9,
+      "name": "Trident",
+      "symbol": "PSI",
+      "tags": [
+        "GameFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x602Eb0D99A5e3e76D1510372C4d2020e12EaEa8a/logo.png"
     }
+
+
   ],
   "timestamp": "2021-01-31T00:00:00+00:00"
 }
