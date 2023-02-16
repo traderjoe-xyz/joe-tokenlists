@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 215,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "tokens": [
@@ -1600,7 +1600,63 @@
         "Stablecoins"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7/logo.png"
-      }
+      },
+    {
+      "chainId": 43114,
+      "address": "0xc763f8570A48c4c00C80B76107cbE744dDa67b79",
+      "decimals": 18,
+      "name": "BetSwirl Token",
+      "symbol": "BETS",
+      "tags": [
+        "GameFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc763f8570A48c4c00C80B76107cbE744dDa67b79/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xe26ae3d881f3d5def58d795f611753804e7a6b26",
+      "decimals": 18,
+      "name": "BetSwirl Token",
+      "symbol": "BETS",
+      "tags": [
+        "GameFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe26ae3d881f3d5def58d795f611753804e7a6b26/logo.png"
+    }, 
+    {
+      "chainId": 42161,
+      "address": "0xddBfBd5dc3BA0FeB96Cb513B689966b2176d4c09",
+      "decimals": 18,
+      "name": "STEAK",
+      "symbol": "STEAK",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xddBfBd5dc3BA0FeB96Cb513B689966b2176d4c09/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x088cd8f5eF3652623c22D48b1605DCfE860Cd704",
+      "decimals": 18,
+      "name": "VelaToken",
+      "symbol": "VELA",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x088cd8f5eF3652623c22D48b1605DCfE860Cd704/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x602Eb0D99A5e3e76D1510372C4d2020e12EaEa8a",
+      "decimals": 9,
+      "name": "Trident",
+      "symbol": "PSI",
+      "tags": [
+        "GameFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x602Eb0D99A5e3e76D1510372C4d2020e12EaEa8a/logo.png"
+    }
   ],
   "timestamp": "2021-01-31T00:00:00+00:00"
 }
+
