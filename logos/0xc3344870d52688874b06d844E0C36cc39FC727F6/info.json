@@ -1,0 +1,11 @@
+{
+      "chainId": 43114,
+      "address": "0xc3344870d52688874b06d844E0C36cc39FC727F6",
+      "decimals": 18,
+      "name": "Ankr Staked AVAX",
+      "symbol": "ankrAVAX",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc3344870d52688874b06d844E0C36cc39FC727F6/logo.png"
+}
