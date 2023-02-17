@@ -1589,8 +1589,8 @@
         "Stablecoins"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57/logo.png"
-      },
-      {
+    },
+    {
       "chainId": 42161,
       "address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
       "decimals": 18,
@@ -1600,7 +1600,7 @@
         "Stablecoins"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7/logo.png"
-      },
+    },
     {
       "chainId": 43114,
       "address": "0xc763f8570A48c4c00C80B76107cbE744dDa67b79",
@@ -1622,7 +1622,7 @@
         "GameFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe26ae3d881f3d5def58d795f611753804e7a6b26/logo.png"
-    }, 
+    },
     {
       "chainId": 42161,
       "address": "0xddBfBd5dc3BA0FeB96Cb513B689966b2176d4c09",
@@ -1655,8 +1655,18 @@
         "GameFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x602Eb0D99A5e3e76D1510372C4d2020e12EaEa8a/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xc3344870d52688874b06d844E0C36cc39FC727F6",
+      "decimals": 18,
+      "name": "Ankr Staked AVAX",
+      "symbol": "ankrAVAX",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc3344870d52688874b06d844E0C36cc39FC727F6/logo.png"
     }
   ],
   "timestamp": "2021-01-31T00:00:00+00:00"
 }
-
