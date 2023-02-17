@@ -18,7 +18,7 @@ Please read guidelines for submitting community PR for adding tokens to tokenlis
 
 #### Criteria
 The JOE team will continue to maintain the list for quality control. Some rough guidelines:
-- Contract should be verified on `snowtrace.io`.
+- Contract should be verified on block explorers e.g. `snowtrace.io`, `arbiscan.io`
 - New tokens will be accepted on case by case basis. Pls contact `BD` team via discord. 
 - Token should have established liquidity, a good number of liquidity providers, and 15 day volume. 
 
