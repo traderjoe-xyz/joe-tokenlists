@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 215,
-    "minor": 4,
+    "minor": 6,
     "patch": 0
   },
   "tokens": [
@@ -1393,6 +1393,17 @@
     },
     {
       "chainId": 42161,
+      "address": "0x5429706887FCb58a595677B73E9B0441C25d993D",
+      "decimals": 18,
+      "name": "UniDex",
+      "symbol": "UNIDX",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/UniDex-Finance/UniDex-Tokenlist/main/unidexlogogreen.png"
+    },
+    {
+      "chainId": 42161,
       "address": "0x1A5B0aaF478bf1FDA7b934c76E7692D722982a6D",
       "decimals": 18,
       "name": "Buffer Finance",
@@ -1578,8 +1589,8 @@
         "Stablecoins"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57/logo.png"
-      },
-      {
+    },
+    {
       "chainId": 42161,
       "address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
       "decimals": 18,
@@ -1589,7 +1600,7 @@
         "Stablecoins"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7/logo.png"
-      },
+    },
     {
       "chainId": 43114,
       "address": "0xc763f8570A48c4c00C80B76107cbE744dDa67b79",
@@ -1633,6 +1644,61 @@
         "GameFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb3f252E9E3Ee56f564e13654F1d85aeDc7606b28/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xddBfBd5dc3BA0FeB96Cb513B689966b2176d4c09",
+      "decimals": 18,
+      "name": "STEAK",
+      "symbol": "STEAK",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xddBfBd5dc3BA0FeB96Cb513B689966b2176d4c09/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x088cd8f5eF3652623c22D48b1605DCfE860Cd704",
+      "decimals": 18,
+      "name": "VelaToken",
+      "symbol": "VELA",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x088cd8f5eF3652623c22D48b1605DCfE860Cd704/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x602Eb0D99A5e3e76D1510372C4d2020e12EaEa8a",
+      "decimals": 9,
+      "name": "Trident",
+      "symbol": "PSI",
+      "tags": [
+        "GameFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x602Eb0D99A5e3e76D1510372C4d2020e12EaEa8a/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xc3344870d52688874b06d844E0C36cc39FC727F6",
+      "decimals": 18,
+      "name": "Ankr Staked AVAX",
+      "symbol": "ankrAVAX",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc3344870d52688874b06d844E0C36cc39FC727F6/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x431402e8b9dE9aa016C743880e04E517074D8cEC",
+      "decimals": 18,
+      "name": "HEGIC",
+      "symbol": "HEGIC",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x431402e8b9dE9aa016C743880e04E517074D8cEC/logo.png"
     }
   ],
   "timestamp": "2021-01-31T00:00:00+00:00"
