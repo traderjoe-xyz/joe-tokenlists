@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 215,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "tokens": [
@@ -1677,7 +1677,30 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x431402e8b9dE9aa016C743880e04E517074D8cEC/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x982239D38Af50B0168dA33346d85Fb12929c4c07",
+      "decimals": 18,
+      "name": "Arbitrove Governance Token",
+      "symbol": "TROVE",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x982239D38Af50B0168dA33346d85Fb12929c4c07/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8",
+      "decimals": 18,
+      "name": "Camelot token",
+      "symbol": "GRAIL",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8/logo.png"
     }
+
   ],
   "timestamp": "2021-01-31T00:00:00+00:00"
 }
