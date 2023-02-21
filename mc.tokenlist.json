@@ -1570,17 +1570,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
-      "decimals": 18,
-      "name": "Stargate Token",
-      "symbol": "STG",
-      "tags": [
-        "DeFi"
-      ],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6694340fc020c5E6B96567843da2df01b2CE1eb6/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57",
       "decimals": 18,
       "name": "Angle Euro",
