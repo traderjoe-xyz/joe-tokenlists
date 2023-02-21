@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 215,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "tokens": [
@@ -1570,17 +1570,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
-      "decimals": 18,
-      "name": "Stargate Token",
-      "symbol": "STG",
-      "tags": [
-        "DeFi"
-      ],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6694340fc020c5E6B96567843da2df01b2CE1eb6/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57",
       "decimals": 18,
       "name": "Angle Euro",
@@ -1677,7 +1666,30 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x431402e8b9dE9aa016C743880e04E517074D8cEC/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x982239D38Af50B0168dA33346d85Fb12929c4c07",
+      "decimals": 18,
+      "name": "Arbitrove Governance Token",
+      "symbol": "TROVE",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x982239D38Af50B0168dA33346d85Fb12929c4c07/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8",
+      "decimals": 18,
+      "name": "Camelot Token",
+      "symbol": "GRAIL",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8/logo.png"
     }
+
   ],
   "timestamp": "2021-01-31T00:00:00+00:00"
 }
