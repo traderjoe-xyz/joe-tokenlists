@@ -1693,7 +1693,7 @@
       "chainId": 42161,
       "address": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8",
       "decimals": 18,
-      "name": "Camelot token",
+      "name": "Camelot Token",
       "symbol": "GRAIL",
       "tags": [
         "DeFi"
