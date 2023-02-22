@@ -27,6 +27,17 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
     },
     {
+      "chainId": 43114,
+      "address": "0xe9bAdE2465E5ae11B7C12D823833E8CD66028fB7",
+      "decimals": 18,
+      "name": "ARC",
+      "symbol": "ARC",
+      "tags": [
+        "GameFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe9bAdE2465E5ae11B7C12D823833E8CD66028fB7/logo.png"
+    },
+    {
       "chainId": 43113,
       "address": "0xB6076C93701D6a07266c31066B298AeC6dd65c2d",
       "decimals": 6,
