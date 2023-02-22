@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 215,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "tokens": [
@@ -1688,8 +1688,18 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1FE70939c2cEc8F31E8F7729442658586B469972",
+      "decimals": 18,
+      "name": "GMD",
+      "symbol": "GMD",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1FE70939c2cEc8F31E8F7729442658586B469972/logo.png"
     }
-
   ],
-  "timestamp": "2021-01-31T00:00:00+00:00"
+  "timestamp": "2021-02-22T00:00:00+00:00"
 }
