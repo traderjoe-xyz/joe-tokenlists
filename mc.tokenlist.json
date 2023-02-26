@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 215,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   },
   "tokens": [
@@ -1699,6 +1699,17 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1FE70939c2cEc8F31E8F7729442658586B469972/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x6dD963C510c2D2f09d5eDdB48Ede45FeD063Eb36",
+      "decimals": 18,
+      "name": "Factor",
+      "symbol": "FCTR",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6dD963C510c2D2f09d5eDdB48Ede45FeD063Eb36/logo.png"
     }
   ],
   "timestamp": "2021-02-22T00:00:00+00:00"
