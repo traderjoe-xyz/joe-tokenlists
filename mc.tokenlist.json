@@ -3,13 +3,13 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": [
     "avalanche",
-    "defi",
-    "joe",
-    "trader joe"
+    "arbitrum",
+    "bnb binance",
+    "dex"
   ],
   "version": {
-    "major": 215,
-    "minor": 9,
+    "major": 216,
+    "minor": 0,
     "patch": 0
   },
   "tokens": [
@@ -1178,8 +1178,7 @@
       "symbol": "BUSD",
       "tags": [
         "Stablecoins",
-        "Large Cap",
-        "Top Tokens"
+        "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39/logo.png"
     },
@@ -1710,7 +1709,119 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6dD963C510c2D2f09d5eDdB48Ede45FeD063Eb36/logo.png"
-    }
+    },
+    {
+      "chainId": 56,
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "decimals": 18,
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "tags": [
+        "Large Cap",
+        "Top Tokens",
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "decimals": 18,
+      "name": "Binance-Peg BSC-USD",
+      "symbol": "USDT",
+      "tags": [
+        "Stablecoins",
+        "Top Tokens",
+        "Large Cap"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x55d398326f99059fF775485246999027B3197955/logo.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "decimals": 18,
+      "name": "Binance-Peg BUSD",
+      "symbol": "BUSD",
+      "tags": [
+        "Stablecoins",
+        "Top Tokens",
+        "Large Cap"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "decimals": 18,
+      "name": "Binance-Peg Ethereum",
+      "symbol": "ETH",
+      "tags": [
+        "DeFi",
+        "Top Tokens",
+        "Large Cap"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "decimals": 18,
+      "name": "Pancakeswap Token",
+      "symbol": "CAKE",
+      "tags": [
+        "DeFi",
+        "Top Tokens"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "decimals": 18,
+      "name": "Binance-Peg USDC",
+      "symbol": "USDC",
+      "tags": [
+        "Stablecoins",
+        "Top Tokens",
+        "Large Cap"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "decimals": 18,
+      "name": "Binance-Peg BTCB",
+      "symbol": "BTCB",
+      "tags": [
+        "DeFi",
+        "Top Tokens",
+        "Large Cap"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c/logo.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0xB0D502E938ed5f4df2E681fE6E419ff29631d62b",
+      "decimals": 18,
+      "name": "Stargate Token",
+      "symbol": "STG",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB0D502E938ed5f4df2E681fE6E419ff29631d62b/logo.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0xfb5B838b6cfEEdC2873aB27866079AC55363D37E",
+      "decimals": 9,
+      "name": "FLOKI",
+      "symbol": "FLOKI",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfb5B838b6cfEEdC2873aB27866079AC55363D37E/logo.png"
+    },
   ],
-  "timestamp": "2021-02-22T00:00:00+00:00"
+  "timestamp": "2021-03-01T00:00:00+00:00"
 }
