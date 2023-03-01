@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 218,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tokens": [
@@ -1844,7 +1844,18 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x51e48670098173025C477D9AA3f0efF7BF9f7812",
+      "decimals": 18,
+      "name": "DegenX",
+      "symbol": "DGNX",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x51e48670098173025C477D9AA3f0efF7BF9f7812/logo.png"
     }
   ],
-  "timestamp": "2021-03-01T00:00:00+00:00"
+  "timestamp": "2021-03-10T00:00:00+00:00"
 }
