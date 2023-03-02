@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 218,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
@@ -1822,7 +1822,18 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfb5B838b6cfEEdC2873aB27866079AC55363D37E/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x7F465507f058e17Ad21623927a120ac05CA32741",
+      "decimals": 18,
+      "name": "Arcadeum",
+      "symbol": "ARC",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7F465507f058e17Ad21623927a120ac05CA32741/logo.png"
     }
   ],
-  "timestamp": "2021-02-28T00:00:00+00:00"
+  "timestamp": "2021-03-01T00:00:00+00:00"
 }
