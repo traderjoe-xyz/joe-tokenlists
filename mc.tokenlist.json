@@ -1835,6 +1835,17 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7F465507f058e17Ad21623927a120ac05CA32741/logo.png"
     },
     {
+      "chainId": 43114,
+      "address": "0xFd538CA3f58dC309dA55B11f007ff53fb4602876",
+      "decimals": 18,
+      "name": "BattleForGiostone",
+      "symbol": "BFG",
+      "tags": [
+        "Avalanche"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFd538CA3f58dC309dA55B11f007ff53fb4602876/logo.png"
+    },
+    {
       "chainId": 56,
       "address": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
       "decimals": 18,
