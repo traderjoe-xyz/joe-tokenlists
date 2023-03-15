@@ -1846,6 +1846,17 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFd538CA3f58dC309dA55B11f007ff53fb4602876/logo.png"
     },
     {
+      "chainId": 43114,
+      "address": "0xFAc235f442ED946087c1Db9f70075b51E698a487",
+      "decimals": 18,
+      "name": "Pterosaur Token",
+      "symbol": "PTER",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFAc235f442ED946087c1Db9f70075b51E698a487/logo.png"
+    },
+    {
       "chainId": 56,
       "address": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
       "decimals": 18,
@@ -1868,5 +1879,5 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7ad7242A99F21aa543F9650A56D141C57e4F6081/logo.png"
     }
   ],
-  "timestamp": "2021-03-01T00:00:00+00:00"
+  "timestamp": "2021-03-15T00:00:00+00:00"
 }
