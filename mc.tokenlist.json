@@ -1877,7 +1877,18 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7ad7242A99F21aa543F9650A56D141C57e4F6081/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x07B057133d28d44Fc1C917D8F77A5a8099f01A97",
+      "decimals": 18,
+      "name": "Alloy Space Nioz",
+      "symbol": "NIOZ",
+      "tags": [
+        "GameFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x07B057133d28d44Fc1C917D8F77A5a8099f01A97/logo.png"
     }
   ],
-  "timestamp": "2021-03-01T00:00:00+00:00"
+  "timestamp": "2021-03-20T00:00:00+00:00"
 }
