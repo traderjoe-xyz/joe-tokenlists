@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 218,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tokens": [
@@ -1424,7 +1424,7 @@
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017/logo.png"
     },
-     {
+    {
       "chainId": 42161,
       "address": "0x3082CC23568eA640225c2467653dB90e9250AaA0",
       "decimals": 18,
@@ -1877,7 +1877,20 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7ad7242A99F21aa543F9650A56D141C57e4F6081/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+      "decimals": 18,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "tags": [
+        "DeFi",
+        "Large Cap",
+        "Top Tokens"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png"
     }
   ],
-  "timestamp": "2021-03-01T00:00:00+00:00"
+  "timestamp": "2021-03-22T00:00:00+00:00"
 }
