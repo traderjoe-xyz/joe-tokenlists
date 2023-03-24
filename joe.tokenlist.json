@@ -1051,6 +1051,15 @@
       "symbol": "LINK.e",
       "tags": ["Large Cap"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5947bb275c521040051d82396192181b413227a3/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x916aBa115F5162960E48a2675Ad4d8cBD09CE8E4",
+      "decimals": 18,
+      "name": "MCVERSE",
+      "symbol": "MCV",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x916aBa115F5162960E48a2675Ad4d8cBD09CE8E4/logo.png"
     }
   ],
   "timestamp": "2021-09-21T00:00:00+00:00"
