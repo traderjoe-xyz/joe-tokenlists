@@ -1890,7 +1890,18 @@
         "Top Tokens"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x992EB7040b66b13abEa94E2621D4E61d5CE608BD",
+      "decimals": 18,
+      "name": "mUsdc",
+      "symbol": "mUsdc",
+      "tags": [
+        "DeFi",
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x992EB7040b66b13abEa94E2621D4E61d5CE608BD/logo.png"
     }
   ],
-  "timestamp": "2021-03-22T00:00:00+00:00"
+  "timestamp": "2021-03-27T00:00:00+00:00"
 }
