@@ -1426,6 +1426,17 @@
     },
     {
       "chainId": 42161,
+      "address": "0x3082CC23568eA640225c2467653dB90e9250AaA0",
+      "decimals": 18,
+      "name": "Radiant v2",
+      "symbol": "RDNT",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3082CC23568eA640225c2467653dB90e9250AaA0/logo.png"
+    },
+    {
+      "chainId": 42161,
       "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
       "decimals": 18,
       "name": "Gains Network",
@@ -1835,6 +1846,17 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7F465507f058e17Ad21623927a120ac05CA32741/logo.png"
     },
     {
+      "chainId": 43114,
+      "address": "0xFd538CA3f58dC309dA55B11f007ff53fb4602876",
+      "decimals": 18,
+      "name": "BattleForGiostone",
+      "symbol": "BFG",
+      "tags": [
+        "Avalanche"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFd538CA3f58dC309dA55B11f007ff53fb4602876/logo.png"
+    },
+    {
       "chainId": 56,
       "address": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
       "decimals": 18,
@@ -1845,6 +1867,30 @@
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07/logo.png"
     },
+    {
+      "chainId": 56,
+      "address": "0x7ad7242A99F21aa543F9650A56D141C57e4F6081",
+      "decimals": 9,
+      "name": "Jade Protocol",
+      "symbol": "JADE",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7ad7242A99F21aa543F9650A56D141C57e4F6081/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+      "decimals": 18,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "tags": [
+        "DeFi",
+        "Large Cap",
+        "Top Tokens"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png"
+    }, 
     {
       "chainId": 43114,
       "address": "0x51e48670098173025C477D9AA3f0efF7BF9f7812",
@@ -1857,5 +1903,5 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x51e48670098173025C477D9AA3f0efF7BF9f7812/logo.png"
     }
   ],
-  "timestamp": "2021-03-10T00:00:00+00:00"
+  "timestamp": "2021-03-27T00:00:00+00:00"
 }
