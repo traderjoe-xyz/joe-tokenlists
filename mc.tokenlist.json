@@ -1436,6 +1436,17 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3082CC23568eA640225c2467653dB90e9250AaA0/logo.png"
     },
     {
+      "chainId": 56,
+      "address": "0xf7DE7E8A6bd59ED41a4b5fe50278b3B7f31384dF",
+      "decimals": 18,
+      "name": "Radiant v2",
+      "symbol": "RDNT",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf7DE7E8A6bd59ED41a4b5fe50278b3B7f31384dF/logo.png"
+    },
+    {
       "chainId": 42161,
       "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
       "decimals": 18,
