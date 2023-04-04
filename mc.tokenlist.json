@@ -1914,6 +1914,17 @@
         "Top Tokens"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xa61F74247455A40b01b0559ff6274441FAfa22A3",
+      "decimals": 18,
+      "name": "Arbitrum",
+      "symbol": "MGP",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xa61F74247455A40b01b0559ff6274441FAfa22A3/logo.png"
     }
   ],
   "timestamp": "2021-03-22T00:00:00+00:00"
