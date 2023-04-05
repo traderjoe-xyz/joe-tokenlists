@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 218,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tokens": [
@@ -1919,7 +1919,7 @@
       "chainId": 42161,
       "address": "0xa61F74247455A40b01b0559ff6274441FAfa22A3",
       "decimals": 18,
-      "name": "Arbitrum",
+      "name": "Magpie Token",
       "symbol": "MGP",
       "tags": [
         "DeFi"
