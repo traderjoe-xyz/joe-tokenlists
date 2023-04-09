@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 218,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
   "tokens": [
@@ -1947,6 +1947,28 @@
         "Stablecoins"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x188fb5f5Ae5BBE4154d5778F2bbb2Fb985c94d25",
+      "decimals": 18,
+      "name": "Openblox Token",
+      "symbol": "OBX",
+      "tags": [
+        "GameFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x188fb5f5Ae5BBE4154d5778F2bbb2Fb985c94d25/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xc701F86E6D242b97D3035F6c2cecaF8E7087E898",
+      "decimals": 18,
+      "name": "RunBlox Token",
+      "symbol": "RUX",
+      "tags": [
+        "GameFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc701F86E6D242b97D3035F6c2cecaF8E7087E898/logo.png"
     }
   ],
   "timestamp": "2021-03-22T00:00:00+00:00"
