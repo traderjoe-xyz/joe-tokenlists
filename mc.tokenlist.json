@@ -1138,7 +1138,8 @@
       "name": "Magic",
       "symbol": "MAGIC",
       "tags": [
-        "GameFi"
+        "GameFi",
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9A8E0217cD870783c3f2317985C57Bf570969153/logo.png"
     },
@@ -1364,8 +1365,7 @@
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "tags": [
-        "DeFi",
-        "Top"
+        "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5979D7b546E38E414F7E9822514be443A4800529/logo.png"
     },
@@ -1421,7 +1421,8 @@
       "name": "Radiant v2",
       "symbol": "RDNT",
       "tags": [
-        "DeFi"
+        "DeFi",
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3082CC23568eA640225c2467653dB90e9250AaA0/logo.png"
     },
@@ -1509,7 +1510,7 @@
       "name": "Bitcoin",
       "symbol": "BTC.b",
       "tags": [
-        "Top"
+        "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2297aEbD383787A160DD0d9F71508148769342E3/logo.png"
     },
@@ -1520,7 +1521,8 @@
       "name": "MAGIC",
       "symbol": "MAGIC",
       "tags": [
-        "GameFi"
+        "GameFi",
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x539bdE0d7Dbd336b79148AA742883198BBF60342/logo.png"
     },
