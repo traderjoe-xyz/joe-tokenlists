@@ -20,7 +20,7 @@
       "name": "Wrapped AVAX",
       "symbol": "WAVAX",
       "tags": [
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
     },
@@ -32,7 +32,7 @@
       "symbol": "USDC",
       "tags": [
         "Stablecoins",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB6076C93701D6a07266c31066B298AeC6dd65c2d/logo.png"
     },
@@ -44,7 +44,7 @@
       "symbol": "USDT",
       "tags": [
         "Stablecoins",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xAb231A5744C8E6c45481754928cCfFFFD4aa0732/logo.png"
     },
@@ -56,7 +56,7 @@
       "symbol": "JOE",
       "tags": [
         "DeFi",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png"
     },
@@ -78,7 +78,7 @@
       "name": "Wrapped AVAX",
       "symbol": "WAVAX",
       "tags": [
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
     },
@@ -155,7 +155,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC.e",
       "tags": [
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png"
     },
@@ -166,7 +166,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH.e",
       "tags": [
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
     },
@@ -188,7 +188,8 @@
       "name": "Benqi",
       "symbol": "QI",
       "tags": [
-        "DeFi"
+        "DeFi",
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png"
     },
@@ -354,7 +355,7 @@
       "symbol": "USDC",
       "tags": [
         "Stablecoins",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
     },
@@ -421,7 +422,7 @@
       "symbol": "USDT",
       "tags": [
         "Stablecoins",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
     },
@@ -433,7 +434,7 @@
       "symbol": "GMX",
       "tags": [
         "DeFi",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x62edc0692BD897D2295872a9FFCac5425011c661/logo.png"
     },
@@ -785,7 +786,7 @@
       "name": "Bitcoin",
       "symbol": "BTC.b",
       "tags": [
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x152b9d0FdC40C096757F570A51E494bd4b943E50/logo.png"
     },
@@ -1248,7 +1249,7 @@
       "symbol": "LINK.e",
       "tags": [
         "DeFi",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5947bb275c521040051d82396192181b413227a3/logo.png"
     },
@@ -1270,7 +1271,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "tags": [
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xaE4EC9901c3076D0DdBe76A520F9E90a6227aCB7/logo.png"
     },
@@ -1282,7 +1283,7 @@
       "symbol": "USDC",
       "tags": [
         "Stablecoins",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb3482A25a12e5261b02E0acc5b96c656358a4086/logo.png"
     },
@@ -1294,7 +1295,7 @@
       "symbol": "USDT",
       "tags": [
         "Stablecoins",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf450749aeA1c5feF27Ae0237C56FecC43f6bE244/logo.png"
     },
@@ -1305,7 +1306,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "tags": [
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x82af49447d8a07e3bd95bd0d56f35241523fbab1/logo.png"
     },
@@ -1317,7 +1318,7 @@
       "symbol": "USDC",
       "tags": [
         "Stablecoins",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8/logo.png"
     },
@@ -1329,7 +1330,7 @@
       "symbol": "USDT",
       "tags": [
         "Stablecoins",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9/logo.png"
     },
@@ -1341,7 +1342,7 @@
       "symbol": "DAI",
       "tags": [
         "Stablecoins",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1/logo.png"
     },
@@ -1352,7 +1353,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "tags": [
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f/logo.png"
     },
@@ -1364,7 +1365,7 @@
       "symbol": "wstETH",
       "tags": [
         "DeFi",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5979D7b546E38E414F7E9822514be443A4800529/logo.png"
     },
@@ -1376,7 +1377,7 @@
       "symbol": "GMX",
       "tags": [
         "DeFi",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a/logo.png"
     },
@@ -1508,7 +1509,7 @@
       "name": "Bitcoin",
       "symbol": "BTC.b",
       "tags": [
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2297aEbD383787A160DD0d9F71508148769342E3/logo.png"
     },
@@ -1553,7 +1554,7 @@
       "symbol": "LINK",
       "tags": [
         "DeFi",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf97f4df75117a78c1A5a0DBb814Af92458539FB4/logo.png"
     },
@@ -1565,7 +1566,7 @@
       "symbol": "JOE",
       "tags": [
         "DeFi",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07/logo.png"
     },
@@ -1576,7 +1577,8 @@
       "name": "Stargate Token",
       "symbol": "STG",
       "tags": [
-        "DeFi"
+        "DeFi",
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6694340fc020c5E6B96567843da2df01b2CE1eb6/logo.png"
     },
@@ -1730,7 +1732,7 @@
       "name": "Wrapped BNB",
       "symbol": "WBNB",
       "tags": [
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
     },
@@ -1742,7 +1744,7 @@
       "symbol": "USDT",
       "tags": [
         "Stablecoins",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x55d398326f99059fF775485246999027B3197955/logo.png"
     },
@@ -1754,7 +1756,7 @@
       "symbol": "BUSD",
       "tags": [
         "Stablecoins",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png"
     },
@@ -1766,7 +1768,7 @@
       "symbol": "ETH",
       "tags": [
         "DeFi",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png"
     },
@@ -1778,7 +1780,7 @@
       "symbol": "CAKE",
       "tags": [
         "DeFi",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png"
     },
@@ -1790,7 +1792,7 @@
       "symbol": "USDC",
       "tags": [
         "Stablecoins",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png"
     },
@@ -1801,7 +1803,7 @@
       "name": "Binance-Peg BTCB",
       "symbol": "BTCB",
       "tags": [
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c/logo.png"
     },
@@ -1857,7 +1859,7 @@
       "symbol": "JOE",
       "tags": [
         "DeFi",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07/logo.png"
     },
@@ -1880,7 +1882,7 @@
       "symbol": "ARB",
       "tags": [
         "DeFi",
-        "Top Tokens"
+        "Top"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png"
     },
