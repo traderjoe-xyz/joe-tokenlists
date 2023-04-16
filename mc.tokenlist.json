@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 220,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
@@ -1701,7 +1701,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7B5EB3940021Ec0e8e463D5dBB4B7B09a89DDF96/logo.png"
     },
     {
-      "chainId": 43113,
+      "chainId": 43114,
       "address": "0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948",
       "decimals": 18,
       "name": "Moremoney USD",
