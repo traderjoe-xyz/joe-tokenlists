@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 220,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "tokens": [
@@ -1776,7 +1776,7 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d/logo.png"
-    },
-  ],
+    }
+  ]
   "timestamp": "2021-04-15T00:00:00+00:00"
 }
