@@ -1440,14 +1440,5 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x333000333b26ee30214b4af6419d9ab07a450400/logo.png"
     }
   ],
-    {
-      "chainId": 56,
-      "address": "0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149",
-      "decimals": 18,
-      "name": "Level Token",
-      "symbol": "LVL",
-      "tags": ["DeFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149/logo.png"
-    },
   "timestamp": "2021-04-15T00:00:00+00:00"
 }
