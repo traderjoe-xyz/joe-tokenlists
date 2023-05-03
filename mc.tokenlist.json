@@ -1429,6 +1429,25 @@
       "symbol": "GGP",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d/logo.png"
+    }, 
+    {
+      "chainId": 43114,
+      "address": "0xbd3936eC8D83A5D4e73ecA625eCFa006da8C8F52",
+      "decimals": 18,
+      "name": "UREEQA", 
+      "symbol": "URQA",
+      "tags": [
+        "DeFi",
+        "Art",
+        "Music",  
+        "IP Protection", 
+        "NFT", 
+        "Validation", 
+        "Copyright", 
+        "Payments", 
+        "Medium of Exchange"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xbd3936eC8D83A5D4e73ecA625eCFa006da8C8F52/logo.png"
     }
   ],
   "timestamp": "2021-04-15T00:00:00+00:00"
