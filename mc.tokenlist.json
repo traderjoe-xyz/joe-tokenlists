@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "arbitrum", "defi", "trader joe"],
   "version": {
     "major": 220,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "tokens": [
@@ -1431,13 +1431,13 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d/logo.png"
     },
     {
-      "chainId": 56,
-      "address": "0x333000333b26ee30214b4af6419d9ab07a450400",
+      "chainId": 43114,
+      "address": "0x333000333b26eE30214B4af6419D9ab07a450400",
       "decimals": 18,
       "name": "MELD",
       "symbol": "MELD",
       "tags": ["DeFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x333000333b26ee30214b4af6419d9ab07a450400/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x333000333b26eE30214B4af6419D9ab07a450400/logo.png"
     }
   ],
   "timestamp": "2021-04-15T00:00:00+00:00"
