@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "arbitrum", "defi", "trader joe"],
   "version": {
     "major": 220,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "tokens": [
@@ -1438,6 +1438,15 @@
       "symbol": "MELD",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x333000333b26eE30214B4af6419D9ab07a450400/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xef261714F7E5ba6b86F4780eb6e3bf26B10729CF",
+      "decimals": 18,
+      "name": "White Lotus",
+      "symbol": "LOTUS",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xef261714F7E5ba6b86F4780eb6e3bf26B10729CF/logo.png"
     }
   ],
   "timestamp": "2021-04-15T00:00:00+00:00"
