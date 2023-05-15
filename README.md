@@ -1,12 +1,12 @@
-# Avalanche Tokenlists
-Tokenlists for the Trader Joe, the top 1 DEX on Avalanche. 
+# Trader Joe Token list
+Token list for Trader Joe, everyone's favorite DEX.
 
 ## HOW TO ADD YOUR LOGO
 
 #### Application
-Submit pull request by adding your token logo 200X200 PNG. 
+Submit pull request by adding your token logo 120X120 PNG. 
 - Folder name need to be named with the token address 
-- If logo is not png or exceeds 200X200 it will be rejected. 
+- If logo is not png or exceeds 120X120 it will be rejected. 
 - PRs including tokenlist will be rejected. Logos only. 
 - submissions with invalid chain address will be rejected. 
 - PRs will be processed every 3-5 days. 
@@ -25,8 +25,8 @@ The JOE team will continue to maintain the list for quality control. Some rough 
 #### Submission process
 Please refer to `mc.tokenlist.json` for format, and tag your token appropriately. 
 - Submit tokenlist PR separately from logo PR.
-- Tag your token with `DeFi`, `GameFi` or `Stablecoins`. - (case sensitive). 
-- Tags for `Top Tokens`, `Large Cap` and `Avalanche` are maintained by JOE team only. 
+- Tag your token with `DeFi`, `GameFi`, `Meme` or `Stablecoins` . - (case sensitive). 
+- Tags for `Top Tokens` and `Large Cap` are maintained by JOE team only. 
 
 
 
