@@ -1465,6 +1465,15 @@
       "symbol": "axlSOMM",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x421CC964D5A3FEf29c6839c54C40E9d1D554aFA4/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE",
+      "decimals": 18,
+      "name": "CheckDot",
+      "symbol": "CDT",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE/logo.png"
     }
   ],
   "timestamp": "2021-05-11T00:00:00+00:00"
