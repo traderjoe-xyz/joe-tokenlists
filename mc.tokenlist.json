@@ -1,10 +1,10 @@
 {
   "name": "Trader Joe Default",
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
-  "keywords": ["avalanche", "arbitrum", "defi", "trader joe"],
+  "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
     "major": 220,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "tokens": [
@@ -1467,6 +1467,15 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x421CC964D5A3FEf29c6839c54C40E9d1D554aFA4/logo.png"
     },
     {
+      "chainId": 42161,
+      "address": "0xCcb97Ae0C1bc4cE196B6460395Af7DF5eE1212BC",
+      "decimals": 18,
+      "name": "JIMBO",
+      "symbol": "JIMBO",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xCcb97Ae0C1bc4cE196B6460395Af7DF5eE1212BC/logo.png"
+    },
+    {
       "chainId": 43114,
       "address": "0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE",
       "decimals": 18,
@@ -1476,5 +1485,5 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE/logo.png"
     }
   ],
-  "timestamp": "2021-05-11T00:00:00+00:00"
+  "timestamp": "2021-05-15T00:00:00+00:00"
 }
