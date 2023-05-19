@@ -1474,6 +1474,14 @@
       "symbol": "JIMBO",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xCcb97Ae0C1bc4cE196B6460395Af7DF5eE1212BC/logo.png"
+    },{
+      "chainId": 43114,
+      "address": "0x679c264bf4BB68bBdd92BB73CDBb651F27F6c566",
+      "decimals":18 ,
+      "name": "Spongebob",
+      "symbol": "Sponge",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x679c264bf4BB68bBdd92BB73CDBb651F27F6c566/logo.png"
     }
   ],
   "timestamp": "2021-05-15T00:00:00+00:00"
