@@ -1474,6 +1474,15 @@
       "symbol": "JIMBO",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xCcb97Ae0C1bc4cE196B6460395Af7DF5eE1212BC/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xe2105bea3819d3131B5b2306D44Eb3271BfcFe0E",
+      "decimals": 18,
+      "name": "Fief",
+      "symbol": "FIEF",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe2105bea3819d3131B5b2306D44Eb3271BfcFe0E/logo.png"
     }
   ],
   "timestamp": "2021-05-15T00:00:00+00:00"
