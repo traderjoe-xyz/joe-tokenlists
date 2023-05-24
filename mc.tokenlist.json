@@ -1483,6 +1483,15 @@
       "symbol": "FIEF",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe2105bea3819d3131B5b2306D44Eb3271BfcFe0E/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xa4FB4F0Ff2431262D236778495145EcBC975c38B",
+      "decimals": 18,
+      "name": "Bware",
+      "symbol": "INFRA.e",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xa4FB4F0Ff2431262D236778495145EcBC975c38B/logo.png"
     }
   ],
   "timestamp": "2021-05-15T00:00:00+00:00"
