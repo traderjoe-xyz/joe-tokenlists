@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
     "major": 220,
-    "minor": 10,
+    "minor": 11,
     "patch": 0
   },
   "tokens": [
@@ -1519,7 +1519,7 @@
       "symbol": "JIMBO",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xC3813645Ad2Ea0AC9D4d72D77c3755ac3B819e38/logo.png"
-    },
+    }
   ],
   "timestamp": "2021-05-25T00:00:00+00:00"
 }
