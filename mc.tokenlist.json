@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
     "major": 220,
-    "minor": 11,
+    "minor": 12,
     "patch": 0
   },
   "tokens": [
@@ -1519,6 +1519,24 @@
       "symbol": "JIMBO",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xC3813645Ad2Ea0AC9D4d72D77c3755ac3B819e38/logo.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
+      "decimals": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC.b",
+      "tags": ["Top"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2297aEbD383787A160DD0d9F71508148769342E3/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x6560c5AE3332bD6A036F48239a1D90BA3f51872a",
+      "decimals": 18,
+      "name": "LADDER",
+      "symbol": "LADDER",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6560c5AE3332bD6A036F48239a1D90BA3f51872a/logo.png"
     }
   ],
   "timestamp": "2021-05-25T00:00:00+00:00"
