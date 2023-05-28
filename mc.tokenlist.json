@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
     "major": 220,
-    "minor": 12,
+    "minor": 13,
     "patch": 0
   },
   "tokens": [
@@ -1537,7 +1537,7 @@
       "symbol": "LADDER",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6560c5AE3332bD6A036F48239a1D90BA3f51872a/logo.png"
-    }
+    },
     {
       "chainId": 42161,
       "address": "0xcAFcD85D8ca7Ad1e1C6F82F651fA15E33AEfD07b",
