@@ -1537,6 +1537,17 @@
       "symbol": "WOO",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xcAFcD85D8ca7Ad1e1C6F82F651fA15E33AEfD07b/logo.png"
+    },
+    {
+      "chainId": 43113,
+      "address": "0xa77e70d0Af1Ac7fF86726740dB1Bd065c3566937",
+      "decimals": 18,
+      "name": "Wrapped 3ULL",
+      "symbol": "3ULL",
+      "tags": [
+        "GameFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xa77e70d0Af1Ac7fF86726740dB1Bd065c3566937/logo.png"
     }
   ],
   "timestamp": "2021-05-25T00:00:00+00:00"
