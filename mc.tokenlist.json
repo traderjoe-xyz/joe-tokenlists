@@ -1537,6 +1537,15 @@
       "symbol": "WOO",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xcAFcD85D8ca7Ad1e1C6F82F651fA15E33AEfD07b/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xe533B81297B820D2Eb2cd837263926596328E8D2",
+      "decimals": 18,
+      "name": "EMDX",
+      "symbol": "EMDX",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe533B81297B820D2Eb2cd837263926596328E8D2/logo.png"
     }
   ],
   "timestamp": "2021-05-25T00:00:00+00:00"
