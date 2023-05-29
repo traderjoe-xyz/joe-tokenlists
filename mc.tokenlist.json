@@ -1543,7 +1543,7 @@
       "address": "0xa77e70d0Af1Ac7fF86726740dB1Bd065c3566937",
       "decimals": 18,
       "name": "Wrapped 3ULL",
-      "symbol": "3ULL",
+      "symbol": "w3ULL",
       "tags": [
         "GameFi"
       ],
