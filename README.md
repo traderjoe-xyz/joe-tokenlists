@@ -22,7 +22,7 @@
  - New tokens will be accepted on case by case basis. Pls contact `BD` team via discord. 
  - Token should have established liquidity, a good number of liquidity providers, and 15 day volume. 
 
- #### Submission process
+ #### Submission process (For shortlisted project)
  Please refer to `mc.tokenlist.json` for format, and tag your token appropriately. 
  - Submit tokenlist PR separately from logo PR.
  - Tag your token with `DeFi`, `GameFi`, `Meme` or `Stablecoins` . - (case sensitive). 
