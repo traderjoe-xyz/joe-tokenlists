@@ -1564,6 +1564,15 @@
       "symbol": "MBOX",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xa77e70d0Af1Ac7fF86726740dB1Bd065c3566937",
+      "decimals": 18,
+      "name": "Wrapped 3ULL",
+      "symbol": "w3ULL",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xa77e70d0Af1Ac7fF86726740dB1Bd065c3566937/logo.png"
     }
   ],
   "timestamp": "2021-05-25T00:00:00+00:00"
