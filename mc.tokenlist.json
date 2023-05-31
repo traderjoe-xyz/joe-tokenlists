@@ -1512,6 +1512,24 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD/logo.png"
     },
     {
+      "chainId": 43114,
+      "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
+      "decimals": 6,
+      "name": "EUROe Stablecoin",
+      "symbol": "EUROe",
+      "tags": ["Stablecoins"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x820802Fa8a99901F52e39acD21177b0BE6EE2974/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xcF985abA4647a432E60efcEeB8054BBd64244305",
+      "decimals": 6,
+      "name": "EUROe Stablecoin",
+      "symbol": "EUROe",
+      "tags": ["Stablecoins"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xcF985abA4647a432E60efcEeB8054BBd64244305/logo.png"
+    },
+    {
       "chainId": 56,
       "address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
       "decimals": 8,
