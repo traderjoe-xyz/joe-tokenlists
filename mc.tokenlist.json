@@ -1591,6 +1591,15 @@
       "symbol": "w3ULL",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xa77e70d0Af1Ac7fF86726740dB1Bd065c3566937/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb418417374fcA27bb54169D3C777492e6Fe17Ee7",
+      "decimals": 18,
+      "name": "Brillion",
+      "symbol": "DUA",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb418417374fcA27bb54169D3C777492e6Fe17Ee7/logo.png"
     }
   ],
   "timestamp": "2021-05-25T00:00:00+00:00"
