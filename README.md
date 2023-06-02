@@ -4,7 +4,7 @@
  ## HOW TO ADD YOUR LOGO
 
  #### Application
- Submit pull request by adding your token logo 200X200 PNG. 
+ Submit pull request by adding your token logo 120X120 PNG. 
  - Folder name need to be named with the token address 
  - If logo is not png or exceeds 120X120 it will be rejected. 
  - PRs including tokenlist will be rejected. Logos only. 
