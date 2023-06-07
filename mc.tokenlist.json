@@ -894,7 +894,7 @@
       "chainId": 42161,
       "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
       "decimals": 6,
-      "name": "USD Coin",
+      "name": "Bridged USDC",
       "symbol": "USDC.e",
       "tags": ["Stablecoins", "Top"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8/logo.png"
