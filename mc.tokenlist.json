@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
     "major": 221,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "tokens": [
@@ -1600,7 +1600,17 @@
       "symbol": "USDC",
       "tags": ["Stablecoins", "Top"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xaf88d065e77c8cC2239327C5EDb3A432268e5831/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xb49B6A3Fd1F4bB510Ef776de7A88A9e65904478A",
+      "decimals": 18,
+      "name": "ALP",
+      "symbol": "ALP",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb49B6A3Fd1F4bB510Ef776de7A88A9e65904478A/logo.png"
     }
+
   ],
   "timestamp": "2021-05-25T00:00:00+00:00"
 }
