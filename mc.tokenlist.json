@@ -1600,6 +1600,42 @@
       "symbol": "USDC",
       "tags": ["Stablecoins", "Top"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xaf88d065e77c8cC2239327C5EDb3A432268e5831/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034",
+      "decimals": 18,
+      "name": "Savvy",
+      "symbol": "SVY",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xf7728582002ef82908c8242CF552E969BA863Ffa",
+      "decimals": 18,
+      "name": "Savvy ETH",
+      "symbol": "svETH",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf7728582002ef82908c8242CF552E969BA863Ffa/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xeEE18334c414A47FB886a7317E1885b2Bfb8c2A6",
+      "decimals": 18,
+      "name": "Savvy BTC",
+      "symbol": "svBTC",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xeEE18334c414A47FB886a7317E1885b2Bfb8c2A6/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xF202Ab403Cd7E90197ec0f010ee897E283037706",
+      "decimals": 18,
+      "name": "Savvy USD",
+      "symbol": "svUSD",
+      "tags": ["Stablecoins", "DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xF202Ab403Cd7E90197ec0f010ee897E283037706/logo.png"
     }
   ],
   "timestamp": "2021-05-25T00:00:00+00:00"
