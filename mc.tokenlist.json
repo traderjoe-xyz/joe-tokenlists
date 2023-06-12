@@ -1611,6 +1611,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb49B6A3Fd1F4bB510Ef776de7A88A9e65904478A/logo.png"
     },
     {
+      "chainId": 42161,
       "address": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034",
       "decimals": 18,
       "name": "Savvy",
