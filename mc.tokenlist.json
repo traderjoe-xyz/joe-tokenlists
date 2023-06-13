@@ -1643,7 +1643,7 @@
       "decimals": 18,
       "name": "Savvy USD",
       "symbol": "svUSD",
-      "tags": ["Stablecoins", "DeFi"],
+      "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xF202Ab403Cd7E90197ec0f010ee897E283037706/logo.png"
     }
   ],
