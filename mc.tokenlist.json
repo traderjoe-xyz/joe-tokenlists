@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
     "major": 221,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
   "tokens": [
@@ -1609,6 +1609,15 @@
       "symbol": "ALP",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb49B6A3Fd1F4bB510Ef776de7A88A9e65904478A/logo.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+      "decimals": 18,
+      "name": "Binance-Peg XRP Token",
+      "symbol": "XRP",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE/logo.png"
     }
 
   ],
