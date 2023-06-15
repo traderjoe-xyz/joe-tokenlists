@@ -1571,7 +1571,7 @@
       "decimals": 18,
       "name": "Level Token",
       "symbol": "LVL",
-      "tags": ["DeFi","Top"],
+      "tags": ["DeFi", "Top"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149/logo.png"
     },
     {
@@ -1654,6 +1654,15 @@
       "symbol": "svUSD",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xF202Ab403Cd7E90197ec0f010ee897E283037706/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4636e16444720075db87A0a4fd998B423c2B5456",
+      "decimals": 18,
+      "name": "ACTA",
+      "symbol": "ACTA",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4636e16444720075db87A0a4fd998B423c2B5456/logo.png"
     }
   ],
   "timestamp": "2021-05-25T00:00:00+00:00"
