@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
     "major": 221,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "tokens": [
@@ -1654,6 +1654,33 @@
       "symbol": "svUSD",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xF202Ab403Cd7E90197ec0f010ee897E283037706/logo.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
+      "decimals": 18,
+      "name": "Binance-Peg Filecoin",
+      "symbol": "FIL",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153/logo.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
+      "decimals": 18,
+      "name": "Trust Wallet",
+      "symbol": "TWT",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4B0F1812e5Df2A09796481Ff14017e6005508003/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4636e16444720075db87A0a4fd998B423c2B5456",
+      "decimals": 18,
+      "name": "ACTA",
+      "symbol": "ACTA",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4636e16444720075db87A0a4fd998B423c2B5456/logo.png"
     }
   ],
   "timestamp": "2021-05-25T00:00:00+00:00"
