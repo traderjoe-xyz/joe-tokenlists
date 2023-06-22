@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
     "major": 221,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "tokens": [
@@ -1690,6 +1690,15 @@
       "symbol": "ALPHA",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xC9CBf102c73fb77Ec14f8B4C8bd88e050a6b2646/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC",
+      "decimals": 6,
+      "name": "Axelar Wrapped USDC",
+      "symbol": "axlUSDC",
+      "tags": ["Stablecoins"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC/logo.png"
     }
   ],
   "timestamp": "2021-05-25T00:00:00+00:00"
