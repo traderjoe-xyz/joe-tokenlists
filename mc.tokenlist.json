@@ -855,6 +855,15 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFa113908f851E6357D8A20e2a18c22113D5755A9/logo.png"
     },
     {
+      "chainId": 43114,
+      "address": "0x7A023A408F51c23760Eb31190fc731bc12B52954",
+      "decimals": 18,
+      "name": "Janus Network",
+      "symbol": "JNS",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7A023A408F51c23760Eb31190fc731bc12B52954/logo.png"
+    },
+    {
       "chainId": 421613,
       "address": "0xaE4EC9901c3076D0DdBe76A520F9E90a6227aCB7",
       "decimals": 18,
