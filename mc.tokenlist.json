@@ -1152,6 +1152,15 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe26ae3d881f3d5def58d795f611753804e7a6b26/logo.png"
     },
     {
+      "chainId": 56,
+      "address": "0x3e0a7c7db7bb21bda290a80c9811de6d47781671",
+      "decimals": 18,
+      "name": "BetSwirl Token",
+      "symbol": "BETS",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3e0a7c7db7bb21bda290a80c9811de6d47781671/logo.png"
+    },
+    {
       "chainId": 42161,
       "address": "0xddBfBd5dc3BA0FeB96Cb513B689966b2176d4c09",
       "decimals": 18,
