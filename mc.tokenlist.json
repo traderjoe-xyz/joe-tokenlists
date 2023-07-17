@@ -57,9 +57,9 @@
       "symbol": "LYD",
       "tags": [
         "DeFi",
-        "Top"
+        "Top",
       ],
-      "logoURI": "https://www.lydia.finance/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/lydiafinance/lyd-tokenlists/main/logos/logo.png"
     },
     {
       "chainId": 43114,
