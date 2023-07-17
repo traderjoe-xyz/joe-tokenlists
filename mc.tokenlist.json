@@ -51,7 +51,7 @@
     },
     {
       "chainId": 43114,
-      "address": "0x5efa4cdd72b2a5e68d9e8ea9f2fdaca153958959",
+      "address": "0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084",
       "decimals": 18,
       "name": "LydiaFinance Token",
       "symbol": "LYD",
@@ -59,7 +59,7 @@
         "DeFi",
         "Top",
       ],
-      "logoURI": "https://raw.githubusercontent.com/lydiafinance/lyd-tokenlists/main/logos/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/lydiafinance/lyd-tokenlists/main/logos/0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084/logo.png"
     },
     {
       "chainId": 43114,
