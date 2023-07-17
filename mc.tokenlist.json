@@ -47,11 +47,11 @@
         "Stablecoins",
         "Top"
       ],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xAb231A5744C8E6c45481754928cCfFFFD4aa0732/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/lydiafinance/lyd-tokenlists/main/logos/0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084/logo.png"
     },
     {
       "chainId": 43114,
-      "address": "0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084",
+      "address": "0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084",
       "decimals": 18,
       "name": "LydiaFinance Token",
       "symbol": "LYD",
@@ -59,7 +59,7 @@
         "DeFi",
         "Top"
       ],
-      "logoURI": "https://raw.githubusercontent.com/lydiafinance/lyd-tokenlists/main/logos/0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/lydiafinance/lyd-tokenlists/main/logos/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo.png"
     },
     {
       "chainId": 43114,
