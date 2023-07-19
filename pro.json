@@ -29,7 +29,7 @@
       {
         "chainId": 424242,
         "address": "0xd0B048cA472739ab5203671f66Bb8A061E8ae8C1",
-        "decimals": 18,
+        "decimals": 6,
         "name": "test USDC",
         "symbol": "testUSDC",
         "tags": ["Top"],
