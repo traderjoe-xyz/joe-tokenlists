@@ -1135,30 +1135,30 @@
     },
     {
       "chainId": 43114,
-      "address": "0xc763f8570A48c4c00C80B76107cbE744dDa67b79",
+      "address": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
       "decimals": 18,
-      "name": "BetSwirl Token",
+      "name": "BetSwirl v2",
       "symbol": "BETS",
       "tags": ["GameFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc763f8570A48c4c00C80B76107cbE744dDa67b79/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5/logo.png"
     },
     {
       "chainId": 42161,
-      "address": "0xe26ae3d881f3d5def58d795f611753804e7a6b26",
+      "address": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
       "decimals": 18,
-      "name": "BetSwirl Token",
+      "name": "BetSwirl v2",
       "symbol": "BETS",
       "tags": ["GameFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe26ae3d881f3d5def58d795f611753804e7a6b26/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5/logo.png"
     },
     {
       "chainId": 56,
-      "address": "0x3e0a7c7db7bb21bda290a80c9811de6d47781671",
+      "address": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
       "decimals": 18,
-      "name": "BetSwirl Token",
+      "name": "BetSwirl v2",
       "symbol": "BETS",
       "tags": ["GameFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3e0a7c7db7bb21bda290a80c9811de6d47781671/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5/logo.png"
     },
     {
       "chainId": 42161,
