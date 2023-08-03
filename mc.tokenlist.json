@@ -1766,7 +1766,7 @@
     {
       "chainId": 1,
       "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
-      "decimals": 6,
+      "decimals": 18,
       "name": "DAI Stablecoin",
       "symbol": "DAI",
       "tags": ["Top", "Stablecoins"],
