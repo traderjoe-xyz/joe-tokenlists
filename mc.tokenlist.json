@@ -1780,6 +1780,15 @@
       "symbol": "WETH",
       "tags": ["Top"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+        {
+      "chainId": 42161,
+      "address": "0xf19547f9ed24aa66b03c3a552d181ae334fbb8db",
+      "decimals": 18,
+      "name": "Lodestar Token",
+      "symbol": "LODE",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf19547f9ed24aa66b03c3a552d181ae334fbb8db/logo.png"
     }
   ],
   "timestamp": "2021-08-02T00:00:00+00:00"
