@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
     "major": 222,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tokens": [
@@ -1789,7 +1789,26 @@
       "symbol": "LODE",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf19547f9ed24aa66b03c3a552d181ae334fbb8db/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x8929e9DbD2785e3BA16175E596CDD61520feE0D1",
+      "decimals": 18,
+      "name": "Altitude",
+      "symbol": "ALTD",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8929e9DbD2785e3BA16175E596CDD61520feE0D1/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8929e9DbD2785e3BA16175E596CDD61520feE0D1",
+      "decimals": 18,
+      "name": "Altitude",
+      "symbol": "ALTD",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8929e9DbD2785e3BA16175E596CDD61520feE0D1/logo.png"
     }
+
   ],
   "timestamp": "2021-08-02T00:00:00+00:00"
 }
