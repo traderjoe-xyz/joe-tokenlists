@@ -1811,4 +1811,13 @@
 
   ],
   "timestamp": "2021-08-02T00:00:00+00:00"
-}
+ }
+  { 
+      "chainId": 44254,
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "decimals":18,
+      "name": "NliteN",
+      "symbol": "MLN",
+      "tags": ["DeFi"],
+      "logoURI": https://pbs.twimg.com/profile_images/1680425219729530883/UgMhV_Yn_400x400.jpg"
+    },
