@@ -1251,6 +1251,15 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6dD963C510c2D2f09d5eDdB48Ede45FeD063Eb36/logo.png"
     },
     {
+      "chainId": 42161,
+      "address": "0xbc011A12Da28e8F0f528d9eE5E7039E22F91cf18",
+      "decimals": 18,
+      "name": "Swell Ethereum",
+      "symbol": "swETH",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xbc011A12Da28e8F0f528d9eE5E7039E22F91cf18/logo.png"
+    },
+    {
       "chainId": 56,
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "decimals": 18,
