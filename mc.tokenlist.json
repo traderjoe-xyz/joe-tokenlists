@@ -1825,6 +1825,15 @@
       "symbol": "ALTD",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8929e9DbD2785e3BA16175E596CDD61520feE0D1/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xA23e44aEa714fbBc08ef28340D78067B9A8Cad73",
+      "decimals": 18,
+      "name": "Lybra",
+      "symbol": "LBR",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA23e44aEa714fbBc08ef28340D78067B9A8Cad73/logo.png"
     }
 
   ],
