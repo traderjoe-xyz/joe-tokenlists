@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
-    "major": 222,
+    "major": 223,
     "minor": 2,
     "patch": 0
   },
@@ -1834,6 +1834,15 @@
       "symbol": "LBR",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA23e44aEa714fbBc08ef28340D78067B9A8Cad73/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xc16cE97d04DE6C5E0391E308Dbc17A397183067b",
+      "decimals": 18,
+      "name": "GMLP",
+      "symbol": "GMLP",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc16cE97d04DE6C5E0391E308Dbc17A397183067b/logo.png"
     }
 
   ],
