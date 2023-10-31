@@ -1834,8 +1834,17 @@
       "symbol": "LBR",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA23e44aEa714fbBc08ef28340D78067B9A8Cad73/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xc16cE97d04DE6C5E0391E308Dbc17A397183067b",
+      "decimals": 18,
+      "name": "GMLP",
+      "symbol": "GMLP",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc16cE97d04DE6C5E0391E308Dbc17A397183067b/logo.png"
     }
 
   ],
-  "timestamp": "2021-08-02T00:00:00+00:00"
+  "timestamp": "2021-10-30T00:00:00+00:00"
 }
