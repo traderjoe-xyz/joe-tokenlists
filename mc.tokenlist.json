@@ -1843,6 +1843,15 @@
       "symbol": "GMLP",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc16cE97d04DE6C5E0391E308Dbc17A397183067b/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xe3B3F75f99Da4fF26AA867ef70B48F8f6B2D4958",
+      "decimals": 9,
+      "name": "Megaweapon",
+      "symbol": "WEAPON",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe3B3F75f99Da4fF26AA867ef70B48F8f6B2D4958/logo.png"
     }
 
   ],
