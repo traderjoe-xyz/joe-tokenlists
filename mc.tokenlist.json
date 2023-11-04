@@ -1843,8 +1843,16 @@
       "symbol": "GMLP",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc16cE97d04DE6C5E0391E308Dbc17A397183067b/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xD56734d7f9979dD94FAE3d67C7e928234e71cD4C",
+      "decimals": 6,
+      "name": "TIA.n",
+      "symbol": "TIA.n",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD56734d7f9979dD94FAE3d67C7e928234e71cD4C/logo.png"
     }
-
   ],
   "timestamp": "2021-10-30T00:00:00+00:00"
 }
