@@ -1852,6 +1852,15 @@
       "symbol": "TIA.n",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD56734d7f9979dD94FAE3d67C7e928234e71cD4C/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8d88e48465f30acfb8dac0b3e35c9d6d7d36abaf",
+      "decimals": 18,
+      "name": "Canary Token",
+      "symbol": "CNR",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8d88e48465f30acfb8dac0b3e35c9d6d7d36abaf/logo.png"
     }
   ],
   "timestamp": "2021-10-30T00:00:00+00:00"
