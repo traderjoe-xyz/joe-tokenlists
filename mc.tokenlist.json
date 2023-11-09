@@ -1852,16 +1852,7 @@
       "symbol": "TIA.n",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD56734d7f9979dD94FAE3d67C7e928234e71cD4C/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xd402298a793948698b9a63311404FBBEe944eAfD",
-      "decimals": 18,
-      "name": "SHRAPToken",
-      "symbol": "SHRAP",
-      "tags": ["GameFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd402298a793948698b9a63311404FBBEe944eAfD/logo.png"
-    } 
+    }
   ],
   "timestamp": "2021-10-30T00:00:00+00:00"
 }
