@@ -1861,6 +1861,15 @@
       "symbol": "SHRAP",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd402298a793948698b9a63311404FBBEe944eAfD/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x6D9D8b50a0cCCdF510F681A85472626C26377876",
+      "decimals": 18,
+      "name": "Quantum Chaos",
+      "symbol": "Chaos",
+      "tags": ["GameFi","DeFI"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6D9D8b50a0cCCdF510F681A85472626C26377876/logo.png"
     } 
   ],
   "timestamp": "2021-10-30T00:00:00+00:00"
