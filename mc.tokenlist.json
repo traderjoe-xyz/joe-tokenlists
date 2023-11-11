@@ -1861,6 +1861,15 @@
       "symbol": "SHRAP",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd402298a793948698b9a63311404FBBEe944eAfD/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x7f4dB37D7bEb31F445307782Bc3Da0F18dF13696",
+      "decimals": 18,
+      "name": "Yak Token",
+      "symbol": "YAK",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7f4dB37D7bEb31F445307782Bc3Da0F18dF13696/logo.png"
     } 
   ],
   "timestamp": "2021-10-30T00:00:00+00:00"
