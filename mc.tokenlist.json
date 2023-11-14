@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
     "major": 222,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tokens": [
@@ -1888,7 +1888,25 @@
       "symbol": "CNR",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+      "decimals": 6,
+      "name": "USDV",
+      "symbol": "USDV",
+      "tags": ["DeFi", "Stablecoins"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x323665443CEf804A3b5206103304BD4872EA4253/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+      "decimals": 6,
+      "name": "USDV",
+      "symbol": "USDV",
+      "tags": ["DeFi", "Stablecoins"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x323665443CEf804A3b5206103304BD4872EA4253/logo.png"
     }
   ],
-  "timestamp": "2021-10-30T00:00:00+00:00"
+  "timestamp": "2021-11-14T00:00:00+00:00"
 }
