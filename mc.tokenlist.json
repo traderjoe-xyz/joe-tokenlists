@@ -3,8 +3,8 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
-    "major": 222,
-    "minor": 3,
+    "major": 223,
+    "minor": 0,
     "patch": 0
   },
   "tokens": [
@@ -1845,5 +1845,5 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x323665443CEf804A3b5206103304BD4872EA4253/logo.png"
     }
   ],
-  "timestamp": "2021-11-14T00:00:00+00:00"
+  "timestamp": "2021-11-15T00:00:00+00:00"
 }
