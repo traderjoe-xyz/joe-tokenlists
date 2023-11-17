@@ -1906,7 +1906,16 @@
       "symbol": "USDV",
       "tags": ["DeFi", "Stablecoins"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x323665443CEf804A3b5206103304BD4872EA4253/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x4CFA50B7Ce747e2D61724fcAc57f24B748FF2b2A",
+      "decimals": 6,
+      "name": "Fluid USDC",
+      "symbol": "fUSDC",
+      "tags": ["DeFi", "Stablecoins"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4CFA50B7Ce747e2D61724fcAc57f24B748FF2b2A/logo.png"
     }
-  ],
+],
   "timestamp": "2021-11-14T00:00:00+00:00"
 }
