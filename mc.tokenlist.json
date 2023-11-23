@@ -388,6 +388,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0xe05A6b6f84e67A74C1c263d7e35D06Eab5c211b5",
+      "decimals": 18,
+      "name": "Vector QI",
+      "symbol": "xQI",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe05A6b6f84e67A74C1c263d7e35D06Eab5c211b5/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0xeb8343d5284caec921f035207ca94db6baaacbcd",
       "decimals": 18,
       "name": "Echidna",
