@@ -1861,6 +1861,33 @@
       "symbol": "WEAPON",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe3B3F75f99Da4fF26AA867ef70B48F8f6B2D4958/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1a3264F2e7b1CFC6220ec9348d33cCF02Af7aaa4",
+      "decimals": 18,
+      "name": "Dypius",
+      "symbol": "DYP",
+      "tags": ["DeFi", "GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1a3264F2e7b1CFC6220ec9348d33cCF02Af7aaa4/logo.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x1a3264F2e7b1CFC6220ec9348d33cCF02Af7aaa4",
+      "decimals": 18,
+      "name": "Dypius",
+      "symbol": "DYP",
+      "tags": ["DeFi", "GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1a3264F2e7b1CFC6220ec9348d33cCF02Af7aaa4/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x39b46b212bdf15b42b166779b9d1787a68b9d0c3",
+      "decimals": 18,
+      "name": "Dypius",
+      "symbol": "DYP",
+      "tags": ["DeFi", "GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x39b46B212bDF15b42B166779b9d1787A68b9D0c3/logo.png"
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
