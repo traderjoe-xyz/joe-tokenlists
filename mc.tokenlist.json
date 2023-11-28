@@ -1814,7 +1814,7 @@
       "decimals": 18,
       "name": "Quantum Chaos",
       "symbol": "Chaos",
-      "tags": ["GameFi","DeFI"],
+      "tags": ["GameFi", "DeFI"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6D9D8b50a0cCCdF510F681A85472626C26377876/logo.png"
     },
     {
@@ -1861,6 +1861,15 @@
       "symbol": "WEAPON",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe3B3F75f99Da4fF26AA867ef70B48F8f6B2D4958/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E",
+      "decimals": 18,
+      "name": "WINR",
+      "symbol": "WINR",
+      "tags": ["GameFi", "DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E/logo.png"
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
