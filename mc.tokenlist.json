@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
     "major": 223,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tokens": [
@@ -1861,6 +1861,24 @@
       "symbol": "WEAPON",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe3B3F75f99Da4fF26AA867ef70B48F8f6B2D4958/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x95146881b86B3ee99e63705eC87AfE29Fcc044D9",
+      "decimals": 18,
+      "name": "Vertex",
+      "symbol": "VRTX",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x95146881b86B3ee99e63705eC87AfE29Fcc044D9/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xe05A6b6f84e67A74C1c263d7e35D06Eab5c211b5",
+      "decimals": 18,
+      "name": "xQI",
+      "symbol": "xQI",
+      "tags": ["DeFI"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe05A6b6f84e67A74C1c263d7e35D06Eab5c211b5/logo.png"
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
