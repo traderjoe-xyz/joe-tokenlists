@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
     "major": 223,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "tokens": [
@@ -1889,6 +1889,26 @@
       "symbol": "WINR",
       "tags": ["GameFi", "DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E/logo.png"
+
+    },
+    {
+      "chainId": 43114,
+      "address": "0x420FcA0121DC28039145009570975747295f2329",
+      "decimals": 18,
+      "name": "COQINU",
+      "symbol": "COQ",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x420FcA0121DC28039145009570975747295f2329/logo.png"
+
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6",
+      "decimals": 18,
+      "name": "Jewels",
+      "symbol": "JEWEL",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6/logo.png"
 
     }
   ],
