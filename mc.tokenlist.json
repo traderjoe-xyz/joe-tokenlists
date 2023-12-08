@@ -1909,7 +1909,15 @@
       "symbol": "JEWEL",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x997Ddaa07d716995DE90577C123Db411584E5E46/logo.png"
-      
+
+    },
+    {
+      "address": "0x0EF27Ddc8F89D4886E89d630De089962FfC12E43",
+      "decimals": 18,
+      "name": "Pegaxy Stone",
+      "symbol": "PGX",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0EF27Ddc8F89D4886E89d630De089962FfC12E43/logo.png"
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
