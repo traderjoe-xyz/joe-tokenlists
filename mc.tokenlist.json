@@ -1903,13 +1903,13 @@
     },
     {
       "chainId": 43114,
-      "address": "0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6",
+      "address": "0x997ddaa07d716995de90577c123db411584e5e46",
       "decimals": 18,
       "name": "Jewels",
       "symbol": "JEWEL",
       "tags": ["GameFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6/logo.png"
-
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x997ddaa07d716995de90577c123db411584e5e46/logo.png"
+      
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
