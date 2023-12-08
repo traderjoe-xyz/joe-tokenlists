@@ -1890,6 +1890,15 @@
       "tags": ["GameFi", "DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E/logo.png"
 
+    },
+    {
+      "chainId": 43114,
+      "address": "0x0EF27Ddc8F89D4886E89d630De089962FfC12E43",
+      "decimals": 18,
+      "name": "Pegaxy Stone",
+      "symbol": "PGX",
+      "tags": ["GameFi", "SocialFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0EF27Ddc8F89D4886E89d630De089962FfC12E43/logo.png"
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
