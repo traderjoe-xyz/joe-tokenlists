@@ -1910,6 +1910,16 @@
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x997Ddaa07d716995DE90577C123Db411584E5E46/logo.png"
       
+    },
+     {
+      "chainId": 43114,
+      "address": "0x47c3118Ad183712Acd42648e9E522e13690f29a0",
+      "decimals": 6,
+      "name": "Meat",
+      "symbol": "MEAT",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x47c3118Ad183712Acd42648e9E522e13690f29a0/logo.png"
+
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
