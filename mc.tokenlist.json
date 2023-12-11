@@ -1937,6 +1937,15 @@
       "symbol": "PGX",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0EF27Ddc8F89D4886E89d630De089962FfC12E43/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x24FE5a546Aedc1F9504364D6CfBF450c14AA9Ec3",
+      "decimals": 18,
+      "name": "St. Bernard",
+      "symbol": "NARD",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x24FE5a546Aedc1F9504364D6CfBF450c14AA9Ec3/logo.png"
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
