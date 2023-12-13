@@ -1871,6 +1871,15 @@
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x093783055f9047c2bff99c4e414501f8a147bc69/logo.png"
     },
+        {
+      "chainId": 43114,
+      "address": "0xb36FAF341c7817D681F23BceDbd3d85467E5aD9F",
+      "decimals": 18,
+      "name": "Red Pepe",
+      "symbol": "RPEPE",
+      "tags": ["Meme"],
+      "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0xb36FAF341c7817D681F23BceDbd3d85467E5aD9F/logo.png"
+    },
     {
       "chainId": 43114,
       "address": "0x23675Ba5d0A8075DA5Ba18756554e7633cEA2C85",
