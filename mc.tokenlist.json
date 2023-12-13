@@ -1861,6 +1861,15 @@
       "symbol": "PGX",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0EF27Ddc8F89D4886E89d630De089962FfC12E43/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x23675Ba5d0A8075DA5Ba18756554e7633cEA2C85",
+      "decimals": 18,
+      "name": "Raini Studios Token",
+      "symbol": "RST",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x23675Ba5d0A8075DA5Ba18756554e7633cEA2C85/logo.png"
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
