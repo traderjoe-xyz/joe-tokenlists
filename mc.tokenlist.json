@@ -1906,6 +1906,15 @@
       "symbol": "XPOW",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x856cc60002Bac150b2738B424677879c02c516cb/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x992fc98f5761A00A4D4Ae63fCd720cdc96dC514F",
+      "decimals": 18,
+      "name": "APower",
+      "symbol": "APOW",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x992fc98f5761A00A4D4Ae63fCd720cdc96dC514F/logo.png"
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
