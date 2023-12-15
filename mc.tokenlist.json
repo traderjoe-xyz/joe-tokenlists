@@ -534,6 +534,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0x214DB107654fF987AD859F34125307783fC8e387",
+      "decimals": 18,
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "tags": ["Defi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x214DB107654fF987AD859F34125307783fC8e387/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c",
       "decimals": 18,
       "name": "HeroesChained",
