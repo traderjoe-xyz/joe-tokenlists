@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
     "major": 223,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "tokens": [
@@ -1915,6 +1915,16 @@
       "symbol": "CTX",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x84f5c2cfba754e76dd5ae4fb369cfc920425e12b/logo.png"   
+    },
+    {
+      "chainId": 43114,
+      "address": "0x813f65d0fB158EEFB43c1Cdd3ddabcF5fD177F43",
+      "decimals": 18,
+      "name": "SLFT",
+      "symbol": "SLFT",
+      "tags": ["DeFI"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x813f65d0fB158EEFB43c1Cdd3ddabcF5fD177F43/logo.png"
+
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
