@@ -1,0 +1,160 @@
+{
+  "name": "Trader Joe Limit Orders",
+  "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+  "keywords": [
+    "avalanche",
+    "arbitrum",
+    "trader joe"
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "pairs": [
+    {
+      "chainId": 43114,
+      "name": "AVAX-USDC",
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB6076C93701D6a07266c31066B298AeC6dd65c2d",
+        "decimals": 6,
+        "symbol": "USDC",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB6076C93701D6a07266c31066B298AeC6dd65c2d/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "WETH.e-AVAX",
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+        "decimals": 18,
+        "symbol": "WETH.e",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
+      },
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "BTC.b-AVAX",
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+        "decimals": 8,
+        "symbol": "BTC.b",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x152b9d0FdC40C096757F570A51E494bd4b943E50/logo.png"
+      },
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "AVAX-USDT",
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+        "decimals": 6,
+        "symbol": "USDT",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "JOE-AVAX",
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+        "decimals": 18,
+        "symbol": "JOE",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png"
+      },
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "BTC.b-USDC",
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+        "decimals": 8,
+        "symbol": "BTC.b",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x152b9d0FdC40C096757F570A51E494bd4b943E50/logo.png"
+      },
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB6076C93701D6a07266c31066B298AeC6dd65c2d",
+        "decimals": 6,
+        "symbol": "USDC",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB6076C93701D6a07266c31066B298AeC6dd65c2d/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "EURC-USDC",
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD",
+        "decimals": 6,
+        "symbol": "EURC",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD/logo.png"
+      },
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB6076C93701D6a07266c31066B298AeC6dd65c2d",
+        "decimals": 6,
+        "symbol": "USDC",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB6076C93701D6a07266c31066B298AeC6dd65c2d/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "WETH.e-USDC",
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+        "decimals": 18,
+        "symbol": "WETH.e",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
+      },
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB6076C93701D6a07266c31066B298AeC6dd65c2d",
+        "decimals": 6,
+        "symbol": "USDC",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB6076C93701D6a07266c31066B298AeC6dd65c2d/logo.png"
+      }
+    }
+  ]
+}
