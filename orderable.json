@@ -155,6 +155,114 @@
         "symbol": "USDC",
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB6076C93701D6a07266c31066B298AeC6dd65c2d/logo.png"
       }
+    },
+    {
+      "chainId": 42161,
+      "name": "ETH-USDC",
+      "tokenX": {
+        "chainId": 42161,
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18,
+        "symbol": "WETH",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png"
+      },
+      "tokenY": {
+        "chainId": 42161,
+        "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "decimals": 6,
+        "symbol": "USDC",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xaf88d065e77c8cC2239327C5EDb3A432268e5831/logo.png"
+      }
+    },
+    {
+      "chainId": 42161,
+      "name": "ARB-ETH",
+      "tokenX": {
+        "chainId": 42161,
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "decimals": 18,
+        "symbol": "ARB",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png"
+      },
+      "tokenY": {
+        "chainId": 42161,
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18,
+        "symbol": "WETH",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png"
+      }
+    },
+    {
+      "chainId": 42161,
+      "name": "ETH-USDT",
+      "tokenX": {
+        "chainId": 42161,
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18,
+        "symbol": "WETH",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png"
+      },
+      "tokenY": {
+        "chainId": 42161,
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "decimals": 6,
+        "symbol": "USDT",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9/logo.png"
+      }
+    },
+    {
+      "chainId": 42161,
+      "name": "JOE-ETH",
+      "tokenX": {
+        "chainId": 42161,
+        "address": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+        "decimals": 18,
+        "symbol": "JOE",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07/logo.png"
+      },
+      "tokenY": {
+        "chainId": 42161,
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18,
+        "symbol": "WETH",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png"
+      }
+    },
+    {
+      "chainId": 42161,
+      "name": "GMX-ETH",
+      "tokenX": {
+        "chainId": 42161,
+        "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+        "decimals": 18,
+        "symbol": "GMX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a/logo.png"
+      },
+      "tokenY": {
+        "chainId": 42161,
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18,
+        "symbol": "WETH",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png"
+      }
+    },
+    {
+      "chainId": 42161,
+      "name": "WOO-ETH",
+      "tokenX": {
+        "chainId": 42161,
+        "address": "0xcAFcD85D8ca7Ad1e1C6F82F651fA15E33AEfD07b",
+        "decimals": 18,
+        "symbol": "WOO",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xcAFcD85D8ca7Ad1e1C6F82F651fA15E33AEfD07b/logo.png"
+      },
+      "tokenY": {
+        "chainId": 42161,
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18,
+        "symbol": "WETH",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png"
+      }
     }
   ]
 }
