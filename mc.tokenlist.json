@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
     "major": 223,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "tokens": [
@@ -1880,15 +1880,7 @@
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x093783055f9047c2bff99c4e414501f8a147bc69/logo.png"
     },
-        {
-      "chainId": 43114,
-      "address": "0xb36FAF341c7817D681F23BceDbd3d85467E5aD9F",
-      "decimals": 18,
-      "name": "Red Pepe",
-      "symbol": "RPEPE",
-      "tags": ["Meme"],
-      "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0xb36FAF341c7817D681F23BceDbd3d85467E5aD9F/logo.png"
-    },
+
     {
       "chainId": 43114,
       "address": "0x23675Ba5d0A8075DA5Ba18756554e7633cEA2C85",
@@ -1924,7 +1916,15 @@
       "symbol": "SLFT",
       "tags": ["DeFI"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x813f65d0fB158EEFB43c1Cdd3ddabcF5fD177F43/logo.png"
-
+    },
+    {  
+      "chainId": 42161,
+      "address": "0xe59228600938AED4a6E667457C32a15ea90F6f4E",
+      "decimals": 18,
+      "name": "OpulousToken",
+      "symbol": "OPUL",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe59228600938AED4a6E667457C32a15ea90F6f4E/logo.png"   
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
