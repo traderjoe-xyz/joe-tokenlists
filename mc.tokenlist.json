@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
     "major": 223,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   },
   "tokens": [
@@ -1919,12 +1919,12 @@
     },
     {  
       "chainId": 42161,
-      "address": "0xe59228600938AED4a6E667457C32a15ea90F6f4E",
+      "address": "0x0c5fa0E07949F941A6c2C29a008252db1527d6EE",
       "decimals": 18,
       "name": "OpulousToken",
       "symbol": "OPUL",
       "tags": ["DeFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe59228600938AED4a6E667457C32a15ea90F6f4E/logo.png"   
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0c5fa0E07949F941A6c2C29a008252db1527d6EE/logo.png"   
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
