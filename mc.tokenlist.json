@@ -1894,6 +1894,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0xfC6D78f5D524596d2eaae0B86C5f3C2eE87F95c0",
+      "decimals": 18,
+      "name": "AVAX",
+      "symbol": "AVAX",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfC6D78f5D524596d2eaae0B86C5f3C2eE87F95c0/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x23675Ba5d0A8075DA5Ba18756554e7633cEA2C85",
       "decimals": 18,
       "name": "Raini Studios Token",
