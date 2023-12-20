@@ -3,8 +3,10 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
-    "major": 223,
+
+    "major": 224,
     "minor": 9,
+
     "patch": 0
   },
   "tokens": [
@@ -1881,6 +1883,15 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x093783055f9047c2bff99c4e414501f8a147bc69/logo.png"
     },
 
+    {
+      "chainId": 43114,
+      "address": "0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1",
+      "decimals": 18,
+      "name": "Kimbo",
+      "symbol": "KIMBO",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1/logo.png"
+    },
     {
       "chainId": 43114,
       "address": "0x23675Ba5d0A8075DA5Ba18756554e7633cEA2C85",
