@@ -1,0 +1,67 @@
+{
+  "name": "Liquidity Book Pro",
+  "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+  "keywords": [],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 43113,
+      "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+      "decimals": 18,
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "tags": ["Top"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+    },
+    {
+        "chainId": 424242,
+        "address": "0xA771A8C08F56C351C7dcF5f4e4Fb9f1d702D27C8",
+        "decimals": 18,
+        "name": "Wrapped USDCf",
+        "symbol": "WUSDCf",
+        "tags": ["Top"],
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA771A8C08F56C351C7dcF5f4e4Fb9f1d702D27C8/logo.png"
+      },
+      {
+        "chainId": 424242,
+        "address": "0xd0B048cA472739ab5203671f66Bb8A061E8ae8C1",
+        "decimals": 6,
+        "name": "test USDC",
+        "symbol": "testUSDC",
+        "tags": ["Top"],
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd0B048cA472739ab5203671f66Bb8A061E8ae8C1/logo.png"
+      },
+      {
+        "chainId": 424242,
+        "address": "0x4A0b3e58D56aeBFB4988efd28D2D28253526C512",
+        "decimals": 18,
+        "name": "GOLD Commodity",
+        "symbol": "GOLD",
+        "tags": ["Top, Commodity"],
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4A0b3e58D56aeBFB4988efd28D2D28253526C512/logo.png"
+      },
+      {
+        "chainId": 424242,
+        "address": "0x4380DEeD4f4ba889D777F89AC0D0EcC7D351d36F",
+        "decimals": 18,
+        "name": "USD FX",
+        "symbol": "USD",
+        "tags": ["Top, FX"],
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4380DEeD4f4ba889D777F89AC0D0EcC7D351d36F/logo.png"
+      },
+      {
+        "chainId": 424242,
+        "address": "0x202a515f5B8FC21633Dd562cE7D8dCe8945393C6",
+        "decimals": 18,
+        "name": "EUR FX",
+        "symbol": "EUR",
+        "tags": ["Top, FX"],
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x202a515f5B8FC21633Dd562cE7D8dCe8945393C6/logo.png"
+      }
+  ],
+  "timestamp": "2021-07-04T00:00:00+00:00"
+}

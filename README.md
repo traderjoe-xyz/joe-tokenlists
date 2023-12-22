@@ -1,26 +1,36 @@
-# Avalanche Tokenlists
-Tokenlists for the Trader Joe, the top 1 DEX on Avalanche. 
+# Trader Joe Token list
+ Token list for Trader Joe, everyone's favorite DEX.
 
-## HOW TO ADD YOUR LOGO
+ ## HOW TO ADD YOUR LOGO
 
-#### Fast Application
-Submit pull request by adding your token logo 200X200 PNG. 
-- If logo is not png or exceeds 200X200 it will be rejected. 
-- PRs including tokenlist will be rejected. Logos only. 
-- PRs will be processed every 2-4 days. 
+ #### Application
+ Submit pull request by adding your token logo 120X120 PNG. 
+ - Folder name need to be named with the token address 
+ - If logo is not png or exceeds 120X120 it will be rejected. 
+ - PRs including tokenlist will be rejected. Logos only. 
+ - submissions with invalid chain address will be rejected. 
+ - PRs will be processed every 3-5 days. 
 
-#### Normal Application
-Create an issue with the following info:
-- c-chain checksummed address
-- token logo 200X200 PNG
-- submissions with links intead of attached images will be rejected. 
-- submissions with invalid c-chain address will be rejected. 
-- processed every 5-10 days.
 
-## HOW TO WHITELIST YOUR TOKEN
-- Tokens are added to tokenlists by JOE team based on market demand and other metrics. 
-- Tokenlist is rebalanced every 2 weeks, roughly speaking we add tokens that are top 30 in daily volume, and remove tokens that are below top 40. 
+ ## HOW TO ADD YOUR TOKEN TO TOKENLIST
+ Please read guidelines for submitting community PR for adding tokens to tokenlist. 
 
-## Have more questions?
-Come visit us on discord at our `dev-talk` channel. 
-Link: https://discord.com/invite/GHZceZhbZU
+
+ #### Criteria
+ The JOE team will continue to maintain the list for quality control. Some rough guidelines:
+ - Contract should be verified on block explorers e.g. `snowtrace.io`, `arbiscan.io`
+ - New tokens will be accepted on case by case basis. Pls contact `BD` team via discord. 
+ - Token should have established liquidity, a good number of liquidity providers, and 15 day volume. 
+
+ #### Submission process (For shortlisted project)
+ Please refer to `mc.tokenlist.json` for format, and tag your token appropriately. 
+ - Submit tokenlist PR separately from logo PR.
+ - Tag your token with `DeFi`, `GameFi`, `Meme` or `Stablecoins` . - (case sensitive). 
+ - Tags for `Top Tokens` and `Large Cap` are maintained by JOE team only. 
+
+
+
+
+ ## Have more questions?
+ Come visit us on discord at our `sdk-dev` channel. 
+ Link: https://discord.gg/traderjoe
