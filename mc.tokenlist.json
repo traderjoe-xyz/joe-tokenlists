@@ -1936,6 +1936,15 @@
       "symbol": "OPUL",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0c5fa0E07949F941A6c2C29a008252db1527d6EE/logo.png"   
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6f97D3F120fBbDaacF1c9da61a8aD126b7426861",
+      "decimals": 18,
+      "name": "UniX Gaming",
+      "symbol": "UNIX",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6f97D3F120fBbDaacF1c9da61a8aD126b7426861/logo.png"
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
