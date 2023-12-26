@@ -1937,6 +1937,16 @@
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0c5fa0E07949F941A6c2C29a008252db1527d6EE/logo.png"   
     }
+	,
+    {  
+      "chainId": 43114,
+      "address": "0xf1d76e562C726ed6EE269BeedCA5E67d45e05A37",
+      "decimals": 18,
+      "name": "RizzCoin",
+      "symbol": "RIZZ",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf1d76e562C726ed6EE269BeedCA5E67d45e05A37/logo.png"   
+    }
   ],
-  "timestamp": "2021-11-20T00:00:00+00:00"
+  "timestamp": "2021-12-26T00:00:00+00:00"
 }
