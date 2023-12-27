@@ -1945,6 +1945,15 @@
       "symbol": "UNIX",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6f97D3F120fBbDaacF1c9da61a8aD126b7426861/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f",
+      "decimals": 18,
+      "name": "Open Exchange Token",
+      "symbol": "OX",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f/logo.png"
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
