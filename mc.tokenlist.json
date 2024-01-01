@@ -1956,6 +1956,42 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f/logo.png"
     },
     {
+      "chainId": 1,
+      "address": "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4",
+      "decimals": 18,
+      "name": "Neptune Mutual",
+      "symbol": "NPM",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4/logo.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4",
+      "decimals": 18,
+      "name": "Neptune Mutual",
+      "symbol": "NPM",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4/logo.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4",
+      "decimals": 18,
+      "name": "Neptune Mutual",
+      "symbol": "NPM",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4",
+      "decimals": 18,
+      "name": "Neptune Mutual",
+      "symbol": "NPM",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4/logo.png"
+    },
+    {
       "address": "0xc3fb03E75cf916973D430D63635f3f6154d01dc9",
       "decimals": 6,
       "name": "Governance xAlgo",
