@@ -1962,6 +1962,15 @@
       "symbol": "xALGO",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc3fb03E75cf916973D430D63635f3f6154d01dc9/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xE8385CECb013561b69bEb63FF59f4d10734881f3",
+      "decimals": 18,
+      "name": "Gecko Inu",
+      "symbol": "GEC",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xE8385CECb013561b69bEb63FF59f4d10734881f3/logo.png"
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
