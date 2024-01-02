@@ -1980,7 +1980,15 @@
       "symbol": "BINGO",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb262a485d98D8e19175818D47453e7812cA255A8/logo.png"
-    }
+    },
+    {
+         "chainId": 43114,
+      "address": "0x4F94b8AEF08c92fEfe416af073F1Df1E284438EC",
+      "decimals": 18,
+      "name": "Landwolf",
+      "symbol": "Wolf",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4F94b8AEF08c92fEfe416af073F1Df1E284438EC/logo.png"
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
 }
