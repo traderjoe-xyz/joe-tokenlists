@@ -1980,6 +1980,15 @@
       "symbol": "BINGO",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb262a485d98D8e19175818D47453e7812cA255A8/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x45506b5fbf81aa128bc5029fac6e30574656214a",
+      "decimals": 9,
+      "name": "Dancing Toothless",
+      "symbol": "TOOTHLESS",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x45506b5fbf81aa128bc5029fac6e30574656214a/logo.png"
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
