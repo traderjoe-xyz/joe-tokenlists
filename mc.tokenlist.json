@@ -1939,13 +1939,57 @@
     },
     {
       "chainId": 43114,
+      "address": "0x6f97D3F120fBbDaacF1c9da61a8aD126b7426861",
+      "decimals": 18,
+      "name": "UniX Gaming",
+      "symbol": "UNIX",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6f97D3F120fBbDaacF1c9da61a8aD126b7426861/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f",
+      "decimals": 18,
+      "name": "Open Exchange Token",
+      "symbol": "OX",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f/logo.png"
+    },
+    {
+      "address": "0xc3fb03E75cf916973D430D63635f3f6154d01dc9",
+      "decimals": 6,
+      "name": "Governance xAlgo",
+      "symbol": "xALGO",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc3fb03E75cf916973D430D63635f3f6154d01dc9/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xE8385CECb013561b69bEb63FF59f4d10734881f3",
+      "decimals": 18,
+      "name": "Gecko Inu",
+      "symbol": "GEC",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xE8385CECb013561b69bEb63FF59f4d10734881f3/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb262a485d98D8e19175818D47453e7812cA255A8",
+      "decimals": 18,
+      "name": "Bingo",
+      "symbol": "BINGO",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb262a485d98D8e19175818D47453e7812cA255A8/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0xf5f3216E9fed36F8cCf08D310FEc6FBf7f06200f",
       "decimals": 18,
       "name": "BOBS",
       "symbol": "BOBS",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf5f3216E9fed36F8cCf08D310FEc6FBf7f06200f/logo.png"
-    }
+    },
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
 }
