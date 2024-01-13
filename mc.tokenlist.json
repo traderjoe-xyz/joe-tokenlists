@@ -1236,7 +1236,6 @@
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7B5EB3940021Ec0e8e463D5dBB4B7B09a89DDF96/logo.png"
     },
-
     {
       "chainId": 42161,
       "address": "0x188fb5f5Ae5BBE4154d5778F2bbb2Fb985c94d25",
@@ -1372,7 +1371,6 @@
       "tags": ["Stablecoins"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD/logo.png"
     },
- 
     {
       "chainId": 56,
       "address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
@@ -1752,7 +1750,6 @@
       "symbol": "WINR",
       "tags": ["GameFi", "DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E/logo.png"
-
     },
     {
       "chainId": 43114,
@@ -1762,7 +1759,6 @@
       "symbol": "COQ",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x420FcA0121DC28039145009570975747295f2329/logo.png"
-
     },
     {
       "chainId": 43114,
@@ -1790,7 +1786,6 @@
       "symbol": "MEAT",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x47c3118Ad183712Acd42648e9E522e13690f29a0/logo.png"
-
     },
     {
       "chainId": 43114,
@@ -1810,7 +1805,6 @@
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x093783055f9047c2bff99c4e414501f8a147bc69/logo.png"
     },
-
     {
       "chainId": 43114,
       "address": "0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1",
@@ -1928,9 +1922,6 @@
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x236626887687bf6a102269207f8f0A08549Ae4f4/logo.png"
     }
-
-
-
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
 }
