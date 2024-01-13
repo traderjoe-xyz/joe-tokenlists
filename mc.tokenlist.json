@@ -4,8 +4,8 @@
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
 
-    "major": 224,
-    "minor": 9,
+    "major": 225,
+    "minor": 0,
 
     "patch": 0
   },
@@ -155,7 +155,6 @@
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1f1E7c893855525b303f99bDF5c3c05Be09ca251/logo.png"
     },
-   
     {
       "chainId": 43114,
       "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
@@ -311,15 +310,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0xd9D90f882CDdD6063959A9d837B05Cb748718A05",
-      "decimals": 18,
-      "name": "More Token",
-      "symbol": "MORE",
-      "tags": ["DeFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd9D90f882CDdD6063959A9d837B05Cb748718A05/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0xed2b42d3c9c6e97e11755bb37df29b6375ede3eb",
       "decimals": 18,
       "name": "Hon Token",
@@ -428,24 +418,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x111111111111ed1D73f860F57b2798b683f2d325",
-      "decimals": 18,
-      "name": "YUSD Stablecoin",
-      "symbol": "YUSD",
-      "tags": ["Stablecoins"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x111111111111ed1D73f860F57b2798b683f2d325/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x77777777777d4554c39223C354A05825b2E8Faa3",
-      "decimals": 18,
-      "name": "Yeti Finance",
-      "symbol": "YETI",
-      "tags": ["DeFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x77777777777d4554c39223C354A05825b2E8Faa3/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0x5085434227aB73151fAd2DE546210Cbc8663dF96",
       "decimals": 18,
       "name": "Metaderby token",
@@ -515,15 +487,6 @@
       "symbol": "RUX",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA1AfCC973d44cE1C65a21D9e644CB82489d26503/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xe7250b05bd8DEE615ecC681eda1196aDD5156F2B",
-      "decimals": 18,
-      "name": "hJoe v2",
-      "symbol": "hJoe",
-      "tags": ["DeFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe7250b05bd8DEE615ecC681eda1196aDD5156F2B/logo.png"
     },
     {
       "chainId": 43114,
@@ -641,8 +604,7 @@
       "symbol": "yyAVAX",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xF7D9281e8e363584973F946201b82ba72C965D27/logo.png"
-    },
-  
+    }, 
     {
       "chainId": 43114,
       "address": "0x42006Ab57701251B580bDFc24778C43c9ff589A1",
@@ -679,7 +641,6 @@
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9A8E0217cD870783c3f2317985C57Bf570969153/logo.png"
     },
-
     {
       "chainId": 43114,
       "address": "0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE",
@@ -688,24 +649,6 @@
       "symbol": "ROY",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x13E7bceFddE72492E656f3fa58baE6029708e673",
-      "decimals": 18,
-      "name": "AGX Coin",
-      "symbol": "AGX",
-      "tags": ["DeFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x13E7bceFddE72492E656f3fa58baE6029708e673/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x68327a91E79f87F501bC8522fc333FB7A72393cb",
-      "decimals": 18,
-      "name": "AUX Coin",
-      "symbol": "AUX",
-      "tags": ["DeFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x68327a91E79f87F501bC8522fc333FB7A72393cb/logo.png"
     },
     {
       "chainId": 43114,
@@ -1122,15 +1065,6 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8/logo.png"
     },
     {
-      "chainId": 43114,
-      "address": "0x1FE70939c2cEc8F31E8F7729442658586B469972",
-      "decimals": 18,
-      "name": "GMD",
-      "symbol": "GMD",
-      "tags": ["DeFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1FE70939c2cEc8F31E8F7729442658586B469972/logo.png"
-    },
-    {
       "chainId": 42161,
       "address": "0x6dD963C510c2D2f09d5eDdB48Ede45FeD063Eb36",
       "decimals": 18,
@@ -1293,15 +1227,6 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7B5EB3940021Ec0e8e463D5dBB4B7B09a89DDF96/logo.png"
     },
     {
-      "chainId": 43114,
-      "address": "0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948",
-      "decimals": 18,
-      "name": "Moremoney USD",
-      "symbol": "MONEY",
-      "tags": ["Stablecoins"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo.png"
-    },
-    {
       "chainId": 42161,
       "address": "0x188fb5f5Ae5BBE4154d5778F2bbb2Fb985c94d25",
       "decimals": 18,
@@ -1436,7 +1361,6 @@
       "tags": ["Stablecoins"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD/logo.png"
     },
- 
     {
       "chainId": 56,
       "address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
@@ -1754,15 +1678,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf",
-      "decimals": 18,
-      "name": "Canary Token",
-      "symbol": "CNR",
-      "tags": ["DeFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
       "decimals": 6,
       "name": "USDV",
@@ -1824,7 +1739,6 @@
       "symbol": "WINR",
       "tags": ["GameFi", "DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E/logo.png"
-
     },
     {
       "chainId": 43114,
@@ -1834,7 +1748,6 @@
       "symbol": "COQ",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x420FcA0121DC28039145009570975747295f2329/logo.png"
-
     },
     {
       "chainId": 43114,
@@ -1862,7 +1775,6 @@
       "symbol": "MEAT",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x47c3118Ad183712Acd42648e9E522e13690f29a0/logo.png"
-
     },
     {
       "chainId": 43114,
@@ -1882,7 +1794,6 @@
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x093783055f9047c2bff99c4e414501f8a147bc69/logo.png"
     },
-
     {
       "chainId": 43114,
       "address": "0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1",
@@ -1956,6 +1867,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f/logo.png"
     },
     {
+      "chainId": 43114,
       "address": "0xc3fb03E75cf916973D430D63635f3f6154d01dc9",
       "decimals": 6,
       "name": "Governance xAlgo",
@@ -1989,6 +1901,15 @@
       "symbol": "BOBS",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf5f3216E9fed36F8cCf08D310FEc6FBf7f06200f/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x236626887687bf6a102269207f8f0A08549Ae4f4",
+      "decimals": 18,
+      "name": "GMBL COMPUTER CHIP",
+      "symbol": "GMBL",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x236626887687bf6a102269207f8f0A08549Ae4f4/logo.png"
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
