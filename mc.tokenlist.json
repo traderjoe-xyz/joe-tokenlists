@@ -1908,7 +1908,7 @@
       "decimals": 18,
       "name": "GMBL COMPUTER CHIP",
       "symbol": "GMBL",
-      "tags": ["Meme"],
+      "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x236626887687bf6a102269207f8f0A08549Ae4f4/logo.png"
     },
     {
@@ -1928,6 +1928,15 @@
       "symbol": "YOU",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xF93fc7d6508ae2faF8Fc5675e896Bc38d6e7212C/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x96E1056a8814De39c8c3Cd0176042d6ceCD807d7",
+      "decimals": 18,
+      "name": "Osaka Protocol",
+      "symbol": "OSAK",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x96E1056a8814De39c8c3Cd0176042d6ceCD807d7/logo.png"
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
