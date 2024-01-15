@@ -1912,6 +1912,24 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x236626887687bf6a102269207f8f0A08549Ae4f4/logo.png"
     },
     {
+      "chainId": 42161,
+      "address": "0xD873627e9F2C4ED425d833152327e6a8f3a49b95",
+      "decimals": 8,
+      "name": "U Protocol BTC",
+      "symbol": "uBTC",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD873627e9F2C4ED425d833152327e6a8f3a49b95/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xF93fc7d6508ae2faF8Fc5675e896Bc38d6e7212C",
+      "decimals": 18,
+      "name": "Your Omnichain U Protocol Governance Token",
+      "symbol": "YOU",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xF93fc7d6508ae2faF8Fc5675e896Bc38d6e7212C/logo.png"
+    },
+    {
       "chainId": 43114,
       "address": "0x96E1056a8814De39c8c3Cd0176042d6ceCD807d7",
       "decimals": 18,
