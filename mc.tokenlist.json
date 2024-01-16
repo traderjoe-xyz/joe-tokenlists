@@ -1895,6 +1895,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0x4F94b8AEF08c92fEfe416af073F1Df1E284438EC",
+      "decimals": 18,
+      "name": "Landwolf",
+      "symbol": "WOLF",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4F94b8AEF08c92fEfe416af073F1Df1E284438EC/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0xf5f3216E9fed36F8cCf08D310FEc6FBf7f06200f",
       "decimals": 18,
       "name": "BOBS",
@@ -1937,6 +1946,15 @@
       "symbol": "OSAK",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x96E1056a8814De39c8c3Cd0176042d6ceCD807d7/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x081DD0195830eD24be1d16f76561985f4cb24Fb6",
+      "decimals": 18,
+      "name": "OnlyCocksCrypto",
+      "symbol": "COX",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x081DD0195830eD24be1d16f76561985f4cb24Fb6/logo.png"
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
