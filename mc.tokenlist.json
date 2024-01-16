@@ -1895,6 +1895,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0x4F94b8AEF08c92fEfe416af073F1Df1E284438EC",
+      "decimals": 18,
+      "name": "Landwolf",
+      "symbol": "WOLF",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4F94b8AEF08c92fEfe416af073F1Df1E284438EC/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0xf5f3216E9fed36F8cCf08D310FEc6FBf7f06200f",
       "decimals": 18,
       "name": "BOBS",
