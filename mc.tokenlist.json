@@ -1937,6 +1937,15 @@
       "symbol": "OSAK",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x96E1056a8814De39c8c3Cd0176042d6ceCD807d7/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x081DD0195830eD24be1d16f76561985f4cb24Fb6",
+      "decimals": 18,
+      "name": "OnlyCocksCrypto",
+      "symbol": "COX",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x081DD0195830eD24be1d16f76561985f4cb24Fb6/logo.png"
     }
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
