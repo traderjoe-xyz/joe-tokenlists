@@ -1964,8 +1964,16 @@
       "symbol": "XAI",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4Cb9a7AE498CEDcBb5EAe9f25736aE7d428C9D66/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1A971885e495B245F3cC068462453fC881fa88E0",
+      "decimals": 18,
+      "name": "Kai Blue",
+      "symbol": "KAI",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1A971885e495B245F3cC068462453fC881fa88E0/logo.png"
     }
-
     
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
