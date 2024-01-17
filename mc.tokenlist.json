@@ -1964,6 +1964,15 @@
       "symbol": "XAI",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4Cb9a7AE498CEDcBb5EAe9f25736aE7d428C9D66/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8f939D5052AfD7515F92a8C93EC4c09fBfeEBb91",
+      "decimals": 2,
+      "name": "Gas Is Cheap",
+      "symbol": "GAS",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8f939D5052AfD7515F92a8C93EC4c09fBfeEBb91/logo.png"
     }
 
     
