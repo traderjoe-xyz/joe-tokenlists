@@ -1964,8 +1964,16 @@
       "symbol": "XAI",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4Cb9a7AE498CEDcBb5EAe9f25736aE7d428C9D66/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xeD0d09ee0F32f7b5AFaE6f2d728189C5E355b52a",
+      "decimals": 18,
+      "name": "Lizard",
+      "symbol": "LIZARD",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xeD0d09ee0F32f7b5AFaE6f2d728189C5E355b52a/logo.png"
     }
-
     
   ],
   "timestamp": "2021-11-20T00:00:00+00:00"
