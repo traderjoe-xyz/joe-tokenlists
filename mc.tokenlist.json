@@ -175,6 +175,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0xAAdbA29443178A5bA5c79492f6E0e13901fdB2A0",
+      "decimals": 18,
+      "name": "MAD Token",
+      "symbol": "MAD",
+      "tags": ["Meme", "GameFi", "Top"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xAAdbA29443178A5bA5c79492f6E0e13901fdB2A0/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed",
       "decimals": 18,
       "name": "Crabada Token",
