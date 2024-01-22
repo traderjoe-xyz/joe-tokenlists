@@ -3,10 +3,8 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
-
-    "major": 225,
-    "minor": 1,
-
+    "major": 226,
+    "minor": 0,
     "patch": 0
   },
   "tokens": [
@@ -1973,7 +1971,16 @@
       "symbol": "OSAK",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xeD0d09ee0F32f7b5AFaE6f2d728189C5E355b52a",
+      "decimals": 18,
+      "name": "Lizard",
+      "symbol": "LIZARD",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xeD0d09ee0F32f7b5AFaE6f2d728189C5E355b52a/logo.png"
     }
   ],
-  "timestamp": "2021-11-20T00:00:00+00:00"
+  "timestamp": "2024-01-22T00:00:00+00:00"
 }
