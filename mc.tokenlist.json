@@ -604,7 +604,7 @@
       "symbol": "yyAVAX",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xF7D9281e8e363584973F946201b82ba72C965D27/logo.png"
-    }, 
+    },
     {
       "chainId": 43114,
       "address": "0x42006Ab57701251B580bDFc24778C43c9ff589A1",
@@ -1812,23 +1812,23 @@
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x23675Ba5d0A8075DA5Ba18756554e7633cEA2C85/logo.png"
     },
-    {  
+    {
       "chainId": 43114,
       "address": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
       "decimals": 18,
       "name": "Beam",
       "symbol": "BEAM",
       "tags": ["GameFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE/logo.png"   
-    },  
-    {  
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE/logo.png"
+    },
+    {
       "chainId": 42161,
       "address": "0x84f5c2cfba754e76dd5ae4fb369cfc920425e12b",
       "decimals": 18,
       "name": "Cryptex",
       "symbol": "CTX",
       "tags": ["DeFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x84f5c2cfba754e76dd5ae4fb369cfc920425e12b/logo.png"   
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x84f5c2cfba754e76dd5ae4fb369cfc920425e12b/logo.png"
     },
     {
       "chainId": 43114,
@@ -1839,14 +1839,14 @@
       "tags": ["DeFI"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x813f65d0fB158EEFB43c1Cdd3ddabcF5fD177F43/logo.png"
     },
-    {  
+    {
       "chainId": 42161,
       "address": "0x0c5fa0E07949F941A6c2C29a008252db1527d6EE",
       "decimals": 18,
       "name": "OpulousToken",
       "symbol": "OPUL",
       "tags": ["DeFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0c5fa0E07949F941A6c2C29a008252db1527d6EE/logo.png"   
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0c5fa0E07949F941A6c2C29a008252db1527d6EE/logo.png"
     },
     {
       "chainId": 43114,
