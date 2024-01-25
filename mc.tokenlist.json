@@ -501,7 +501,7 @@
       "decimals": 18,
       "name": "Frax Share",
       "symbol": "FXS",
-      "tags": ["Defi"],
+      "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x214DB107654fF987AD859F34125307783fC8e387/logo.png"
     },
     {
@@ -1671,7 +1671,7 @@
       "decimals": 18,
       "name": "Quantum Chaos",
       "symbol": "Chaos",
-      "tags": ["GameFi", "DeFI"],
+      "tags": ["GameFi", "DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6D9D8b50a0cCCdF510F681A85472626C26377876/logo.png"
     },
     {
@@ -1725,7 +1725,7 @@
       "decimals": 18,
       "name": "xQI",
       "symbol": "xQI",
-      "tags": ["DeFI"],
+      "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe05A6b6f84e67A74C1c263d7e35D06Eab5c211b5/logo.png"
 
     },
@@ -1834,7 +1834,7 @@
       "decimals": 18,
       "name": "SLFT",
       "symbol": "SLFT",
-      "tags": ["DeFI"],
+      "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x813f65d0fB158EEFB43c1Cdd3ddabcF5fD177F43/logo.png"
     },
     {  
