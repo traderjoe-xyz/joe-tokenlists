@@ -1989,6 +1989,15 @@
       "symbol": "WBNB",
       "tags": ["DeFi", "Top"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xa9004A5421372E1D83fB1f85b0fc986c912f91f3/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xCa8EBfB8e1460Aaac7c272CB9053B3D42412AAc2",
+      "decimals": 18,
+      "name": "Gamer Arena",
+      "symbol": "GAU",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xCa8EBfB8e1460Aaac7c272CB9053B3D42412AAc2/logo.png"
     }
   ],
   "timestamp": "2024-01-22T00:00:00+00:00"
