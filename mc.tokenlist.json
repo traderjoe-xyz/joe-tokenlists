@@ -1639,6 +1639,15 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc16cE97d04DE6C5E0391E308Dbc17A397183067b/logo.png"
     },
     {
+      "chainId": 43114,
+      "address": "0x3E44F363A1A91F91A0Cbb712893F123D0E852D38",
+      "decimals": 18,
+      "name": "GMLP",
+      "symbol": "GMLP",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc16cE97d04DE6C5E0391E308Dbc17A397183067b/logo.png"
+    }, 
+    {
       "chainId": 42161,
       "address": "0xD56734d7f9979dD94FAE3d67C7e928234e71cD4C",
       "decimals": 6,
