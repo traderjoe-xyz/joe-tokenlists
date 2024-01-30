@@ -1989,6 +1989,15 @@
       "symbol": "WBNB",
       "tags": ["DeFi", "Top"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xa9004A5421372E1D83fB1f85b0fc986c912f91f3/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xc0Fbc4967259786C743361a5885ef49380473dCF",
+      "decimals": 18,
+      "name": "Aleph.im v2 SuperToken",
+      "symbol": "ALEPH",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc0Fbc4967259786C743361a5885ef49380473dCF/logo.png"
     }
   ],
   "timestamp": "2024-01-22T00:00:00+00:00"
