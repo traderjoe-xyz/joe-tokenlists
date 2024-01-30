@@ -3,10 +3,8 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
-
-    "major": 225,
-    "minor": 1,
-
+    "major": 226,
+    "minor": 0,
     "patch": 0
   },
   "tokens": [
@@ -503,7 +501,7 @@
       "decimals": 18,
       "name": "Frax Share",
       "symbol": "FXS",
-      "tags": ["Defi"],
+      "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x214DB107654fF987AD859F34125307783fC8e387/logo.png"
     },
     {
@@ -1673,7 +1671,7 @@
       "decimals": 18,
       "name": "Quantum Chaos",
       "symbol": "Chaos",
-      "tags": ["GameFi", "DeFI"],
+      "tags": ["GameFi", "DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6D9D8b50a0cCCdF510F681A85472626C26377876/logo.png"
     },
     {
@@ -1727,7 +1725,7 @@
       "decimals": 18,
       "name": "xQI",
       "symbol": "xQI",
-      "tags": ["DeFI"],
+      "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe05A6b6f84e67A74C1c263d7e35D06Eab5c211b5/logo.png"
 
     },
@@ -1836,7 +1834,7 @@
       "decimals": 18,
       "name": "SLFT",
       "symbol": "SLFT",
-      "tags": ["DeFI"],
+      "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x813f65d0fB158EEFB43c1Cdd3ddabcF5fD177F43/logo.png"
     },
     {  
@@ -1965,6 +1963,7 @@
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4Cb9a7AE498CEDcBb5EAe9f25736aE7d428C9D66/logo.png"
     },
+
     {  
       "chainId": 43114,
       "address": "0xf1d76e562C726ed6EE269BeedCA5E67d45e05A37",
@@ -1973,9 +1972,34 @@
       "symbol": "RIZZ",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf1d76e562C726ed6EE269BeedCA5E67d45e05A37/logo.png"   
+    },
+    {
+      "chainId": 42161,
+      "address": "0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e",
+      "decimals": 18,
+      "name": "Osaka Protocol",
+      "symbol": "OSAK",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xeD0d09ee0F32f7b5AFaE6f2d728189C5E355b52a",
+      "decimals": 18,
+      "name": "Lizard",
+      "symbol": "LIZARD",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xeD0d09ee0F32f7b5AFaE6f2d728189C5E355b52a/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xa9004A5421372E1D83fB1f85b0fc986c912f91f3",
+      "decimals": 18,
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "tags": ["DeFi", "Top"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xa9004A5421372E1D83fB1f85b0fc986c912f91f3/logo.png"
     }
-  
-    
   ],
-  "timestamp": "2021-12-26T00:00:00+00:00"
+  "timestamp": "2024-01-22T00:00:00+00:00"
 }
