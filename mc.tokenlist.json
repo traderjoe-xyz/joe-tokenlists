@@ -1998,6 +1998,15 @@
       "symbol": "ALEPH",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc0Fbc4967259786C743361a5885ef49380473dCF/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb5Cc2CE99B3f98a969DBe458b96a117680AE0fA1",
+      "decimals": 18,
+      "name": "Lucky Coin",
+      "symbol": "LUCKY",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb5Cc2CE99B3f98a969DBe458b96a117680AE0fA1/logo.png"
     }
   ],
   "timestamp": "2024-01-22T00:00:00+00:00"
