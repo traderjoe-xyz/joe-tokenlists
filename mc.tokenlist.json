@@ -1727,7 +1727,6 @@
       "symbol": "xQI",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe05A6b6f84e67A74C1c263d7e35D06Eab5c211b5/logo.png"
-
     },
     {
       "chainId": 42161,
@@ -2016,6 +2015,15 @@
       "symbol": "APOW",
       "tags": ["DeFi", "Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7F9C841FEAdDdB4bdBB2A161cA40bEbc4F215a9A/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x97C3780bdDe6916f601a4562c5f24A8b68D4A7aE",
+      "decimals": 18,
+      "name": "avav",
+      "symbol": "avav",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x97C3780bdDe6916f601a4562c5f24A8b68D4A7aE/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
