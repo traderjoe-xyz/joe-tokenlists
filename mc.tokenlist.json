@@ -632,15 +632,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x9A8E0217cD870783c3f2317985C57Bf570969153",
-      "decimals": 18,
-      "name": "Magic",
-      "symbol": "MAGIC",
-      "tags": ["GameFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9A8E0217cD870783c3f2317985C57Bf570969153/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE",
       "decimals": 18,
       "name": "Royale",
@@ -2017,6 +2008,15 @@
       "tags": ["DeFi", "Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7F9C841FEAdDdB4bdBB2A161cA40bEbc4F215a9A/logo.png"
     }
+    {
+      "chainId": 43114,
+      "address": "0x9A8E0217cD870783c3f2317985C57Bf570969153",
+      "decimals": 18,
+      "name": "Magick",
+      "symbol": "MAGICK",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9A8E0217cD870783c3f2317985C57Bf570969153/logo.png"
+    },
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
 }
