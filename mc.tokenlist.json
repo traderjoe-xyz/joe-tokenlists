@@ -1718,7 +1718,6 @@
       "symbol": "xQI",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe05A6b6f84e67A74C1c263d7e35D06Eab5c211b5/logo.png"
-
     },
     {
       "chainId": 42161,
@@ -1992,6 +1991,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0xb5Cc2CE99B3f98a969DBe458b96a117680AE0fA1",
+      "decimals": 18,
+      "name": "Lucky Coin",
+      "symbol": "LUCKY",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb5Cc2CE99B3f98a969DBe458b96a117680AE0fA1/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x735D8f3B6A5d2c96D0405230c50Eaf96794FbB88",
       "decimals": 18,
       "name": "XPower",
@@ -2017,6 +2025,14 @@
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9A8E0217cD870783c3f2317985C57Bf570969153/logo.png"
     },
+    }
+      "address": "0x97C3780bdDe6916f601a4562c5f24A8b68D4A7aE",
+      "decimals": 18,
+      "name": "avav",
+      "symbol": "avav",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x97C3780bdDe6916f601a4562c5f24A8b68D4A7aE/logo.png"
+    }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
 }
