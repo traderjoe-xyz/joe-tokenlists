@@ -2033,6 +2033,15 @@
       "symbol": "avav",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x97C3780bdDe6916f601a4562c5f24A8b68D4A7aE/logo.png"
+    },    
+    {
+      "chainId": 43114,
+      "address": "0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F",
+      "decimals": 18,
+      "name": "Fold",
+      "symbol": "FLD",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
