@@ -2037,7 +2037,7 @@
     {
       "chainId": 43114,
       "address": "0xebe2eae72D6eAA44A3bCA32cFDF81D3A687917c2",
-      "decimals": 18,
+      "decimals": 6,
       "name": "Everburn",
       "symbol": "EVB",
       "tags": ["DeFi"],
