@@ -2033,6 +2033,15 @@
       "symbol": "avav",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x97C3780bdDe6916f601a4562c5f24A8b68D4A7aE/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x7c0ab71Ef0bEC595dB0e3E3cc046Ac06ce1E121b",
+      "decimals": 18,
+      "name": "XiaoLongWei",
+      "symbol": "XLW",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7c0ab71Ef0bEC595dB0e3E3cc046Ac06ce1E121b/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
