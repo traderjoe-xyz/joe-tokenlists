@@ -2042,6 +2042,15 @@
       "symbol": "GAU",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xCa8EBfB8e1460Aaac7c272CB9053B3D42412AAc2/logo.png"
+    },    
+    {
+      "chainId": 43114,
+      "address": "0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F",
+      "decimals": 18,
+      "name": "Fold",
+      "symbol": "FLD",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
