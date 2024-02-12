@@ -2042,6 +2042,15 @@
       "symbol": "FLD",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xBEb62E24dEA27505872c95DE900B11A5bBb0c023",
+      "decimals": 18,
+      "name": "Sugondese",
+      "symbol": "Nuts",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xBEb62E24dEA27505872c95DE900B11A5bBb0c023/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
