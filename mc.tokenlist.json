@@ -2051,6 +2051,15 @@
       "symbol": "FLD",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x223a368Ad0E7396165FC629976d77596a51F155C",
+      "decimals": 18,
+      "name": "GURS",
+      "symbol": "GURS",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x223a368Ad0E7396165FC629976d77596a51F155C/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
