@@ -2042,7 +2042,7 @@
       "symbol": "GAU",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xCa8EBfB8e1460Aaac7c272CB9053B3D42412AAc2/logo.png"
-    },    
+    },
     {
       "chainId": 43114,
       "address": "0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F",
@@ -2051,6 +2051,24 @@
       "symbol": "FLD",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96",
+      "decimals": 18,
+      "name": "Wombat Token",
+      "symbol": "WOM",
+      "tags": ["DeFi"],
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19623.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xa15E4544D141aa98C4581a1EA10Eb9048c3b3382",
+      "decimals": 18,
+      "name": "Wombat Token",
+      "symbol": "WOM",
+      "tags": ["DeFi"],
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19623.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
