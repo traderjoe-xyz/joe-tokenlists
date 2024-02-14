@@ -2060,6 +2060,15 @@
       "symbol": "NOCHILL",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xAcFb898Cff266E53278cC0124fC2C7C94C8cB9a5/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x096D19B58Cab84A2f0Ff0E81c08291BFFaa62848",
+      "decimals": 18,
+      "name": "Shoe404",
+      "symbol": "SHOE",
+      "tags": ["NFT", "Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x096D19B58Cab84A2f0Ff0E81c08291BFFaa62848/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
