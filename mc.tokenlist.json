@@ -2087,6 +2087,15 @@
       "symbol": "KINGSHIT",
       "tags": ["NFT", "Meme"],
       "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0x0Cd741F007b417088ca7F4392E8D6B49B4F7A975/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x921f10d157D6DfFF4DDcF72A12B53c2eFFeFBB90",
+      "decimals": 18,
+      "name": "LOTOFOMOGROW",
+      "symbol": "LFG",
+      "tags": ["Meme"],
+      "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0x921f10d157D6DfFF4DDcF72A12B53c2eFFeFBB90/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
