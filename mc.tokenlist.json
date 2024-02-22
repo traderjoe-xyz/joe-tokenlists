@@ -2033,7 +2033,16 @@
       "symbol": "avav",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x97C3780bdDe6916f601a4562c5f24A8b68D4A7aE/logo.png"
-    },   
+    },
+    {
+      "chainId": 43114,
+      "address": "0xCa8EBfB8e1460Aaac7c272CB9053B3D42412AAc2",
+      "decimals": 18,
+      "name": "GAU Token",
+      "symbol": "GAU",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xCa8EBfB8e1460Aaac7c272CB9053B3D42412AAc2/logo.png"
+    },    
     {
       "chainId": 43114,
       "address": "0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F",
@@ -2071,6 +2080,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x096D19B58Cab84A2f0Ff0E81c08291BFFaa62848/logo.png"
     },
     {
+      "chainId": 43114,
       "address": "0xa27ED4395D816F4A4A3F9F0145d22c601d97958e",
       "decimals": 18,
       "name": "Gem404",
