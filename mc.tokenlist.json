@@ -2105,6 +2105,15 @@
       "symbol": "L2DAO",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2CaB3abfC1670D1a452dF502e216a66883cDf079/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x779595F212B53e4f1F51b0875405Bf21B5e4D805",
+      "decimals": 6,
+      "name": "Avoge",
+      "symbol": "AVOGE",
+      "tags": ["Meme"],
+      "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0x779595F212B53e4f1F51b0875405Bf21B5e4D805/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
