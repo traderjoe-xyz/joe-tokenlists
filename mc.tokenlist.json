@@ -2114,6 +2114,15 @@
       "symbol": "OOE",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xDCbf4CB83d27C408B30dD7F39bfcabD7176B1Ba3/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x239c1d2fb158113Dc4B10133b66d7516207879c5",
+      "decimals": 18,
+      "name": "Skypath",
+      "symbol": "SKY",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x239c1d2fb158113Dc4B10133b66d7516207879c5/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
