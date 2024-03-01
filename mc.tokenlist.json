@@ -554,9 +554,18 @@
       "address": "0x6D923f688C7FF287dc3A5943CAeefc994F97b290",
       "decimals": 18,
       "name": "SmarterCoin",
-      "symbol": "SMRTr",
+      "symbol": "SMRTR",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6D923f688C7FF287dc3A5943CAeefc994F97b290/logo.png"
+    },
+        {
+      "chainId": 43114,
+      "address": "0x9913BA363073Ca3e9eA0cD296E36B75aF9E40bef",
+      "decimals": 18,
+      "name": "TRESR",
+      "symbol": "TRESR",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9913BA363073Ca3e9eA0cD296E36B75aF9E40bef/logo.png"
     },
     {
       "chainId": 43114,
