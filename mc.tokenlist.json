@@ -2132,6 +2132,15 @@
       "symbol": "$SICKO",
       "tags": ["NFT"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf6c95c3a750cc7f6a8c96d9b08cc132a44c7bd72/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x921f10d157D6DfFF4DDcF72A12B53c2eFFeFBB90",
+      "decimals": 18,
+      "name": "LOTOFOMOGROW",
+      "symbol": "LFG",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x921f10d157D6DfFF4DDcF72A12B53c2eFFeFBB90/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
