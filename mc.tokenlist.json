@@ -2000,6 +2000,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0xc06E17bDC3F008F4Ce08D27d364416079289e729",
+      "decimals": 18,
+      "name": "Dog Wif Crocs",
+      "symbol": "DWC",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc06E17bDC3F008F4Ce08D27d364416079289e729/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x735D8f3B6A5d2c96D0405230c50Eaf96794FbB88",
       "decimals": 18,
       "name": "XPower",
