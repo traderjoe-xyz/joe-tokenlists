@@ -2150,6 +2150,15 @@
       "symbol": "TECH",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a/logo.png"
+    },
+   {
+      "chainId": 43114,
+      "address": "0x04531Ae0E4Db1A359847Bd6d025044F7eB2CFb3B",
+      "decimals": 18,
+      "name": "Sponkeers",
+      "symbol": "SP404",
+      "tags": ["NFT"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x04531Ae0E4Db1A359847Bd6d025044F7eB2CFb3B/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
