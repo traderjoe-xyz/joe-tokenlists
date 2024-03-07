@@ -2150,6 +2150,15 @@
       "symbol": "TECH",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x3419875B4D3Bca7F3FddA2dB7a476A79fD31B4fE",
+      "decimals": 18,
+      "name": "DizzyHavoc",
+      "symbol": "DZHV",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3419875B4D3Bca7F3FddA2dB7a476A79fD31B4fE/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
