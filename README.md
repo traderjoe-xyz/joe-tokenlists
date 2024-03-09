@@ -5,11 +5,13 @@
 
  #### Application
  Submit pull request by adding your token logo 120X120 PNG. 
- - Folder name need to be named with the token address 
- - If logo is not png or exceeds 120X120 it will be rejected. 
+ - Folder name need to be named with the CHECKSUMMED token address 
+ - If logo is not png or exceeds 120X120 it will be rejected.
+ - logo file name should be EXACTLY `logo.png`
  - PRs including tokenlist will be rejected. Logos only. 
  - submissions with invalid chain address will be rejected. 
- - PRs will be processed every 3-5 days. 
+ - PRs will be processed every 3-5 days.
+ - do not add logo as comment, upload logo as file
 
 
  ## HOW TO ADD YOUR TOKEN TO TOKENLIST
@@ -25,7 +27,7 @@
  #### Submission process (For shortlisted project)
  Please refer to `mc.tokenlist.json` for format, and tag your token appropriately. 
  - Submit tokenlist PR separately from logo PR.
- - Tag your token with `DeFi`, `GameFi`, `Meme` or `Stablecoins` . - (case sensitive). 
+ - Tag your token with `DeFi`, `GameFi`, `Meme`, `NFT` or `Stablecoins` . - (case sensitive). 
  - Tags for `Top Tokens` and `Large Cap` are maintained by JOE team only. 
 
 
