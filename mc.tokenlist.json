@@ -2153,6 +2153,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0x694200a68B18232916353250955bE220e88c5cBB",
+      "decimals": 18,
+      "name": "Kovin Segnocchi",
+      "symbol": "KOVIN",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x694200a68B18232916353250955bE220e88c5cBB/logo.png"
+    },    
+    {
+      "chainId": 43114,
       "address": "0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5",
       "decimals": 18,
       "name": "SQRCAT",
