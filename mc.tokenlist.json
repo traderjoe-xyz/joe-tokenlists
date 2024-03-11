@@ -62,7 +62,15 @@
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png"
     },
-
+    {
+      "chainId": 43114,
+      "address": "0xE06fba763C2104dB5027F57f6A5Be0a0D86308af",
+      "decimals": 18,
+      "name": "Akitavax",
+      "symbol": "AKITAX",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xE06fba763C2104dB5027F57f6A5Be0a0D86308af/logo.png"
+    },
     {
       "chainId": 43114,
       "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
