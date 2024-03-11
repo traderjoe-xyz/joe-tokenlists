@@ -2168,6 +2168,15 @@
       "symbol": "SQRCAT",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x04f388E30BfD03f357AE061ec5680c7e4ac4cF09",
+      "decimals": 18,
+      "name": "LEO",
+      "symbol": "LEO",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x04f388E30BfD03f357AE061ec5680c7e4ac4cF09/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
