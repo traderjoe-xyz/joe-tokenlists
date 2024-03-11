@@ -2177,6 +2177,15 @@
       "symbol": "SQRCAT",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8aD25B0083C9879942A64f00F20a70D3278f6187",
+      "decimals": 18,
+      "name": "MeowCat",
+      "symbol": "MEOW",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8aD25B0083C9879942A64f00F20a70D3278f6187/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
