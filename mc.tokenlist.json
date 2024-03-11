@@ -2153,6 +2153,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0x58CAB33C77DeFF19F876E6f6aBbb88399356e9f3",
+      "decimals": 18,
+      "name": "DevsDoingStuff",
+      "symbol": "DEVS",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x58CAB33C77DeFF19F876E6f6aBbb88399356e9f3/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x694200a68B18232916353250955bE220e88c5cBB",
       "decimals": 18,
       "name": "Kovin Segnocchi",
