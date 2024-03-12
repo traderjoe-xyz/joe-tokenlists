@@ -2186,6 +2186,15 @@
       "symbol": "MEOW",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8aD25B0083C9879942A64f00F20a70D3278f6187/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xaC800FD6159c2a2CB8fC31EF74621eB430287a5A",
+      "decimals": 18,
+      "name": "Optimism",
+      "symbol": "Op",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xaC800FD6159c2a2CB8fC31EF74621eB430287a5A/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
