@@ -51,7 +51,7 @@ jobs:
 
     - name: Check 'tags' Values
       run: |
-        ALLOWED_TAGS=("Stablecoins" "Top" "DeFi" "Meme" "GameFi")
+        ALLOWED_TAGS=("Stablecoins" "Top" "DeFi" "Meme" "GameFi" "NFT")
 
         echo "Checking 'tags' values are within allowed list"
         

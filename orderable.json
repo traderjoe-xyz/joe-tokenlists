@@ -263,6 +263,24 @@
         "symbol": "WETH",
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png"
       }
+    },
+    {
+      "chainId": 43114,
+      "name": "COQ-AVAX",
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0x420FcA0121DC28039145009570975747295f2329",
+        "decimals": 18,
+        "symbol": "COQ",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x420FcA0121DC28039145009570975747295f2329/logo.png"
+      },
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "AVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+      }
     }
   ]
 }
