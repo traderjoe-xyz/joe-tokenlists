@@ -2222,6 +2222,15 @@
       "symbol": "RPG",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf7B084572BD638d8282f4933143a8eac94482F28/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x66B7Cd2046C633196Cfd061Db21Ca6A23Ab9ba3a",
+      "decimals": 18,
+      "name": "SWORD",
+      "symbol": "SWORD",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x66B7Cd2046C633196Cfd061Db21Ca6A23Ab9ba3a/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
