@@ -2135,6 +2135,78 @@
     },
     {
       "chainId": 43114,
+      "address": "0xc06E17bDC3F008F4Ce08D27d364416079289e729",
+      "decimals": 18,
+      "name": "Dog Wif Crocs",
+      "symbol": "DWC",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc06E17bDC3F008F4Ce08D27d364416079289e729/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+      "decimals": 18,
+      "name": "NumberGoUpTech",
+      "symbol": "TECH",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x58CAB33C77DeFF19F876E6f6aBbb88399356e9f3",
+      "decimals": 18,
+      "name": "DevsDoingStuff",
+      "symbol": "DEVS",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x58CAB33C77DeFF19F876E6f6aBbb88399356e9f3/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x694200a68B18232916353250955bE220e88c5cBB",
+      "decimals": 18,
+      "name": "Kovin Segnocchi",
+      "symbol": "KOVIN",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x694200a68B18232916353250955bE220e88c5cBB/logo.png"
+    },    
+    {
+      "chainId": 43114,
+      "address": "0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5",
+      "decimals": 18,
+      "name": "SQRCAT",
+      "symbol": "SQRCAT",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8aD25B0083C9879942A64f00F20a70D3278f6187",
+      "decimals": 18,
+      "name": "MeowCat",
+      "symbol": "MEOW",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8aD25B0083C9879942A64f00F20a70D3278f6187/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xaC800FD6159c2a2CB8fC31EF74621eB430287a5A",
+      "decimals": 18,
+      "name": "Optimism",
+      "symbol": "Op",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xaC800FD6159c2a2CB8fC31EF74621eB430287a5A/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x73f49d00AC1B520F94d11248808c40774aeb0802",
+      "decimals": 18,
+      "name": "MAJIN",
+      "symbol": "MAJIN",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x73f49d00AC1B520F94d11248808c40774aeb0802/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x9988a27919e8872b24f2ccb1991bf0297b68a470",
       "decimals": 9,
       "name": "AvaxTech",
