@@ -2204,6 +2204,15 @@
       "symbol": "MAJIN",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x73f49d00AC1B520F94d11248808c40774aeb0802/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xf7B084572BD638d8282f4933143a8eac94482F28",
+      "decimals": 18,
+      "name": "RedPonziGud",
+      "symbol": "RPG",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf7B084572BD638d8282f4933143a8eac94482F28/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
