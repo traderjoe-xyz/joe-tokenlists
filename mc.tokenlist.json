@@ -2204,6 +2204,15 @@
       "symbol": "RPG",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf7B084572BD638d8282f4933143a8eac94482F28/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x00346113973cb9db78cCaa522d671aBE50F00a25",
+      "decimals": 6,
+      "name": "BigBoi",
+      "symbol": "BIGBOI",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x00346113973cb9db78cCaa522d671aBE50F00a25/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
