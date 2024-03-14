@@ -1874,15 +1874,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0xb262a485d98D8e19175818D47453e7812cA255A8",
-      "decimals": 18,
-      "name": "Bingo",
-      "symbol": "BINGO",
-      "tags": ["Meme"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb262a485d98D8e19175818D47453e7812cA255A8/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0x4F94b8AEF08c92fEfe416af073F1Df1E284438EC",
       "decimals": 18,
       "name": "Landwolf",
@@ -2004,7 +1995,7 @@
       "decimals": 18,
       "name": "XPower",
       "symbol": "XPOW",
-      "tags": ["DeFi", "Meme"],
+      "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x735D8f3B6A5d2c96D0405230c50Eaf96794FbB88/logo.png"
     },
     {
@@ -2013,7 +2004,7 @@
       "decimals": 18,
       "name": "APower",
       "symbol": "APOW",
-      "tags": ["DeFi", "Meme"],
+      "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7F9C841FEAdDdB4bdBB2A161cA40bEbc4F215a9A/logo.png"
     },
     {
@@ -2027,12 +2018,192 @@
     },
     {
       "chainId": 43114,
-      "address": "0x97C3780bdDe6916f601a4562c5f24A8b68D4A7aE",
+      "address": "0xCa8EBfB8e1460Aaac7c272CB9053B3D42412AAc2",
       "decimals": 18,
-      "name": "avav",
-      "symbol": "avav",
+      "name": "GAU Token",
+      "symbol": "GAU",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xCa8EBfB8e1460Aaac7c272CB9053B3D42412AAc2/logo.png"
+    },    
+    {
+      "chainId": 43114,
+      "address": "0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F",
+      "decimals": 18,
+      "name": "Fold",
+      "symbol": "FLD",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x223a368Ad0E7396165FC629976d77596a51F155C",
+      "decimals": 18,
+      "name": "GURS",
+      "symbol": "GURS",
       "tags": ["Meme"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x97C3780bdDe6916f601a4562c5f24A8b68D4A7aE/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x223a368Ad0E7396165FC629976d77596a51F155C/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xAcFb898Cff266E53278cC0124fC2C7C94C8cB9a5",
+      "decimals": 18,
+      "name": "AVAX HAS NO CHILL",
+      "symbol": "NOCHILL",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xAcFb898Cff266E53278cC0124fC2C7C94C8cB9a5/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x096D19B58Cab84A2f0Ff0E81c08291BFFaa62848",
+      "decimals": 18,
+      "name": "Shoe404",
+      "symbol": "SHOE",
+      "tags": ["NFT", "Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x096D19B58Cab84A2f0Ff0E81c08291BFFaa62848/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xa27ED4395D816F4A4A3F9F0145d22c601d97958e",
+      "decimals": 18,
+      "name": "Gem404",
+      "symbol": "GEM",
+      "tags": ["NFT", "GameFi"],
+      "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0xa27ED4395D816F4A4A3F9F0145d22c601d97958e/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x0Cd741F007b417088ca7F4392E8D6B49B4F7A975",
+      "decimals": 18,
+      "name": "Kingshit",
+      "symbol": "KINGSHIT",
+      "tags": ["NFT", "Meme"],
+      "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0x0Cd741F007b417088ca7F4392E8D6B49B4F7A975/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x2CaB3abfC1670D1a452dF502e216a66883cDf079",
+      "decimals": 18,
+      "name": "Layer2DAO",
+      "symbol": "L2DAO",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2CaB3abfC1670D1a452dF502e216a66883cDf079/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xDCbf4CB83d27C408B30dD7F39bfcabD7176B1Ba3",
+      "decimals": 18,
+      "name": "OpenOcean",
+      "symbol": "OOE",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xDCbf4CB83d27C408B30dD7F39bfcabD7176B1Ba3/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x239c1d2fb158113Dc4B10133b66d7516207879c5",
+      "decimals": 18,
+      "name": "Skypath",
+      "symbol": "SKY",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x239c1d2fb158113Dc4B10133b66d7516207879c5/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xF6C95C3A750CC7f6a8C96d9b08CC132A44c7Bd72",
+      "decimals": 18,
+      "name": "ACID404: THE SICKOS ",
+      "symbol": "$SICKO",
+      "tags": ["NFT"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf6c95c3a750cc7f6a8c96d9b08cc132a44c7bd72/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xc06E17bDC3F008F4Ce08D27d364416079289e729",
+      "decimals": 18,
+      "name": "Dog Wif Crocs",
+      "symbol": "DWC",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc06E17bDC3F008F4Ce08D27d364416079289e729/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+      "decimals": 18,
+      "name": "NumberGoUpTech",
+      "symbol": "TECH",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x3419875B4D3Bca7F3FddA2dB7a476A79fD31B4fE",
+      "decimals": 18,
+      "name": "DizzyHavoc",
+      "symbol": "DZHV",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3419875B4D3Bca7F3FddA2dB7a476A79fD31B4fE/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x58CAB33C77DeFF19F876E6f6aBbb88399356e9f3",
+      "decimals": 18,
+      "name": "DevsDoingStuff",
+      "symbol": "DEVS",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x58CAB33C77DeFF19F876E6f6aBbb88399356e9f3/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x694200a68B18232916353250955bE220e88c5cBB",
+      "decimals": 18,
+      "name": "Kovin Segnocchi",
+      "symbol": "KOVIN",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x694200a68B18232916353250955bE220e88c5cBB/logo.png"
+    },    
+    {
+      "chainId": 43114,
+      "address": "0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5",
+      "decimals": 18,
+      "name": "SQRCAT",
+      "symbol": "SQRCAT",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8aD25B0083C9879942A64f00F20a70D3278f6187",
+      "decimals": 18,
+      "name": "MeowCat",
+      "symbol": "MEOW",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8aD25B0083C9879942A64f00F20a70D3278f6187/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xaC800FD6159c2a2CB8fC31EF74621eB430287a5A",
+      "decimals": 18,
+      "name": "Optimism",
+      "symbol": "Op",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xaC800FD6159c2a2CB8fC31EF74621eB430287a5A/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x73f49d00AC1B520F94d11248808c40774aeb0802",
+      "decimals": 18,
+      "name": "MAJIN",
+      "symbol": "MAJIN",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x73f49d00AC1B520F94d11248808c40774aeb0802/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xf7B084572BD638d8282f4933143a8eac94482F28",
+      "decimals": 18,
+      "name": "RedPonziGud",
+      "symbol": "RPG",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf7B084572BD638d8282f4933143a8eac94482F28/logo.png"
     },
     {
       "chainId": 43114,
