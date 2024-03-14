@@ -1874,15 +1874,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0xb262a485d98D8e19175818D47453e7812cA255A8",
-      "decimals": 18,
-      "name": "Bingo",
-      "symbol": "BINGO",
-      "tags": ["Meme"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb262a485d98D8e19175818D47453e7812cA255A8/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0x4F94b8AEF08c92fEfe416af073F1Df1E284438EC",
       "decimals": 18,
       "name": "Landwolf",
@@ -2004,7 +1995,7 @@
       "decimals": 18,
       "name": "XPower",
       "symbol": "XPOW",
-      "tags": ["DeFi", "Meme"],
+      "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x735D8f3B6A5d2c96D0405230c50Eaf96794FbB88/logo.png"
     },
     {
@@ -2013,7 +2004,7 @@
       "decimals": 18,
       "name": "APower",
       "symbol": "APOW",
-      "tags": ["DeFi", "Meme"],
+      "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7F9C841FEAdDdB4bdBB2A161cA40bEbc4F215a9A/logo.png"
     },
     {
@@ -2024,15 +2015,6 @@
       "symbol": "MAGICK",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9A8E0217cD870783c3f2317985C57Bf570969153/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x97C3780bdDe6916f601a4562c5f24A8b68D4A7aE",
-      "decimals": 18,
-      "name": "avav",
-      "symbol": "avav",
-      "tags": ["Meme"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x97C3780bdDe6916f601a4562c5f24A8b68D4A7aE/logo.png"
     },
     {
       "chainId": 43114,
@@ -2153,6 +2135,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0x3419875B4D3Bca7F3FddA2dB7a476A79fD31B4fE",
+      "decimals": 18,
+      "name": "DizzyHavoc",
+      "symbol": "DZHV",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3419875B4D3Bca7F3FddA2dB7a476A79fD31B4fE/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x58CAB33C77DeFF19F876E6f6aBbb88399356e9f3",
       "decimals": 18,
       "name": "DevsDoingStuff",
@@ -2204,6 +2195,15 @@
       "symbol": "MAJIN",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x73f49d00AC1B520F94d11248808c40774aeb0802/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xf7B084572BD638d8282f4933143a8eac94482F28",
+      "decimals": 18,
+      "name": "RedPonziGud",
+      "symbol": "RPG",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf7B084572BD638d8282f4933143a8eac94482F28/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
