@@ -1,19 +1,98 @@
-name: Test
+name: Tokenlist Validation CI
 
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-  # manual trigger
-  workflow_dispatch:
+on: [pull_request]
 
 jobs:
-  build:
+  validate_json:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - name: Install modules
-        run: yarn
-      - name: Run tests
-        run: yarn test
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Check JSON Structure
+      run: |
+        echo "Validating JSON structure for mc.tokenlist.json"
+        jq empty ./mc.tokenlist.json
+
+    - name: Check Required Keys in JSON Array
+      run: |
+        REQUIRED_KEYS=("chainId" "address" "decimals" "name" "symbol" "tags" "logoURI")
+        MISSING_KEYS=0
+        
+        for key in "${REQUIRED_KEYS[@]}"; do 
+            if [ "$(jq "[.tokens[] | has(\"$key\")] | contains([false])" mc.tokenlist.json)" == "true" ]; then
+                MISSING_KEYS=$((MISSING_KEYS+1))
+                echo "JSON validation failed: Missing key $key"
+                exit 1
+            fi
+        done
+        
+        if [ "$MISSING_KEYS" -eq 0 ]; then
+            echo "All required keys are present in each element of tokenlist"
+        else
+            echo "JSON validation incomplete: $MISSING_KEYS missing key[s] in tokenlist."
+        fi
+
+    - name: Check Allowed 'chainId' Values
+      run: |
+        ALLOWED_CHAIN_IDS=(1 43113 43114 42161 42161 421613 56 97)
+        # Convert bash array to jq array format
+        JQ_ALLOWED_CHAIN_IDS=$(printf "[%s]" "$(IFS=, ; echo "${ALLOWED_CHAIN_IDS[*]}")")
+        
+        INVALID_CHAIN_IDS=$(jq "[.tokens[].chainId] | map(select(. as \$id | ($JQ_ALLOWED_CHAIN_IDS | index(\$id)) == null))" mc.tokenlist.json)
+        
+        if [ "$INVALID_CHAIN_IDS" != "[]" ]; then
+          echo "Invalid 'chainId' value(s) found: $INVALID_CHAIN_IDS. Must be one of ${ALLOWED_CHAIN_IDS[*]}"
+          exit 1
+        else
+          echo "All 'chainId' values are valid in the 'tokens' array."
+        fi
+
+    - name: Check 'tags' Values
+      run: |
+        ALLOWED_TAGS=("Stablecoins" "Top" "DeFi" "Meme" "GameFi" "NFT")
+
+        echo "Checking 'tags' values are within allowed list"
+        
+        # Convert bash array to jq array format
+        JQ_ALLOWED_TAGS=$(printf '%s\n' "${ALLOWED_TAGS[@]}" | jq -R . | jq -s .)
+        
+        INVALID_TAGS_FOUND=$(jq --argjson allowedTags "$JQ_ALLOWED_TAGS" '[.tokens[].tags[]] | map(select(. as $tag | ($allowedTags | index($tag)) == null))' mc.tokenlist.json)
+        
+        if [ "$INVALID_TAGS_FOUND" != "[]" ]; then
+          echo "Invalid 'tags' value(s) found: $INVALID_TAGS_FOUND. Must be one of ${ALLOWED_TAGS[*]}"
+          exit 1
+        else
+          echo "All 'tags' values are valid in the 'tokens' array."
+        fi
+    
+    - name: Check logos folder and file names
+      run: |
+        LOGOS_DIR="./logos"
+
+        ETH_ADDRESS_PATTERN="^0x[a-fA-F0-9]{40}$"
+        UPPERCASE_PATTERN="[A-F]"
+        
+        for folder in "$LOGOS_DIR"/*; do
+            if [[ -d "$folder" ]]; then
+                folder_name=$(basename "$folder")
+                
+                if [[ ! $folder_name =~ $ETH_ADDRESS_PATTERN ]]; then
+                    echo "Invalid folder name: $folder_name is not a valid ETH address."
+                    exit 1
+                elif [[ ! $folder_name =~ $UPPERCASE_PATTERN ]]; then
+                    echo "Invalid folder name: $folder_name isn't checksummed address."
+                    exit 1
+                fi
+        
+                # Check if the logo.png file exists in the folder
+                if [[ ! -f "$folder/logo.png" ]]; then
+                    echo "Missing (or wrongly named) logo.png file in folder: $folder_name"
+                    exit 1
+                fi
+            fi
+        done
+        
+        echo "Every folder has a valid name and contains logo.png."
+      
