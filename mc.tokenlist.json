@@ -2231,6 +2231,15 @@
       "symbol": "LAMA",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x89A8633bcaD3af0951acC5137811ea21a17C37DC/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xEbB5d4959B2FbA6318FbDa7d03cd44aE771fc999",
+      "decimals": 18,
+      "name": "KONG",
+      "symbol": "KONG",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xEbB5d4959B2FbA6318FbDa7d03cd44aE771fc999/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
