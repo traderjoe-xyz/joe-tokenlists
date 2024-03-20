@@ -2222,6 +2222,15 @@
       "symbol": "SWORD",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x66B7Cd2046C633196Cfd061Db21Ca6A23Ab9ba3a/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x89A8633bcaD3af0951acC5137811ea21a17C37DC",
+      "decimals": 18,
+      "name": "LAMA",
+      "symbol": "LAMA",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x89A8633bcaD3af0951acC5137811ea21a17C37DC/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
