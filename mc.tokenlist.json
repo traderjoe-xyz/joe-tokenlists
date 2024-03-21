@@ -2249,6 +2249,15 @@
       "symbol": "CATWIF",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3377aCA4c0BFD021be6bd762b5f594975e77f9CF/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x05B0Def5c00bA371683D7035934BcF82B737C364",
+      "decimals": 18,
+      "name": "Kingshit X",
+      "symbol": "KINGSHIT.x",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x05B0Def5c00bA371683D7035934BcF82B737C364/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
