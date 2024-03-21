@@ -2240,6 +2240,15 @@
       "symbol": "KONG",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xEbB5d4959B2FbA6318FbDa7d03cd44aE771fc999/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x3377aCA4c0BFD021be6bd762b5f594975e77f9CF",
+      "decimals": 18,
+      "name": "Cat wif Hands",
+      "symbol": "CATWIF",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3377aCA4c0BFD021be6bd762b5f594975e77f9CF/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
