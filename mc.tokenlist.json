@@ -380,6 +380,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0x59821011487236adE7F9823F028fc6D5F3758877",
+      "decimals": 18,
+      "name": "Chimera",
+      "symbol": "CULT",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x59821011487236adE7F9823F028fc6D5F3758877/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x4Bfc90322dD638F81F034517359BD447f8E0235a",
       "decimals": 18,
       "name": "New Order",
