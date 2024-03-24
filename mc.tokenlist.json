@@ -381,7 +381,7 @@
     {
       "chainId": 43114,
       "address": "0x59821011487236adE7F9823F028fc6D5F3758877",
-      "decimals": 18,
+      "decimals": 9,
       "name": "Chimera",
       "symbol": "CULT",
       "tags": ["DeFi"],
