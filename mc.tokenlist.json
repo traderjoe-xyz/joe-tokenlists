@@ -558,7 +558,7 @@
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6D923f688C7FF287dc3A5943CAeefc994F97b290/logo.png"
     },
-        {
+    {
       "chainId": 43114,
       "address": "0x9913BA363073Ca3e9eA0cD296E36B75aF9E40bef",
       "decimals": 18,
@@ -2033,7 +2033,7 @@
       "symbol": "GAU",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xCa8EBfB8e1460Aaac7c272CB9053B3D42412AAc2/logo.png"
-    },    
+    },
     {
       "chainId": 43114,
       "address": "0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F",
@@ -2078,6 +2078,15 @@
       "symbol": "GEM",
       "tags": ["NFT", "GameFi"],
       "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0xa27ED4395D816F4A4A3F9F0145d22c601d97958e/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x334eFd1aa0Caf4b9b206DD8B9002B7172fc805e6",
+      "decimals": 18,
+      "name": "BLOB",
+      "symbol": "BLOB",
+      "tags": ["Meme"],
+      "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0x334eFd1aa0Caf4b9b206DD8B9002B7172fc805e6/logo.png"
     },
     {
       "chainId": 43114,
@@ -2168,7 +2177,7 @@
       "symbol": "KOVIN",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x694200a68B18232916353250955bE220e88c5cBB/logo.png"
-    },    
+    },
     {
       "chainId": 43114,
       "address": "0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5",
