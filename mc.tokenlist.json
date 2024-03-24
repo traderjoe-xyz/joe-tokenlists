@@ -397,15 +397,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0xeb8343d5284caec921f035207ca94db6baaacbcd",
-      "decimals": 18,
-      "name": "Echidna",
-      "symbol": "ECD",
-      "tags": ["DeFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xeb8343d5284caec921f035207ca94db6baaacbcd/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0xb2C5172E5C15aF6aDD1ec92e518A5Ea1c7DeD2ad",
       "decimals": 18,
       "name": "Echidna PTP",
