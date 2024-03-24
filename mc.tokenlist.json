@@ -397,6 +397,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0xeb8343d5284caec921f035207ca94db6baaacbcd",
+      "decimals": 18,
+      "name": "Echidna",
+      "symbol": "ECD",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xeb8343d5284caec921f035207ca94db6baaacbcd/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0xb2C5172E5C15aF6aDD1ec92e518A5Ea1c7DeD2ad",
       "decimals": 18,
       "name": "Echidna PTP",
@@ -415,12 +424,12 @@
     },
     {
       "chainId": 43114,
-      "address": "0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645",
+      "address": "0x59821011487236adE7F9823F028fc6D5F3758877",
       "decimals": 18,
-      "name": "DegisToken",
-      "symbol": "DEG",
+      "name": "Chimera",
+      "symbol": "CULT",
       "tags": ["DeFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x59821011487236adE7F9823F028fc6D5F3758877/logo.png"
     },
     {
       "chainId": 43114,
