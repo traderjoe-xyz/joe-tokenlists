@@ -415,6 +415,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645",
+      "decimals": 18,
+      "name": "DegisToken",
+      "symbol": "DEG",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x59821011487236adE7F9823F028fc6D5F3758877",
       "decimals": 18,
       "name": "Chimera",
