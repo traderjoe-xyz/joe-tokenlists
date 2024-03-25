@@ -3,9 +3,9 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
-    "major": 226,
-    "minor": 0,
-    "patch": 1
+    "major": 225,
+    "minor": 1,
+    "patch": 0
   },
   "tokens": [
     {
@@ -1969,7 +1969,16 @@
       "name": "Osaka Protocol",
       "symbol": "OSAK",
       "tags": ["Meme"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x96E1056a8814De39c8c3Cd0176042d6ceCD807d7/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xA2CDe628d7617956EAF4780e32F68DF19cc13D62",
+      "decimals": 18,
+      "name": "SUBAVA",
+      "symbol": "SUBAVA",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA2CDe628d7617956EAF4780e32F68DF19cc13D62/logo.png"
     },
     {
       "chainId": 43114,
