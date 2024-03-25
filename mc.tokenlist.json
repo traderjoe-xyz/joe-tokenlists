@@ -2276,6 +2276,15 @@
       "symbol": "KINGSHIT.x",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x05B0Def5c00bA371683D7035934BcF82B737C364/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1CD8A3D8b3cF9E334CC49073088Cdf6435333559",
+      "decimals": 18,
+      "name": "DIQINU",
+      "symbol": "DIQ",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1CD8A3D8b3cF9E334CC49073088Cdf6435333559/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
