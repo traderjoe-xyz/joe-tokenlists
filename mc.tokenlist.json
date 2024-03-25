@@ -2267,6 +2267,15 @@
       "symbol": "KINGSHIT.x",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x05B0Def5c00bA371683D7035934BcF82B737C364/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x9988a27919e8872b24f2ccb1991bf0297b68a470",
+      "decimals": 9,
+      "name": "AvaxTech",
+      "symbol": "ATECH",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9988a27919e8872b24f2ccb1991bf0297b68a470/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
