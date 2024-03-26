@@ -2276,6 +2276,15 @@
       "symbol": "ATECH",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9988a27919e8872b24f2ccb1991bf0297b68a470/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xfe07cab00DFB08C348De861FDDCBBdB9E9e49702",
+      "decimals": 18,
+      "name": "dogwifhat",
+      "symbol": "$WIF",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfe07cab00DFB08C348De861FDDCBBdB9E9e49702/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
