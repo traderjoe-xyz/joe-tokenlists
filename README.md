@@ -26,11 +26,3 @@
  Please refer to `mc.tokenlist.json` for format, and tag your token appropriately. 
  - Submit tokenlist PR separately from logo PR.
  - Tag your token with `DeFi`, `GameFi`, `Meme` or `Stablecoins` . - (case sensitive). 
- - Tags for `Top Tokens` and `Large Cap` are maintained by JOE team only. 
-
-
-
-
- ## Have more questions?
- Come visit us on discord at our `sdk-dev` channel. 
- Link: https://discord.gg/traderjoe
