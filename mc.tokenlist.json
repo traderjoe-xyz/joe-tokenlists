@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
     "major": 226,
-    "minor": 0,
+    "minor": 1,
     "patch": 1
   },
   "tokens": [
@@ -2171,15 +2171,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x58CAB33C77DeFF19F876E6f6aBbb88399356e9f3",
-      "decimals": 18,
-      "name": "DevsDoingStuff",
-      "symbol": "DEVS",
-      "tags": ["Meme"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x58CAB33C77DeFF19F876E6f6aBbb88399356e9f3/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0x694200a68B18232916353250955bE220e88c5cBB",
       "decimals": 18,
       "name": "Kovin Segnocchi",
@@ -2285,6 +2276,15 @@
       "symbol": "SECOND",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7979871595b80433183950Ab6c6457752B585805/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x9988a27919e8872b24f2ccb1991bf0297b68a470",
+      "decimals": 9,
+      "name": "AvaxTech",
+      "symbol": "ATECH",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9988a27919e8872b24f2ccb1991bf0297b68a470/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
