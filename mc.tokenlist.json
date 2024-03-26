@@ -2276,6 +2276,15 @@
       "symbol": "ATECH",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9988a27919e8872b24f2ccb1991bf0297b68a470/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x87bbfc9dcb66caa8ce7582a3f17b60a25cd8a248",
+      "decimals": 9,
+      "name": "Big Red",
+      "symbol": "$Td",
+      "tags": ["Meme"],
+      "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0x87bbFc9DCB66Caa8ce7582A3F17B60a25cd8A248/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
