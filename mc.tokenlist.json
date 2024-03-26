@@ -2285,6 +2285,15 @@
       "symbol": "$Td",
       "tags": ["Meme"],
       "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0x87bbFc9DCB66Caa8ce7582A3F17B60a25cd8A248/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xBC9B77acA82f6BE43927076D71cd453b625165B8",
+      "decimals": 18,
+      "name": "Polychain Monsters",
+      "symbol": "$PMON",
+      "tags": ["NFT"],
+      "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0xBC9B77acA82f6BE43927076D71cd453b625165B8/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
