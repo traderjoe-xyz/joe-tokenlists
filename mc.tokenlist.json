@@ -2285,6 +2285,15 @@
       "symbol": "$Td",
       "tags": ["Meme"],
       "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0x87bbFc9DCB66Caa8ce7582A3F17B60a25cd8A248/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+      "decimals": 18,
+      "name": "Any Inu",
+      "symbol": "AI",
+      "tags": ["Meme"],
+      "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0x2598c30330D5771AE9F983979209486aE26dE875/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
