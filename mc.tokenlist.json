@@ -2287,5 +2287,14 @@
       "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0x87bbFc9DCB66Caa8ce7582A3F17B60a25cd8A248/logo.png"
     }
   ],
+{
+  "chainId": 43114,
+  "address": "0x80A62e8A45F6467b499EE7eDAD3Fd7bef0c83026",
+  "decimals": 18,
+  "name": "Stack",
+  "symbol": "STACK",
+  "tags": ["DeFi", "GameFi"],
+  "logoURI": "https://raw.githubusercontent.com/jorbo1982/joe-tokenlists/main/logos/0x80A62e8A45F6467b499EE7eDAD3Fd7bef/logo.png"
+  
   "timestamp": "2024-02-01T00:00:00+00:00"
 }
