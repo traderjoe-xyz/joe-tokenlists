@@ -2270,6 +2270,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0x7979871595b80433183950Ab6c6457752B585805",
+      "decimals": 18,
+      "name": "Second",
+      "symbol": "SECOND",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7979871595b80433183950Ab6c6457752B585805/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x9988a27919e8872b24f2ccb1991bf0297b68a470",
       "decimals": 9,
       "name": "AvaxTech",
