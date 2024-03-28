@@ -2285,6 +2285,15 @@
       "symbol": "$Td",
       "tags": ["Meme"],
       "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0x87bbFc9DCB66Caa8ce7582A3F17B60a25cd8A248/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xfe07cab00DFB08C348De861FDDCBBdB9E9e49702",
+      "decimals": 18,
+      "name": "dogwifhat",
+      "symbol": "$WIF",
+      "tags": ["Meme"],
+      "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0xfe07cab00DFB08C348De861FDDCBBdB9E9e49702/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
