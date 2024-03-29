@@ -2294,6 +2294,15 @@
       "symbol": "AI",
       "tags": ["Meme"],
       "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0x2598c30330D5771AE9F983979209486aE26dE875/logo.png"
+    },
+	{
+      "chainId": 43114,
+      "address": "0x7979871595b80433183950Ab6c6457752B585805",
+      "decimals": 18,
+      "name": "Second",
+      "symbol": "SECOND",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7979871595b80433183950Ab6c6457752B585805/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
