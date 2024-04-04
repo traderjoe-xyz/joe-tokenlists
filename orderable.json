@@ -263,6 +263,402 @@
         "symbol": "WETH",
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png"
       }
+    },
+    {
+      "chainId": 43114,
+      "name": "COQ-AVAX",
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0x420FcA0121DC28039145009570975747295f2329",
+        "decimals": 18,
+        "symbol": "COQ",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x420FcA0121DC28039145009570975747295f2329/logo.png"
+      },
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "AVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "XAVA-AVAX",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+        "decimals": 18,
+        "symbol": "XAVA",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "HUSKY-AVAX",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
+        "decimals": 18,
+        "symbol": "HUSKY",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "QI-AVAX",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+        "decimals": 18,
+        "symbol": "QI",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "DOMI-AVAX",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0xFc6Da929c031162841370af240dEc19099861d3B",
+        "decimals": 18,
+        "symbol": "DOMI",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFc6Da929c031162841370af240dEc19099861d3B/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "GGP-AVAX",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d",
+        "decimals": 18,
+        "symbol": "GGP",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "MELD-AVAX",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0x333000333b26eE30214B4af6419D9ab07a450400",
+        "decimals": 18,
+        "symbol": "MELD",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x333000333b26eE30214B4af6419D9ab07a450400/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "SHRAP-USDC",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+        "decimals": 6,
+        "symbol": "USDC",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0xd402298a793948698b9a63311404FBBEe944eAfD",
+        "decimals": 18,
+        "symbol": "SHRAP",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd402298a793948698b9a63311404FBBEe944eAfD/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "MEAT-AVAX",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0x47c3118Ad183712Acd42648e9E522e13690f29a0",
+        "decimals": 6,
+        "symbol": "MEAT",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x47c3118Ad183712Acd42648e9E522e13690f29a0/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "ALOT-AVAX",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0x093783055f9047c2bff99c4e414501f8a147bc69",
+        "decimals": 18,
+        "symbol": "ALOT",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x093783055f9047c2bff99c4e414501f8a147bc69/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "KIMBO-AVAX",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1",
+        "decimals": 18,
+        "symbol": "KIMBO",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "BEAM-AVAX",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
+        "decimals": 18,
+        "symbol": "BEAM",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "GEC-AVAX",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0xE8385CECb013561b69bEb63FF59f4d10734881f3",
+        "decimals": 18,
+        "symbol": "GEC",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xE8385CECb013561b69bEb63FF59f4d10734881f3/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "WOLF-AVAX",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0x4F94b8AEF08c92fEfe416af073F1Df1E284438EC",
+        "decimals": 18,
+        "symbol": "WOLF",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4F94b8AEF08c92fEfe416af073F1Df1E284438EC/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "LIZARD-AVAX",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0xeD0d09ee0F32f7b5AFaE6f2d728189C5E355b52a",
+        "decimals": 18,
+        "symbol": "LIZARD",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xeD0d09ee0F32f7b5AFaE6f2d728189C5E355b52a/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "ALEPH-AVAX",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0xc0Fbc4967259786C743361a5885ef49380473dCF",
+        "decimals": 18,
+        "symbol": "ALEPH",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc0Fbc4967259786C743361a5885ef49380473dCF/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "LUCKY-AVAX",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0xb5Cc2CE99B3f98a969DBe458b96a117680AE0fA1",
+        "decimals": 18,
+        "symbol": "LUCKY",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb5Cc2CE99B3f98a969DBe458b96a117680AE0fA1/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "NOCHILL-AVAX",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0xAcFb898Cff266E53278cC0124fC2C7C94C8cB9a5",
+        "decimals": 18,
+        "symbol": "NOCHILL",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xAcFb898Cff266E53278cC0124fC2C7C94C8cB9a5/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "TECH-AVAX",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+        "decimals": 18,
+        "symbol": "TECH",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "KOVIN-AVAX",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0x694200a68B18232916353250955bE220e88c5cBB",
+        "decimals": 18,
+        "symbol": "KOVIN",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x694200a68B18232916353250955bE220e88c5cBB/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "MEOW-AVAX",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0x8aD25B0083C9879942A64f00F20a70D3278f6187",
+        "decimals": 18,
+        "symbol": "MEOW",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8aD25B0083C9879942A64f00F20a70D3278f6187/logo.png"
+      }
+    },
+    {
+      "chainId": 43114,
+      "name": "KONG-AVAX",
+      "tokenY": {
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "decimals": 18,
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+      },
+      "tokenX": {
+        "chainId": 43114,
+        "address": "0xEbB5d4959B2FbA6318FbDa7d03cd44aE771fc999",
+        "decimals": 18,
+        "symbol": "KONG",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xEbB5d4959B2FbA6318FbDa7d03cd44aE771fc999/logo.png"
+      }
     }
   ]
 }
