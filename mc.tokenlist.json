@@ -2304,6 +2304,16 @@
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7979871595b80433183950Ab6c6457752B585805/logo.png"
     },
+
+    {
+      "chainId": 43114,
+      "address": "0x245B532ad64c7FBfeEC9aa42f37291b183cEA91b",
+      "decimals": 18,
+      "name": "SWOL ",
+      "symbol": "SWOL",
+      "tags": ["NFT"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x245B532ad64c7FBfeEC9aa42f37291b183cEA91b/logo.png"
+    },
 	  {
       "chainId": 42161,
       "address": "0x000f1720a263f96532d1ac2bb9cdc12b72c6f386",
@@ -2312,6 +2322,7 @@
       "symbol": "FLY",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x000f1720a263f96532d1ac2bb9cdc12b72c6f386/logo.png"
+
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
