@@ -2323,6 +2323,15 @@
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x000f1720a263f96532d1ac2bb9cdc12b72c6f386/logo.png"
 
+    },
+    {
+      "chainId": 43114,
+      "address": "0xcE9cb2185F9AD5cfb82fC9E6FB81FB07B29BD414",
+      "decimals": 18,
+      "name": "Otto",
+      "symbol": "OTTO",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xcE9cb2185F9AD5cfb82fC9E6FB81FB07B29BD414/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
