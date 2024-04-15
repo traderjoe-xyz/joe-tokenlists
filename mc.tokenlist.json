@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
     "major": 226,
-    "minor": 1,
+    "minor": 2,
     "patch": 1
   },
   "tokens": [
@@ -1303,15 +1303,6 @@
       "symbol": "MELD",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x333000333b26eE30214B4af6419D9ab07a450400/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x07B057133d28d44Fc1C917D8F77A5a8099f01A97",
-      "decimals": 18,
-      "name": "Alloy Space Nioz",
-      "symbol": "NIOZ",
-      "tags": ["GameFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x07B057133d28d44Fc1C917D8F77A5a8099f01A97/logo.png"
     },
     {
       "chainId": 42161,
