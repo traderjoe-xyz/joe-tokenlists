@@ -4,7 +4,7 @@
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
     "major": 226,
-    "minor": 1,
+    "minor": 2,
     "patch": 1
   },
   "tokens": [
@@ -62,7 +62,15 @@
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png"
     },
-
+    {
+      "chainId": 43114,
+      "address": "0x4D6Ec47118f807ACE03d3B3A4EE6AA96CB2AB677",
+      "decimals": 18,
+      "name": "Bonez",
+      "symbol": "BNZ",
+      "tags": ["DeFi", "GameFi", "NFT"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4D6Ec47118f807ACE03d3B3A4EE6AA96CB2AB677/logo.png"
+    },
     {
       "chainId": 43114,
       "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
@@ -1297,15 +1305,6 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x333000333b26eE30214B4af6419D9ab07a450400/logo.png"
     },
     {
-      "chainId": 43114,
-      "address": "0x07B057133d28d44Fc1C917D8F77A5a8099f01A97",
-      "decimals": 18,
-      "name": "Alloy Space Nioz",
-      "symbol": "NIOZ",
-      "tags": ["GameFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x07B057133d28d44Fc1C917D8F77A5a8099f01A97/logo.png"
-    },
-    {
       "chainId": 42161,
       "address": "0xef261714F7E5ba6b86F4780eb6e3bf26B10729CF",
       "decimals": 18,
@@ -2295,7 +2294,7 @@
       "tags": ["Meme"],
       "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0x2598c30330D5771AE9F983979209486aE26dE875/logo.png"
     },
-	{
+    {
       "chainId": 43114,
       "address": "0x7979871595b80433183950Ab6c6457752B585805",
       "decimals": 18,
@@ -2314,7 +2313,7 @@
       "tags": ["NFT"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x245B532ad64c7FBfeEC9aa42f37291b183cEA91b/logo.png"
     },
-	  {
+    {
       "chainId": 42161,
       "address": "0x000f1720a263f96532d1ac2bb9cdc12b72c6f386",
       "decimals": 6,
@@ -2322,7 +2321,6 @@
       "symbol": "FLY",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x000f1720a263f96532d1ac2bb9cdc12b72c6f386/logo.png"
-
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
