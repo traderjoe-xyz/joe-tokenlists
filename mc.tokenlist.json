@@ -2330,6 +2330,15 @@
       "symbol": "FLY",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x000f1720a263f96532d1ac2bb9cdc12b72c6f386/logo.png"
+    },
+    {
+          "chainId": 42161,
+    "address": "0xA1aC997CC20cDa54d7F0e3C1CD35113e9C3Cd6B4",
+    "decimals": 18,
+    "name": "USDRealEstate",
+    "symbol": "USDRE",
+    "tags": ["Stablecoins"],
+    "logoURI": "https://raw.githubusercontent.com/Nasry9/USDRE-pic/main/DALL%C2%B7E%202024-04-15%2012.58.48%20-%20Design%20a%20modern%20and%20minimalist%20logo%20representing%20the%20intersection%20of%20US%20dollar%20and%20real%20estate.%20The%20logo%20should%20feature%20a%20stylized%20dollar%20sign%20intertw.webp"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
