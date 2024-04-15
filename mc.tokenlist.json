@@ -2322,7 +2322,15 @@
       "symbol": "FLY",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x000f1720a263f96532d1ac2bb9cdc12b72c6f386/logo.png"
-
+    },
+	  {
+      "chainId": 43114,
+      "address": "0xDf3d57c3480951958Cef19905E4cf7FC1bA9ad42",
+      "decimals": 18,
+      "name": "MonroeUSD",
+      "symbol": "monUSD",
+      "tags": ["Stablecoins"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xDf3d57c3480951958Cef19905E4cf7FC1bA9ad42/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
