@@ -2321,6 +2321,15 @@
       "symbol": "FLY",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x000f1720a263f96532d1ac2bb9cdc12b72c6f386/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x913C61ec3573E5E4ee6488552535Fb1be84FF2AC",
+      "decimals": 18,
+      "name": "Xave Finance",
+      "symbol": "XAV",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x913C61ec3573E5E4ee6488552535Fb1be84FF2AC/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
