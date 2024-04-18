@@ -2339,6 +2339,15 @@
       "symbol": "monUSD",
       "tags": ["Stablecoins"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xDf3d57c3480951958Cef19905E4cf7FC1bA9ad42/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1a3264F2e7b1CFC6220ec9348d33cCF02Af7aaa4",
+      "decimals": 18,
+      "name": "Dypius",
+      "symbol": "DYP",
+      "tags": ["DeFi", "GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1a3264F2e7b1CFC6220ec9348d33cCF02Af7aaa4/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
