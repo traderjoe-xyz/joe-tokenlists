@@ -2330,6 +2330,15 @@
       "symbol": "XAV",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x913C61ec3573E5E4ee6488552535Fb1be84FF2AC/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xDf3d57c3480951958Cef19905E4cf7FC1bA9ad42",
+      "decimals": 18,
+      "name": "MonroeUSD",
+      "symbol": "monUSD",
+      "tags": ["Stablecoins"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xDf3d57c3480951958Cef19905E4cf7FC1bA9ad42/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
