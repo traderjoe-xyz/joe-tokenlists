@@ -2033,6 +2033,15 @@
       "symbol": "monUSD",
       "tags": ["Stablecoins"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xDf3d57c3480951958Cef19905E4cf7FC1bA9ad42/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea",
+      "decimals": 18,
+      "name": "OX Coin",
+      "symbol": "OX",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
