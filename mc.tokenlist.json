@@ -2042,6 +2042,15 @@
       "symbol": "EMDX",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xda71EA8ef58D015de8C5cEA8f7B890db3A103E67/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x13a7dedb7169a17be92b0e3c7c2315b46f4772b3",
+      "decimals": 18,
+      "name": "Boop",
+      "symbol": "Boop",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x13a7dedb7169a17be92b0e3c7c2315b46f4772b3/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
