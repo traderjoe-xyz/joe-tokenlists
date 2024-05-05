@@ -1801,6 +1801,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0x11111112126BF28987256a48f5b595B9f4F6a606",
+      "decimals": 18,
+      "name": "Supeer",
+      "symbol": "SUPEER",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x11111112126BF28987256a48f5b595B9f4F6a606/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x334eFd1aa0Caf4b9b206DD8B9002B7172fc805e6",
       "decimals": 18,
       "name": "BLOB",
@@ -2042,6 +2051,15 @@
       "symbol": "OX",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xda71EA8ef58D015de8C5cEA8f7B890db3A103E67",
+      "decimals": 18,
+      "name": "EMDX",
+      "symbol": "EMDX",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xda71EA8ef58D015de8C5cEA8f7B890db3A103E67/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
