@@ -1801,6 +1801,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0x11111112126BF28987256a48f5b595B9f4F6a606",
+      "decimals": 18,
+      "name": "Supeer",
+      "symbol": "SUPEER",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x11111112126BF28987256a48f5b595B9f4F6a606/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x334eFd1aa0Caf4b9b206DD8B9002B7172fc805e6",
       "decimals": 18,
       "name": "BLOB",
