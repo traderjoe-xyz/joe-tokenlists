@@ -37,15 +37,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B",
-      "decimals": 18,
-      "name": "Arrow Markets Token",
-      "symbol": "ARROW",
-      "tags": ["DeFi"],
-      "logoURI":"https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B/logo.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
       "decimals": 18,
       "name": "TraderJoe Token",
