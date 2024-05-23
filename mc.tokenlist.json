@@ -10,15 +10,6 @@
   "tokens": [
     {
       "chainId": 43113,
-      "address": "0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B",
-      "decimals": 18,
-      "name": "Arrow Markets Token",
-      "symbol": "ARROW",
-      "tags": ["DeFi"],
-      "logoURI":"https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B/logo.png"
-    },
-    {
-      "chainId": 43113,
       "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
       "decimals": 18,
       "name": "Wrapped AVAX",
@@ -43,6 +34,15 @@
       "symbol": "USDT",
       "tags": ["Stablecoins", "Top"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xAb231A5744C8E6c45481754928cCfFFFD4aa0732/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B",
+      "decimals": 18,
+      "name": "Arrow Markets Token",
+      "symbol": "ARROW",
+      "tags": ["DeFi"],
+      "logoURI":"https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B/logo.png"
     },
     {
       "chainId": 43114,
