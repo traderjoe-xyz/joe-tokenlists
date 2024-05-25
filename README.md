@@ -13,6 +13,10 @@
  - PRs will be processed every 3-5 days.
  - do not add logo as comment, upload logo as file
 
+To ensure your pull request is valid:
+ - read above guidelines
+ - **Enable GitHub Actions**: Before you push your changes, go to the "Actions" tab in your forked repository and click on "I understand my workflows, go ahead and enable them". This step will enable automated checks on your repository
+ - after you push your changes, wait for green checkmark `All checks have passed`
 
  ## HOW TO ADD YOUR TOKEN TO TOKENLIST
  Please read guidelines for submitting community PR for adding tokens to tokenlist. 
