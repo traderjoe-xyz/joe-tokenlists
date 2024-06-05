@@ -2068,8 +2068,17 @@
       "name": "Arrow Markets Token",
       "symbol": "ARROW",
       "tags": ["DeFi"],
-      "logoURI":"https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B/logo.png"
-    }    
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x25f11e22D5079c2970496d592579bF4902d09d76",
+      "decimals": 18,
+      "name": "Jigen",
+      "symbol": "JIGEN",
+      "tags": ["NFT"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x25f11e22D5079c2970496d592579bF4902d09d76/logo.png"
+    }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
 }
