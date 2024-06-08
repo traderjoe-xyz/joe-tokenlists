@@ -10,15 +10,6 @@
   "tokens": [
     {
       "chainId": 43113,
-      "address": "0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B",
-      "decimals": 18,
-      "name": "Arrow Markets Token",
-      "symbol": "ARROW",
-      "tags": ["DeFi"],
-      "logoURI":"https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B/logo.png"
-    },
-    {
-      "chainId": 43113,
       "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
       "decimals": 18,
       "name": "Wrapped AVAX",
@@ -2072,13 +2063,13 @@
     },
     {
       "chainId": 43114,
-      "address": "0xF2495Af12B3D8B61ab7D8DB83AC6546AD917C078",
+      "address": "0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B",
       "decimals": 18,
-      "name": "Degens404 ",
-      "symbol": "DEGEN404",
-      "tags": ["NFT"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xF2495Af12B3D8B61ab7D8DB83AC6546AD917C078/logo.png"
-    }
+      "name": "Arrow Markets Token",
+      "symbol": "ARROW",
+      "tags": ["DeFi"],
+      "logoURI":"https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B/logo.png"
+    }    
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
 }
