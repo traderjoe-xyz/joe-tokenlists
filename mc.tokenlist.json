@@ -2069,15 +2069,6 @@
       "symbol": "ARROW",
       "tags": ["DeFi"],
       "logoURI":"https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B/logo.png"
-    },    
-    {
-      "chainId": 43114,
-      "address": "0x95430905F4B0dA123d41BA96600427d2C92B188a",
-      "decimals": 18,
-      "name": "Cross Chain Degens",
-      "symbol": "DEGEN",
-      "tags": ["DeFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x95430905F4B0dA123d41BA96600427d2C92B188a/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
