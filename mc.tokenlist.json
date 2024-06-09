@@ -2069,7 +2069,16 @@
       "symbol": "ARROW",
       "tags": ["DeFi"],
       "logoURI":"https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B/logo.png"
-    }    
+    },
+    {
+      "chainId": 43114,
+      "address": "0x46B9144771Cb3195D66e4EDA643a7493fADCAF9D",
+      "decimals": 18,
+      "name": "BloodLoop Shard",
+      "symbol": "BLS",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x46B9144771Cb3195D66e4EDA643a7493fADCAF9D/logo.png"
+    }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
 }
