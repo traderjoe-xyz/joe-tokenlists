@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["avalanche", "arbitrum", "bnb chain", "defi", "trader joe"],
   "version": {
-    "major": 227,
+    "major": 228,
     "minor": 0,
     "patch": 0
   },
@@ -2087,7 +2087,25 @@
       "symbol": "BLS",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x46B9144771Cb3195D66e4EDA643a7493fADCAF9D/logo.png"
-    }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+      "decimals": 6,
+      "name": "USD+",
+      "symbol": "USD+",
+      "tags": ["Stablecoins","DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+      "decimals": 18,
+      "name": "Renzo Restaked ETH",
+      "symbol": "ezETH",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2416092f143378750bb29b79eD961ab195CcEea5/logo.png"
+    },
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
 }
