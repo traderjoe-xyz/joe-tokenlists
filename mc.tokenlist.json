@@ -2105,6 +2105,15 @@
       "symbol": "ezETH",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2416092f143378750bb29b79eD961ab195CcEea5/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xaBe7a9dFDA35230ff60D1590a929aE0644c47DC1",
+      "decimals": 18,
+      "name": "StableJack aUSD",
+      "symbol": "aUSD",
+      "tags": ["DeFi", "Stablecoins"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0xaBe7a9dFDA35230ff60D1590a929aE0644c47DC1/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
