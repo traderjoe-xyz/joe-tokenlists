@@ -2114,6 +2114,24 @@
       "symbol": "aUSD",
       "tags": ["DeFi", "Stablecoins"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0xaBe7a9dFDA35230ff60D1590a929aE0644c47DC1/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+      "decimals": 18,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "tags": ["DeFi", "Top"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0x6985884C4392D348587B19cb9eAAf157F13271cd/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+      "decimals": 18,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "tags": ["DeFi", "Top"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0x6985884C4392D348587B19cb9eAAf157F13271cd/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
