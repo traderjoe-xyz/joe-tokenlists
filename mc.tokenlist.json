@@ -1884,7 +1884,7 @@
     {
       "chainId": 43114,
       "address": "0x214dD1B5cBE543D4189Ab39832F1BC1eEDEBb1d3",
-      "decimals": 18,
+      "decimals": 9,
       "name": "JUNIOR",
       "symbol": "JUNIOR",
       "tags": ["Meme"],
