@@ -1873,6 +1873,42 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0x6985884C4392D348587B19cb9eAAf157F13271cd/logo.png"
     },
     {
+      "chainId": 43114,
+      "address": "0xcD59b3309A0a0CBD9955d7e2CD2e1dFC7e5436c3",
+      "decimals": 6,
+      "name": "Coop Coin",
+      "symbol": "COOP",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0xcD59b3309A0a0CBD9955d7e2CD2e1dFC7e5436c3/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1Bbc0961c0A56F28c3827CdDd06244Bd7a3f077a",
+      "decimals": 6,
+      "name": "NIKO",
+      "symbol": "NIKO",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0x1Bbc0961c0A56F28c3827CdDd06244Bd7a3f077a/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x00a6E4B816Ee10b462a359664d17e70A07E2D24D",
+      "decimals": 8,
+      "name": "Orange",
+      "symbol": "ORA",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0x00a6E4B816Ee10b462a359664d17e70A07E2D24D/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xB2A7Cba37552888CEf808E88CDbEbC72F91fd94f",
+      "decimals": 3,
+      "name": "ALGO 200",
+      "symbol": "A200",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0xB2A7Cba37552888CEf808E88CDbEbC72F91fd94f/logo.png"
+    },
+    {
       "chainId": 42161,
       "address": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
       "decimals": 18,
