@@ -1925,6 +1925,15 @@
       "symbol": "JUNIOR",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0x214dD1B5cBE543D4189Ab39832F1BC1eEDEBb1d3/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x33C8036E99082B0C395374832FECF70c42C7F298",
+      "decimals": 18,
+      "name": "DeltaPrime",
+      "symbol": "PRIME",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0x33C8036E99082B0C395374832FECF70c42C7F298/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
