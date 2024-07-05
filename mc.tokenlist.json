@@ -1943,15 +1943,6 @@
       "symbol": "JUC",
       "tags": ["GameFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0xD5D053D5B769383e860d1520Da7a908E00919F36/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x6c14c1898C843FF66cA51e87244690bBc28DF215",
-      "decimals": 18,
-      "name": "Orange",
-      "symbol": "ORNG",
-      "tags": ["GameFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0x6c14c1898C843FF66cA51e87244690bBc28DF215/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
