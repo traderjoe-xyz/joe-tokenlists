@@ -1964,12 +1964,48 @@
     },
     {
       "chainId": 43114,
+      "address": "0xC139Aa91399600f6b72975AC3317b6d49Cb30a69",
+      "decimals": 18,
+      "name": "Avax Meme Index",
+      "symbol": "AMI",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0xC139Aa91399600f6b72975AC3317b6d49Cb30a69/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x33C8036E99082B0C395374832FECF70c42C7F298",
       "decimals": 18,
       "name": "DeltaPrime",
       "symbol": "PRIME",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0x33C8036E99082B0C395374832FECF70c42C7F298/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xD5D053D5B769383e860d1520Da7a908E00919F36",
+      "decimals": 18,
+      "name": "Juice",
+      "symbol": "JUC",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0xD5D053D5B769383e860d1520Da7a908E00919F36/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x735D8f3B6A5d2c96D0405230c50Eaf96794FbB88",
+      "decimals": 18,
+      "name": "XPower",
+      "symbol": "XPOW",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x735D8f3B6A5d2c96D0405230c50Eaf96794FbB88/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x7F9C841FEAdDdB4bdBB2A161cA40bEbc4F215a9A",
+      "decimals": 18,
+      "name": "APower",
+      "symbol": "APOW",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7F9C841FEAdDdB4bdBB2A161cA40bEbc4F215a9A/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
