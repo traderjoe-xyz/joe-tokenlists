@@ -1962,6 +1962,8 @@
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0xC139Aa91399600f6b72975AC3317b6d49Cb30a69/logo.png"
     },
+    {
+      "chainId": 43114,
       "address": "0x33C8036E99082B0C395374832FECF70c42C7F298",
       "decimals": 18,
       "name": "DeltaPrime",
