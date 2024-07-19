@@ -1972,6 +1972,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0xD5D053D5B769383e860d1520Da7a908E00919F36/logo.png"
     },
     {
+      "chainId": 43114,
       "address": "0x735D8f3B6A5d2c96D0405230c50Eaf96794FbB88",
       "decimals": 18,
       "name": "XPower",
