@@ -1368,15 +1368,6 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x420FcA0121DC28039145009570975747295f2329/logo.png"
     },
     {
-      "chainId": 1,
-      "address": "0x4afc4522E896aeaCc83eA5322708aB64A9DE5d1D",
-      "decimals": 18,
-      "name": "COQINU",
-      "symbol": "COQ",
-      "tags": ["Meme"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x420FcA0121DC28039145009570975747295f2329/logo.png"
-    },
-    {
       "chainId": 43114,
       "address": "0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6",
       "decimals": 18,
