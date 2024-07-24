@@ -2004,7 +2004,7 @@
       "decimals": 18,
       "name": "Long",
       "symbol": "LONG",
-      "tags": ["DeFi, GameFi, Meme, NFT"],
+      "tags": ["GameFi", "Meme", "NFT"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x99990fddd6E36Cb6BCba94C2966d391d5Dd99999/logo.png"
     }
   ],
