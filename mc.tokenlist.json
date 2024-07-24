@@ -1997,6 +1997,15 @@
       "symbol": "APOW",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7F9C841FEAdDdB4bdBB2A161cA40bEbc4F215a9A/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x99990fddd6E36Cb6BCba94C2966d391d5Dd99999",
+      "decimals": 18,
+      "name": "Long",
+      "symbol": "LONG",
+      "tags": ["GameFi, Meme, NFT"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x99990fddd6E36Cb6BCba94C2966d391d5Dd99999/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
