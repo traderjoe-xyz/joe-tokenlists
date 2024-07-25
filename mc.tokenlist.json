@@ -2006,6 +2006,15 @@
       "symbol": "APOW",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7F9C841FEAdDdB4bdBB2A161cA40bEbc4F215a9A/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x7a842a6F4580EDD3df41C1F31E0395044De6Bc75",
+      "decimals": 18,
+      "name": "AVAX GO HIGHER",
+      "symbol": "HIGHER",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7a842a6F4580EDD3df41C1F31E0395044De6Bc75/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
