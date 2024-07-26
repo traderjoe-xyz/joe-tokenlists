@@ -1656,6 +1656,15 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a/logo.png"
     },
     {
+      "chainId": 42161,
+      "address": "0x488ef48FF9D803087CC96b347FC250244A9e8260",
+      "decimals": 18,
+      "name": "TECH Improving",
+      "symbol": "TECH",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a/logo.png"
+    },
+    {
       "chainId": 43114,
       "address": "0x3419875B4D3Bca7F3FddA2dB7a476A79fD31B4fE",
       "decimals": 18,
