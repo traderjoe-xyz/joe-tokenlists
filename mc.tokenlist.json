@@ -2015,6 +2015,15 @@
       "symbol": "HIGHER",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7a842a6F4580EDD3df41C1F31E0395044De6Bc75/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x810A45ecaA8077C8d1fdbfe03E0cA96015cb79E2",
+      "decimals": 18,
+      "name": "Toucans Avax 404",
+      "symbol": "CANS",
+      "tags": ["Meme", "NFT"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x810A45ecaA8077C8d1fdbfe03E0cA96015cb79E2/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
