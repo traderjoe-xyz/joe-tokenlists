@@ -2018,6 +2018,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0x99990fddd6E36Cb6BCba94C2966d391d5Dd99999",
+      "decimals": 18,
+      "name": "Long",
+      "symbol": "LONG",
+      "tags": ["GameFi", "Meme", "NFT"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x99990fddd6E36Cb6BCba94C2966d391d5Dd99999/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x7a842a6F4580EDD3df41C1F31E0395044De6Bc75",
       "decimals": 18,
       "name": "AVAX GO HIGHER",
