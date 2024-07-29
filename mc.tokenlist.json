@@ -2330,6 +2330,15 @@
       "symbol": "monUSD",
       "tags": ["Stablecoins"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xDf3d57c3480951958Cef19905E4cf7FC1bA9ad42/logo.png"
+    },
+	  {
+      "chainId": 43114,
+      "address": "0xF88DF111343BffE7a2d89FB770d77A264d53f043",
+      "decimals": 18,
+      "name": "Monroe USD",
+      "symbol": "roeUSD",
+      "tags": ["Stablecoins"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xF88DF111343BffE7a2d89FB770d77A264d53f043/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
