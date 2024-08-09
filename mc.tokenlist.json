@@ -1818,6 +1818,15 @@
       "tags": ["Stablecoins"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xDf3d57c3480951958Cef19905E4cf7FC1bA9ad42/logo.png"
     },
+	  {
+      "chainId": 43114,
+      "address": "0xF88DF111343BffE7a2d89FB770d77A264d53f043",
+      "decimals": 18,
+      "name": "Monroe USD",
+      "symbol": "roeUSD",
+      "tags": ["Stablecoins"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xF88DF111343BffE7a2d89FB770d77A264d53f043/logo.png"
+    },
     {
       "chainId": 43114,
       "address": "0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea",
@@ -2009,12 +2018,30 @@
     },
     {
       "chainId": 43114,
+      "address": "0x99990fddd6E36Cb6BCba94C2966d391d5Dd99999",
+      "decimals": 18,
+      "name": "Long",
+      "symbol": "LONG",
+      "tags": ["GameFi", "Meme", "NFT"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x99990fddd6E36Cb6BCba94C2966d391d5Dd99999/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x7a842a6F4580EDD3df41C1F31E0395044De6Bc75",
       "decimals": 18,
       "name": "AVAX GO HIGHER",
       "symbol": "HIGHER",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7a842a6F4580EDD3df41C1F31E0395044De6Bc75/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x18E3605B13F10016901eAC609b9E188CF7c18973",
+      "decimals": 18,
+      "name": "HEFE",
+      "symbol": "HEFE",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x18E3605B13F10016901eAC609b9E188CF7c18973/logo.png"
     },
     {
       "chainId": 43114,
