@@ -37,6 +37,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+      "decimals": 6,
+      "name": "AUSD",
+      "symbol": "AUSD",
+      "tags": ["Stablecoins"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
       "decimals": 18,
       "name": "TraderJoe Token",
