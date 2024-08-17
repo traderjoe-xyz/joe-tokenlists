@@ -667,6 +667,15 @@
     },
     {
       "chainId": 42161,
+      "address": "0xC11158C5dA9db1D553Ed28F0C2Ba1Cbedd42CfCb",
+      "decimals": 18,
+      "name": "PAW",
+      "symbol": "WPAW",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xC11158C5dA9db1D553Ed28F0C2Ba1Cbedd42CfCb/logo.png"
+    },
+    {
+      "chainId": 42161,
       "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
       "decimals": 18,
       "name": "Gains Network",
