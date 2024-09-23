@@ -1961,6 +1961,24 @@
       "symbol": "HEFE",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x18E3605B13F10016901eAC609b9E188CF7c18973/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xbc78d84ba0c46dfe32cf2895a19939c86b81a777",
+      "decimals": 8,
+      "name": "Solv BTC",
+      "symbol": "SolvBTC",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos//logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+      "decimals": 8,
+      "name": "SolvBTC Babylon",
+      "symbol": "SolvBTC.BBN",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xcc0966d8418d412c599a6421b760a847eb169a8c/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
