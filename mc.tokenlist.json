@@ -1979,6 +1979,15 @@
       "symbol": "SolvBTC.BBN",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xcc0966d8418d412c599a6421b760a847eb169a8c/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
+      "decimals": 18,
+      "name": "Backed IB01 $ Treasury Bond 0-1yr ",
+      "symbol": "bIB01",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
