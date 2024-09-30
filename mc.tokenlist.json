@@ -1988,7 +1988,16 @@
       "symbol": "bIB01",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5/logo.png"
-    }
+    },
+     {
+      "chainId": 43114,
+      "address": "0x4586AF10ecceeD4E383e3f2Ec93b6C61e26500b5",
+      "decimals": 18,
+      "name": "HUNDRED",
+      "symbol": "HUNDRED",
+      "tags": ["DeFi", "Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4586AF10ecceeD4E383e3f2Ec93b6C61e26500b5/logo.png"
+    },  
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
 }
