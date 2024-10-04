@@ -1979,6 +1979,15 @@
       "symbol": "SolvBTC.BBN",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xcc0966d8418d412c599a6421b760a847eb169a8c/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4A5Bb433132B7E7F75D6A9a3e4136bB85CE6E4d5",
+      "decimals": 18,
+      "name": "Booty",
+      "symbol": "BOOTY",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4A5Bb433132B7E7F75D6A9a3e4136bB85CE6E4d5/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
