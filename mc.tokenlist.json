@@ -1997,6 +1997,15 @@
       "symbol": "bIB01",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6EC18092Ee47fcC8f1fE15899156fF20C64aB3D7",
+      "decimals": 18,
+      "name": "Yes.",
+      "symbol": "yes",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6EC18092Ee47fcC8f1fE15899156fF20C64aB3D7/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
