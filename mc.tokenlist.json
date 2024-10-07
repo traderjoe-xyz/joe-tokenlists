@@ -2006,6 +2006,15 @@
       "symbol": "yes",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6EC18092Ee47fcC8f1fE15899156fF20C64aB3D7/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x7864e3bDe05aa90ADA055Bfec4165f65f4Fba7c5",
+      "decimals": 18,
+      "name": "No.",
+      "symbol": "NO",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7864e3bDe05aa90ADA055Bfec4165f65f4Fba7c5/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
