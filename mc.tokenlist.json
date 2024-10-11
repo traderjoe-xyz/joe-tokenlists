@@ -1791,7 +1791,7 @@
       "tags": ["Stablecoins"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xDf3d57c3480951958Cef19905E4cf7FC1bA9ad42/logo.png"
     },
-	  {
+    {
       "chainId": 43114,
       "address": "0xF88DF111343BffE7a2d89FB770d77A264d53f043",
       "decimals": 18,
@@ -1842,7 +1842,7 @@
       "decimals": 6,
       "name": "USD+",
       "symbol": "USD+",
-      "tags": ["Stablecoins","DeFi"],
+      "tags": ["Stablecoins", "DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65/logo.png"
     },
     {
@@ -2006,6 +2006,15 @@
       "symbol": "yes",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6EC18092Ee47fcC8f1fE15899156fF20C64aB3D7/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x80E19921E0E5C2384dc31b1C885e25E3e6c344D4",
+      "decimals": 18,
+      "name": "MXS Games",
+      "symbol": "XSEED",
+      "tags": ["Gaming", "GameFi", "L1", "Infrastructure", "P2E"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x80E19921E0E5C2384dc31b1C885e25E3e6c344D4/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
