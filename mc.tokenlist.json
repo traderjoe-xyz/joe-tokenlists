@@ -2006,6 +2006,15 @@
       "symbol": "yes",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6EC18092Ee47fcC8f1fE15899156fF20C64aB3D7/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x273819f7d9387ad17cbB77BEA32cd293F9BC8CdE",
+      "decimals": 18,
+      "name": "MILLION",
+      "symbol": "MILLION",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x273819f7d9387ad17cbB77BEA32cd293F9BC8CdE/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
