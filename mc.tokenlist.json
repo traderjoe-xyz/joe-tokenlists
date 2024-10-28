@@ -2015,6 +2015,15 @@
       "symbol": "MILLION",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x273819f7d9387ad17cbB77BEA32cd293F9BC8CdE/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xB8d7710f7d8349A506b75dD184F05777c82dAd0C",
+      "decimals": 18,
+      "name": "ARENA",
+      "symbol": "ArenaToken",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB8d7710f7d8349A506b75dD184F05777c82dAd0C/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
