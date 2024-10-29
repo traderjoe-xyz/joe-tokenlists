@@ -1791,7 +1791,7 @@
       "tags": ["Stablecoins"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xDf3d57c3480951958Cef19905E4cf7FC1bA9ad42/logo.png"
     },
-	  {
+    {
       "chainId": 43114,
       "address": "0xF88DF111343BffE7a2d89FB770d77A264d53f043",
       "decimals": 18,
@@ -1842,7 +1842,7 @@
       "decimals": 6,
       "name": "USD+",
       "symbol": "USD+",
-      "tags": ["Stablecoins","DeFi"],
+      "tags": ["Stablecoins", "DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65/logo.png"
     },
     {
