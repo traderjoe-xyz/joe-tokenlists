@@ -2033,15 +2033,6 @@
       "symbol": "GURS",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x223a368Ad0E7396165FC629976d77596a51F155C/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x80E19921E0E5C2384dc31b1C885e25E3e6c344D4",
-      "decimals": 18,
-      "name": "MXS Games",
-      "symbol": "XSEED",
-      "tags": ["GameFi"],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x80E19921E0E5C2384dc31b1C885e25E3e6c344D4/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
