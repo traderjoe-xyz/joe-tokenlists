@@ -2042,6 +2042,15 @@
       "symbol": "STICK",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB44B645b5058F7e393F3AE6Af58A4CEf67006196/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb2F85b7AB3c2b6f62DF06dE6aE7D09c010a5096E",
+      "decimals": 6,
+      "name": "XSGD",
+      "symbol": "XSGD",
+      "tags": ["Stablecoins"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb2F85b7AB3c2b6f62DF06dE6aE7D09c010a5096E/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
