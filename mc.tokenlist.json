@@ -2060,7 +2060,16 @@
       "symbol": "XSGD",
       "tags": ["Stablecoins"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb2F85b7AB3c2b6f62DF06dE6aE7D09c010a5096E/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x0A10D108E2d81ccC793E37b56206C84bF96ddc57",
+      "decimals": 18,
+      "name": "MXS Games",
+      "symbol": "XSEED",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0A10D108E2d81ccC793E37b56206C84bF96ddc57/logo.png"
     }
   ],
-  "timestamp": "2024-02-01T00:00:00+00:00"
+  "timestamp": "2024-02-01T00:00:00+00:00"  
 }
