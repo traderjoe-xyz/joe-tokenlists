@@ -57,7 +57,7 @@
       "chainId": 43114,
       "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
       "decimals": 18,
-      "name": "Let's F***ing Joe",
+      "name": "JOE token",
       "symbol": "JOE",
       "tags": ["DeFi", "Top"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png"
@@ -2069,6 +2069,15 @@
       "symbol": "bnUSD",
       "tags": ["Stablecoins", "DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xdBDd50997361522495EcFE57EBb6850dA0E4C699/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x0A10D108E2d81ccC793E37b56206C84bF96ddc57",
+      "decimals": 18,
+      "name": "MXS GAMES",
+      "symbol": "XSEED",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0A10D108E2d81ccC793E37b56206C84bF96ddc57/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
