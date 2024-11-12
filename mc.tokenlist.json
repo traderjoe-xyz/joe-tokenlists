@@ -2087,6 +2087,15 @@
       "symbol": "FINE",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5478B121ceB140F8114E16B16D1752F3b29d514f/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x432d38F83a50EC77C409D086e97448794cf76dCF",
+      "decimals": 18,
+      "name": "Heresy",
+      "symbol": "HERESY",
+      "tags": ["NFT"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x432d38F83a50EC77C409D086e97448794cf76dCF/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
