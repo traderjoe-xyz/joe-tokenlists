@@ -2100,3 +2100,12 @@
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
 }
+ {
+      "chainId": 43114,
+      "address": "0xe98E1DD1541F604e47dB990336f687e9c6FA56D1",
+      "decimals": 18,
+      "name": "MiloInu",
+      "symbol": "MILO",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe98E1DD1541F604e47dB990336f687e9c6FA56D1/logo.png"
+    },
