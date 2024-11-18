@@ -2060,6 +2060,42 @@
       "symbol": "XSGD",
       "tags": ["Stablecoins"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb2F85b7AB3c2b6f62DF06dE6aE7D09c010a5096E/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xdBDd50997361522495EcFE57EBb6850dA0E4C699",
+      "decimals": 18,
+      "name": "Balanced Dollar",
+      "symbol": "bnUSD",
+      "tags": ["Stablecoins", "DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xdBDd50997361522495EcFE57EBb6850dA0E4C699/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x0A10D108E2d81ccC793E37b56206C84bF96ddc57",
+      "decimals": 18,
+      "name": "MXS GAMES",
+      "symbol": "XSEED",
+      "tags": ["GameFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0A10D108E2d81ccC793E37b56206C84bF96ddc57/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5478B121ceB140F8114E16B16D1752F3b29d514f",
+      "decimals": 18,
+      "name": "FINE",
+      "symbol": "FINE",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5478B121ceB140F8114E16B16D1752F3b29d514f/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x432d38F83a50EC77C409D086e97448794cf76dCF",
+      "decimals": 18,
+      "name": "Heresy",
+      "symbol": "HERESY",
+      "tags": ["NFT"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x432d38F83a50EC77C409D086e97448794cf76dCF/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
