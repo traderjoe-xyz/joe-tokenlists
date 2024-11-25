@@ -2114,6 +2114,15 @@
       "symbol": "predict",
       "tags": ["DeFi"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xE46b44179DB3AF934da552B35FF8869E98DC6Af5/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb36FAF341c7817D681F23BceDbd3d85467E5aD9F",
+      "decimals": 18,
+      "name": "Red Pepe",
+      "symbol": "RPEPE",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb36FAF341c7817D681F23BceDbd3d85467E5aD9F/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
