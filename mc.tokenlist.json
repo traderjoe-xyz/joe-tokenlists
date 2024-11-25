@@ -2105,6 +2105,15 @@
       "symbol": "deUSD",
       "tags": ["Stablecoins"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB57B25851fE2311CC3fE511c8F10E868932e0680/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xE46b44179DB3AF934da552B35FF8869E98DC6Af5",
+      "decimals": 18,
+      "name": "predict",
+      "symbol": "predict",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xE46b44179DB3AF934da552B35FF8869E98DC6Af5/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
