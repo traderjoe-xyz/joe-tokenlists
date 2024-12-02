@@ -2123,6 +2123,15 @@
       "symbol": "RPEPE",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb36FAF341c7817D681F23BceDbd3d85467E5aD9F/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x2d0aFed89a6D6A100273Db377dBA7a32C739E314",
+      "decimals": 18,
+      "name": "BIG",
+      "symbol": "BIG",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2d0aFed89a6D6A100273Db377dBA7a32C739E314/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
