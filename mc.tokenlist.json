@@ -2661,6 +2661,15 @@
       "symbol": "CDN",
       "tags": ["DeFi", "GameFi", "NFT"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5B08fEE76c6b1D4F5faB98FC41a242B51cb090df/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x2dC45B5377739aa47E1162F42ca591c1688BC647",
+      "decimals": 18,
+      "name": "Yeet the Yeti",
+      "symbol": "YEET",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2dC45B5377739aa47E1162F42ca591c1688BC647/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
