@@ -2652,6 +2652,17 @@
         "Meme"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2d0aFed89a6D6A100273Db377dBA7a32C739E314/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xfA461e94c37aC925f4EA8fBC69188873BE880346",
+      "decimals": 18,
+      "name": "Grok",
+      "symbol": "GROK",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfA461e94c37aC925f4EA8fBC69188873BE880346/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
