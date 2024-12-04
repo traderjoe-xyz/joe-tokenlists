@@ -2652,6 +2652,17 @@
         "Meme"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2d0aFed89a6D6A100273Db377dBA7a32C739E314/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x2dc45b5377739aa47e1162f42ca591c1688bc647",
+      "decimals": 18,
+      "name": "Yeet the Yeti",
+      "symbol": "YEET",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2dc45b5377739aa47e1162f42ca591c1688bc647/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
