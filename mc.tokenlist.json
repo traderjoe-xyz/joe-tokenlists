@@ -2132,6 +2132,15 @@
       "symbol": "BIG",
       "tags": ["Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2d0aFed89a6D6A100273Db377dBA7a32C739E314/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5B08fEE76c6b1D4F5faB98FC41a242B51cb090df",
+      "decimals": 18,
+      "name": "CEDEN Network Token",
+      "symbol": "CDN",
+      "tags": ["DeFi", "GameFi", "NFT"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5B08fEE76c6b1D4F5faB98FC41a242B51cb090df/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
