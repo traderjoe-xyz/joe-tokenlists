@@ -2687,6 +2687,17 @@
         "Meme"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD036414fa2BCBb802691491E323BFf1348C5F4Ba/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x77776aB9495729E0939E9bADAf7E7c3312777777",
+      "decimals": 18,
+      "name": "WABBIT",
+      "symbol": "WABBIT",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x77776aB9495729E0939E9bADAf7E7c3312777777/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
