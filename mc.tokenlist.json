@@ -2687,19 +2687,6 @@
         "Meme"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD036414fa2BCBb802691491E323BFf1348C5F4Ba/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xDFd57dedCE61947dE998b6F0516AA65092ACF29c",
-      "decimals": 18,
-      "name": "Bu Lui",
-      "symbol": "BU",
-      "tags": [
-        "Meme",
-        "GameFi",
-        "NFT"
-      ],
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xDFd57dedCE61947dE998b6F0516AA65092ACF29c/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
