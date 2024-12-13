@@ -2690,6 +2690,19 @@
     },
     {
       "chainId": 43114,
+      "address": "0xDFd57dedCE61947dE998b6F0516AA65092ACF29c",
+      "decimals": 18,
+      "name": "Bu Lui",
+      "symbol": "BU",
+      "tags": [
+        "Meme",
+        "GameFi",
+        "NFT"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xDFd57dedCE61947dE998b6F0516AA65092ACF29c/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x77776aB9495729E0939E9bADAf7E7c3312777777",
       "decimals": 18,
       "name": "WABBIT",
