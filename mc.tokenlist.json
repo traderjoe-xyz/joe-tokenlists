@@ -2700,6 +2700,28 @@
         "NFT"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xDFd57dedCE61947dE998b6F0516AA65092ACF29c/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x77776aB9495729E0939E9bADAf7E7c3312777777",
+      "decimals": 18,
+      "name": "WABBIT",
+      "symbol": "WABBIT",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x77776aB9495729E0939E9bADAf7E7c3312777777/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1fCca65fb6Ae3b2758b9b2B394CB227eAE404e1E",
+      "decimals": 8,
+      "name": "pumpBTC",
+      "symbol": "pumpBTC",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1fCca65fb6Ae3b2758b9b2B394CB227eAE404e1E/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
