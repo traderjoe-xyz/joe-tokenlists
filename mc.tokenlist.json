@@ -2720,6 +2720,17 @@
         "Meme"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1fCca65fb6Ae3b2758b9b2B394CB227eAE404e1E/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1965A5f87e540aa29f9e68FB1f46350401E83657",
+      "decimals": 18,
+      "name": "BallZ",
+      "symbol": "BALLZ",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1965A5f87e540aa29f9e68FB1f46350401E83657/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
