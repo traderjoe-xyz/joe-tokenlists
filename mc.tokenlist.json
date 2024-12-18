@@ -2717,7 +2717,7 @@
       "name": "pumpBTC",
       "symbol": "pumpBTC",
       "tags": [
-        "Meme"
+        "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1fCca65fb6Ae3b2758b9b2B394CB227eAE404e1E/logo.png"
     },
@@ -2739,7 +2739,7 @@
       "name": "MyStandard",
       "symbol": "MYST",
       "tags": [
-        "Meme"
+        "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0256B279D973C8d687264AC3eB36bE09232D4474/logo.png"
     }
