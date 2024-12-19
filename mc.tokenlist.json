@@ -2468,6 +2468,7 @@
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0EF27Ddc8F89D4886E89d630De089962FfC12E43/logo.png"
     },
+    {
       "chainId": 43114,
       "address": "0xb5Cc2CE99B3f98a969DBe458b96a117680AE0fA1",
       "decimals": 18,
