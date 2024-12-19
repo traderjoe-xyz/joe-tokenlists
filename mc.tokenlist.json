@@ -2687,11 +2687,63 @@
         "Meme"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD036414fa2BCBb802691491E323BFf1348C5F4Ba/logo.png"
-    }
-  ],
-  "timestamp": "2024-02-01T00:00:00+00:00"
-}
- {
+    },
+    {
+      "chainId": 43114,
+      "address": "0xF7ed17f0Fb2B7C9D3DDBc9F0679b2e1098993e81",
+      "decimals": 18,
+      "name": "Mu Gold",
+      "symbol": "MUG",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xF7ed17f0Fb2B7C9D3DDBc9F0679b2e1098993e81/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x77776aB9495729E0939E9bADAf7E7c3312777777",
+      "decimals": 18,
+      "name": "WABBIT",
+      "symbol": "WABBIT",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x77776aB9495729E0939E9bADAf7E7c3312777777/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1fCca65fb6Ae3b2758b9b2B394CB227eAE404e1E",
+      "decimals": 8,
+      "name": "pumpBTC",
+      "symbol": "pumpBTC",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1fCca65fb6Ae3b2758b9b2B394CB227eAE404e1E/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1965A5f87e540aa29f9e68FB1f46350401E83657",
+      "decimals": 18,
+      "name": "BallZ",
+      "symbol": "BALLZ",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1965A5f87e540aa29f9e68FB1f46350401E83657/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x0256B279D973C8d687264AC3eB36bE09232D4474",
+      "decimals": 18,
+      "name": "MyStandard",
+      "symbol": "MYST",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0256B279D973C8d687264AC3eB36bE09232D4474/logo.png"
+    },
+    {
       "chainId": 43114,
       "address": "0xe98e1dd1541f604e47db990336f687e9c6fa56d1",
       "decimals": 18,
@@ -2702,3 +2754,4 @@
       ],
       "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe98E1DD1541F604e47dB990336f687e9c6FA56D1/logo.png"
     },
+    
