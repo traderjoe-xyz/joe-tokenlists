@@ -2742,6 +2742,17 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0256B279D973C8d687264AC3eB36bE09232D4474/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1212723de3673c8Cf7340B4D636DF2A6e551AEa9",
+      "decimals": 18,
+      "name": "CRAZY",
+      "symbol": "$Crazy",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1212723de3673c8Cf7340B4D636DF2A6e551AEa9/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
