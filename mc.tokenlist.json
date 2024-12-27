@@ -2742,6 +2742,17 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0256B279D973C8d687264AC3eB36bE09232D4474/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xe1B93a14938241e217645a509509F4058806b231",
+      "decimals": 18,
+      "name": "Lockdown Coin",
+      "symbol": "LDC",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe1B93a14938241e217645a509509F4058806b231/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
