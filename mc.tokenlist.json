@@ -2742,6 +2742,17 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0256B279D973C8d687264AC3eB36bE09232D4474/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x42069000770c482fEd048e1Da03A5f82773abD69",
+      "decimals": 18,
+      "name": "My Bro",
+      "symbol": "BRO",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x42069000770c482fEd048e1Da03A5f82773abD69/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
