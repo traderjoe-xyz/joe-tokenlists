@@ -2742,7 +2742,16 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0256B279D973C8d687264AC3eB36bE09232D4474/logo.png"
-    }
-  ],
-  "timestamp": "2024-02-01T00:00:00+00:00"
-}
+    },
+    {
+      "chainId": 43114,
+      "address": "0xe98e1dd1541f604e47db990336f687e9c6fa56d1",
+      "decimals": 18,
+      "name": "MiloInu",
+      "symbol": "MILO",
+      "tags": [
+        "Meme"
+      ],
+      "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe98E1DD1541F604e47dB990336f687e9c6FA56D1/logo.png"
+    },
+    
