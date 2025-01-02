@@ -2742,6 +2742,17 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0256B279D973C8d687264AC3eB36bE09232D4474/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x61f23250451305f6C4426E81C50aE535Edf94A02",
+      "decimals": 18,
+      "name": "Fautor",
+      "symbol": "FTR",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x61f23250451305f6C4426E81C50aE535Edf94A02/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
