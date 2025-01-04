@@ -39,4 +39,4 @@ To ensure your pull request is valid:
 
  ## Have more questions?
  Come visit us on discord at our `sdk-dev` channel. 
- Link: https://discord.gg/traderjoe
+ Check official website for the official link. 
