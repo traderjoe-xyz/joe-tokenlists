@@ -1668,6 +1668,15 @@
     },
     {
       "chainId": 43114,
+      "address": "0xE7d69acbc00D0EC5d9c02162310EE21DAA77f69C",
+      "decimals": 18,
+      "name": "COQ AI",
+      "symbol": "COQAI",
+      "tags": ["Meme"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xE7d69acbc00D0EC5d9c02162310EE21DAA77f69C/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x420FcA0121DC28039145009570975747295f2329",
       "decimals": 18,
       "name": "COQINU",
@@ -2753,6 +2762,17 @@
         "Meme"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3cC96F3cB4f45b5b5CdbCE61fAEE8ae80D805C65/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x61f23250451305f6C4426E81C50aE535Edf94A02",
+      "decimals": 18,
+      "name": "Fautor",
+      "symbol": "FTR",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x61f23250451305f6C4426E81C50aE535Edf94A02/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
