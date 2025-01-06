@@ -2596,7 +2596,7 @@
       "name": "AvaxMinerAI",
       "symbol": "AvaxMinerAI",
       "tags": [
-        "Meme"
+        "AI"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3cC96F3cB4f45b5b5CdbCE61fAEE8ae80D805C65/logo.png"
     },
@@ -2610,6 +2610,17 @@
         "Meme"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x61f23250451305f6C4426E81C50aE535Edf94A02/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x79Ea4E536f598dCd67C76Ee3829f84AB9E72A558",
+      "decimals": 18,
+      "name": "AI9000",
+      "symbol": "AI9000",
+      "tags": [
+        "AI"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x79Ea4E536f598dCd67C76Ee3829f84AB9E72A558/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
