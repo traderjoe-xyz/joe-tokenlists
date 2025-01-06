@@ -2621,6 +2621,15 @@
         "AI"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x79Ea4E536f598dCd67C76Ee3829f84AB9E72A558/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb9A98894FfBfA98c73a818B5B044E5b1C8666f56",
+      "decimals": 18,
+      "name": "Kepler",
+      "symbol": "AVIA",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb9A98894FfBfA98c73a818B5B044E5b1C8666f56/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
