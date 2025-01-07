@@ -2621,6 +2621,17 @@
         "AI"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x79Ea4E536f598dCd67C76Ee3829f84AB9E72A558/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x166738d2d75951A61E5e1f499C23103D0B7375f0",
+      "decimals": 18,
+      "name": "SIENA AI",
+      "symbol": "SIENAI",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x166738d2d75951A61E5e1f499C23103D0B7375f0/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
