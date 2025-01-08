@@ -2643,6 +2643,17 @@
         "AI"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x68e551E7eF4Bf59bf55B233Bb6beA104b168ee24/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x523199Cb3DF28238E27A4C59fEF74709E385D7b0",
+      "decimals": 18,
+      "name": "Arena Maximus",
+      "symbol": "AMAX",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x523199Cb3DF28238E27A4C59fEF74709E385D7b0/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
