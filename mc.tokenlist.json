@@ -2643,6 +2643,17 @@
         "AI"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x68e551E7eF4Bf59bf55B233Bb6beA104b168ee24/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4269b4d1f9D195B3A248e39BCC052958e91544f8",
+      "decimals": 18,
+      "name": "FrainAI",
+      "symbol": "frAIn",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4269b4d1f9D195B3A248e39BCC052958e91544f8/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
