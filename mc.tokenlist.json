@@ -2665,7 +2665,18 @@
         "Meme"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xE3f3EF63f193f001D72bb623cA6eCe3E71451D3f/logo.png"
-    }
+    },
+    {
+      "chainId": 43114,
+      "address": "0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7",
+      "decimals": 18,
+      "name": "yellow ket",
+      "symbol": "KET",
+      "tags": [
+        "AI"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7/logo.png"
+    }    
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
 }
