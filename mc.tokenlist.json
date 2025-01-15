@@ -2591,6 +2591,17 @@
     },
     {
       "chainId": 43114,
+      "address": "0xedd5BBb085d429ECB3C46FCf3BabBD69d242246c",
+      "decimals": 18,
+      "name": "BGR",
+      "symbol": "BGR",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xedd5BBb085d429ECB3C46FCf3BabBD69d242246c/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x42069000770c482fEd048e1Da03A5f82773abD69",
       "decimals": 18,
       "name": "My Bro",
