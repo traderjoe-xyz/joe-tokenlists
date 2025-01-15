@@ -2591,6 +2591,17 @@
     },
     {
       "chainId": 43114,
+      "address": "0xedd5BBb085d429ECB3C46FCf3BabBD69d242246c",
+      "decimals": 18,
+      "name": "BGR",
+      "symbol": "BGR",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xedd5BBb085d429ECB3C46FCf3BabBD69d242246c/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x42069000770c482fEd048e1Da03A5f82773abD69",
       "decimals": 18,
       "name": "My Bro",
@@ -2635,6 +2646,17 @@
     },
     {
       "chainId": 43114,
+      "address": "0x166738d2d75951A61E5e1f499C23103D0B7375f0",
+      "decimals": 18,
+      "name": "SIENA AI",
+      "symbol": "SIENAI",
+      "tags": [
+        "AI"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x166738d2d75951A61E5e1f499C23103D0B7375f0/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0xDf788AD40181894dA035B827cDF55C523bf52F67",
       "decimals": 18,
       "name": "Yak Milk Suzaku Restaked sAVAX",
@@ -2662,10 +2684,43 @@
       "name": "HeyAnon",
       "symbol": "Anon",
       "tags": [
-        "Meme"
+        "AI"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C/logo.png"
-    }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4269b4d1f9D195B3A248e39BCC052958e91544f8",
+      "decimals": 18,
+      "name": "FrainAI",
+      "symbol": "frAIn",
+      "tags": [
+        "AI"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4269b4d1f9D195B3A248e39BCC052958e91544f8/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xE3f3EF63f193f001D72bb623cA6eCe3E71451D3f",
+      "decimals": 18,
+      "name": "Cast3",
+      "symbol": "CAST",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xE3f3EF63f193f001D72bb623cA6eCe3E71451D3f/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7",
+      "decimals": 18,
+      "name": "yellow ket",
+      "symbol": "KET",
+      "tags": [
+        "AI"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7/logo.png"
+    }    
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
 }
