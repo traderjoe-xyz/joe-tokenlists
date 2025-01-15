@@ -2635,6 +2635,17 @@
     },
     {
       "chainId": 43114,
+      "address": "0x166738d2d75951A61E5e1f499C23103D0B7375f0",
+      "decimals": 18,
+      "name": "SIENA AI",
+      "symbol": "SIENAI",
+      "tags": [
+        "AI"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x166738d2d75951A61E5e1f499C23103D0B7375f0/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0xDf788AD40181894dA035B827cDF55C523bf52F67",
       "decimals": 18,
       "name": "Yak Milk Suzaku Restaked sAVAX",
