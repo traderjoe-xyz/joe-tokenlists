@@ -2657,6 +2657,17 @@
     },
     {
       "chainId": 43114,
+      "address": "0x4269b4d1f9D195B3A248e39BCC052958e91544f8",
+      "decimals": 18,
+      "name": "FrainAI",
+      "symbol": "frAIn",
+      "tags": [
+        "AI"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4269b4d1f9D195B3A248e39BCC052958e91544f8/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0xE3f3EF63f193f001D72bb623cA6eCe3E71451D3f",
       "decimals": 18,
       "name": "Cast3",
