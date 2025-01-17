@@ -2720,7 +2720,18 @@
         "AI"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7/logo.png"
-    }    
+    },
+    {
+      "chainId": 43114,
+      "address": "0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA",
+      "decimals": 18,
+      "name": "Seedworld",
+      "symbol": "SWORLD",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA/logo.png"
+    }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
 }
