@@ -2731,6 +2731,17 @@
         "Meme"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xA80F36BA18c7f721F3F7ACDbcDEfd3a86869A036",
+      "decimals": 18,
+      "name": "OFFICIAL TRUMP",
+      "symbol": "TRUMP",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA80F36BA18c7f721F3F7ACDbcDEfd3a86869A036/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
