@@ -2742,6 +2742,17 @@
         "Meme"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA80F36BA18c7f721F3F7ACDbcDEfd3a86869A036/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x24dE8771bC5DdB3362Db529Fc3358F2df3A0E346",
+      "decimals": 18,
+      "name": "avUSD",
+      "symbol": "avUSD",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x24dE8771bC5DdB3362Db529Fc3358F2df3A0E346/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
