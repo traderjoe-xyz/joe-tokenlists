@@ -2728,7 +2728,7 @@
       "name": "Seedworld",
       "symbol": "SWORLD",
       "tags": [
-        "Meme"
+        "GameFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA/logo.png"
     },
@@ -2750,9 +2750,20 @@
       "name": "avUSD",
       "symbol": "avUSD",
       "tags": [
-        "Meme"
+        "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x24dE8771bC5DdB3362Db529Fc3358F2df3A0E346/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x06d47F3fb376649c3A9Dafe069B3D6E35572219E",
+      "decimals": 18,
+      "name": "Staked avUSD",
+      "symbol": "savUSD",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x06d47F3fb376649c3A9Dafe069B3D6E35572219E/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
