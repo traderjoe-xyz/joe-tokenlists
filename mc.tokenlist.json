@@ -2764,6 +2764,17 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x06d47F3fb376649c3A9Dafe069B3D6E35572219E/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x9De2B66c2032Ff4Dd4aF3775b10fcf5e7eF9E58A",
+      "decimals": 18,
+      "name": "Indulgence Coin",
+      "symbol": "DLGE",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9De2B66c2032Ff4Dd4aF3775b10fcf5e7eF9E58A/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
