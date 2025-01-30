@@ -3260,7 +3260,8 @@
       "symbol": "BRLY",
       "name": "Berally Token",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0ae9d176d3156835b501C530Faee28a51a43c9a6/logo.png",
-      "address": "0x0ae9d176d3156835b501C530Faee28a51a43c9a6"
+      "address": "0x0ae9d176d3156835b501C530Faee28a51a43c9a6",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3268,7 +3269,8 @@
       "symbol": "BURR",
       "name": "BurrBear Token",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1Bc1A92fcDf8Df49d6E2B62f62a7ccf665c9d9A7/logo.png",
-      "address": "0x1Bc1A92fcDf8Df49d6E2B62f62a7ccf665c9d9A7"
+      "address": "0x1Bc1A92fcDf8Df49d6E2B62f62a7ccf665c9d9A7",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3276,7 +3278,8 @@
       "symbol": "BUDS",
       "name": "Buds",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9F43e40093327697Ff92d4b353D0A7B88b0DbBb6/logo.png",
-      "address": "0x9F43e40093327697Ff92d4b353D0A7B88b0DbBb6"
+      "address": "0x9F43e40093327697Ff92d4b353D0A7B88b0DbBb6",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3284,7 +3287,8 @@
       "symbol": "CANA",
       "name": "Beracana Token",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x92abCCEdccC722D2a2c14fc602428983164f4735/logo.png",
-      "address": "0x92abCCEdccC722D2a2c14fc602428983164f4735"
+      "address": "0x92abCCEdccC722D2a2c14fc602428983164f4735",
+      "tags": []
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
