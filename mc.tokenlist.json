@@ -2848,7 +2848,8 @@
       "symbol": "bHONEY",
       "name": "Honey bToken",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1306D3c36eC7E38dd2c128fBe3097C2C2449af64/logo.png",
-      "address": "0x1306D3c36eC7E38dd2c128fBe3097C2C2449af64"
+      "address": "0x1306D3c36eC7E38dd2c128fBe3097C2C2449af64",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -2856,7 +2857,8 @@
       "symbol": "aHONEY",
       "name": "Honey aToken",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD08391c5977ebF1a09bB5915908EF5cd95Edb7E0/logo.png",
-      "address": "0xD08391c5977ebF1a09bB5915908EF5cd95Edb7E0"
+      "address": "0xD08391c5977ebF1a09bB5915908EF5cd95Edb7E0",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -2864,7 +2866,8 @@
       "symbol": "aWBTC",
       "name": "WBTC aToken",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1807d3462dD7DC32907d5f10f22d8AeE80367316/logo.png",
-      "address": "0x1807d3462dD7DC32907d5f10f22d8AeE80367316"
+      "address": "0x1807d3462dD7DC32907d5f10f22d8AeE80367316",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -2872,7 +2875,8 @@
       "symbol": "aWETH",
       "name": "WETH aToken",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xCA97345aD6A91176429CAF5aa2896732cbF66EBd/logo.png",
-      "address": "0xCA97345aD6A91176429CAF5aa2896732cbF66EBd"
+      "address": "0xCA97345aD6A91176429CAF5aa2896732cbF66EBd",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -2902,7 +2906,8 @@
       "symbol": "stDYDX",
       "name": "Union Bridged stDYDX",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x355bb949d80331516Fc7F4CF81229021187d67d2/logo.png",
-      "address": "0x355bb949d80331516Fc7F4CF81229021187d67d2"
+      "address": "0x355bb949d80331516Fc7F4CF81229021187d67d2",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -2910,7 +2915,8 @@
       "symbol": "fBERA",
       "name": "Fake Bera",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xDFDaeCa74bB2D37204171Ce05fE6bA6AE970D844/logo.png",
-      "address": "0xDFDaeCa74bB2D37204171Ce05fE6bA6AE970D844"
+      "address": "0xDFDaeCa74bB2D37204171Ce05fE6bA6AE970D844",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -2918,7 +2924,8 @@
       "symbol": "weHONEY",
       "name": "webera-vault-honey",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x556b758AcCe5c4F2E1B57821E2dd797711E790F4/logo.png",
-      "address": "0x556b758AcCe5c4F2E1B57821E2dd797711E790F4"
+      "address": "0x556b758AcCe5c4F2E1B57821E2dd797711E790F4",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -2937,7 +2944,8 @@
       "symbol": "iBGT",
       "name": "Infrared BGT",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x46eFC86F0D7455F135CC9df501673739d513E982/logo.png",
-      "address": "0x46eFC86F0D7455F135CC9df501673739d513E982"
+      "address": "0x46eFC86F0D7455F135CC9df501673739d513E982",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -2945,7 +2953,8 @@
       "symbol": "YEET.old",
       "name": "YEET.old",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1740F679325ef3686B2f574e392007A92e4BeD41/logo.png",
-      "address": "0x1740F679325ef3686B2f574e392007A92e4BeD41"
+      "address": "0x1740F679325ef3686B2f574e392007A92e4BeD41",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -2953,7 +2962,8 @@
       "symbol": "YEET",
       "name": "YEET",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8c245484890a61Eb2d1F81114b1a7216dCe2752b/logo.png",
-      "address": "0x8c245484890a61Eb2d1F81114b1a7216dCe2752b"
+      "address": "0x8c245484890a61Eb2d1F81114b1a7216dCe2752b",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -2961,7 +2971,8 @@
       "symbol": "BERO",
       "name": "Beradrome",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB5A27c33bA2ADEcee8CdBE94cEF5576E2F364A8f/logo.png",
-      "address": "0xB5A27c33bA2ADEcee8CdBE94cEF5576E2F364A8f"
+      "address": "0xB5A27c33bA2ADEcee8CdBE94cEF5576E2F364A8f",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -2969,7 +2980,8 @@
       "symbol": "oBERO",
       "name": "Beradrome Call Option",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7629668774f918c00Eb4b03AdF5C4e2E53d45f0b/logo.png",
-      "address": "0x7629668774f918c00Eb4b03AdF5C4e2E53d45f0b"
+      "address": "0x7629668774f918c00Eb4b03AdF5C4e2E53d45f0b",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -2977,7 +2989,8 @@
       "symbol": "ARBERA",
       "name": "Arbera Token",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8e337e095F31071F24bF408241629adb29Bb6ee2/logo.png",
-      "address": "0x8e337e095F31071F24bF408241629adb29Bb6ee2"
+      "address": "0x8e337e095F31071F24bF408241629adb29Bb6ee2",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -2985,7 +2998,8 @@
       "symbol": "BURA",
       "name": "BURA token",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x13E971F11B34ef541606a7A8062EDA32F75C0078/logo.png",
-      "address": "0x13E971F11B34ef541606a7A8062EDA32F75C0078"
+      "address": "0x13E971F11B34ef541606a7A8062EDA32F75C0078",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -2993,7 +3007,8 @@
       "symbol": "RAMEN",
       "name": "RAMEN token",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x94911C98beBA5A08fc6D0428D13c19219Cd868ff/logo.png",
-      "address": "0x94911C98beBA5A08fc6D0428D13c19219Cd868ff"
+      "address": "0x94911C98beBA5A08fc6D0428D13c19219Cd868ff",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3001,7 +3016,8 @@
       "symbol": "DIRAC",
       "name": "Dirac Finance Token",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x277aaDBd9ea3dB8Fe9eA40eA6E09F6203724BdaE/logo.png",
-      "address": "0x277aaDBd9ea3dB8Fe9eA40eA6E09F6203724BdaE"
+      "address": "0x277aaDBd9ea3dB8Fe9eA40eA6E09F6203724BdaE",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3009,7 +3025,8 @@
       "symbol": "JNKY",
       "name": "Junky Ursas LFG:",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xa0525273423537BC76825B4389F3bAeC1968f83F/logo.png",
-      "address": "0xa0525273423537BC76825B4389F3bAeC1968f83F"
+      "address": "0xa0525273423537BC76825B4389F3bAeC1968f83F",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3039,7 +3056,8 @@
       "symbol": "POLLEN",
       "name": "Pollen Governance (POLLEN)",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xa591eef221369321De76d958dC023936Fb39B26A/logo.png",
-      "address": "0xa591eef221369321De76d958dC023936Fb39B26A"
+      "address": "0xa591eef221369321De76d958dC023936Fb39B26A",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3047,7 +3065,8 @@
       "symbol": "LBGT",
       "name": "Liquid BGT",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x32Cf940DB5d7ea3e95e799A805B1471341241264/logo.png",
-      "address": "0x32Cf940DB5d7ea3e95e799A805B1471341241264"
+      "address": "0x32Cf940DB5d7ea3e95e799A805B1471341241264",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3066,7 +3085,8 @@
       "symbol": "LUSD",
       "name": "LUSD (Curvance)",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x30516f19dfAA39D993bd0040731e305F09f3977E/logo.png",
-      "address": "0x30516f19dfAA39D993bd0040731e305F09f3977E"
+      "address": "0x30516f19dfAA39D993bd0040731e305F09f3977E",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3074,7 +3094,8 @@
       "symbol": "SWETH",
       "name": "SWETH (Curvance)",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xEbC7B353006eaB5C2e4807bFE6d568E3e2D4fEF6/logo.png",
-      "address": "0xEbC7B353006eaB5C2e4807bFE6d568E3e2D4fEF6"
+      "address": "0xEbC7B353006eaB5C2e4807bFE6d568E3e2D4fEF6",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3082,7 +3103,8 @@
       "symbol": "USDC",
       "name": "USDC (Curvance)",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x97100969B56847bDcA158fD3394B85264ACAd124/logo.png",
-      "address": "0x97100969B56847bDcA158fD3394B85264ACAd124"
+      "address": "0x97100969B56847bDcA158fD3394B85264ACAd124",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3090,7 +3112,8 @@
       "symbol": "wBTC",
       "name": "wBTC (Curvance)",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD018E3fDDD28a58886c9036944CfB9872292f883/logo.png",
-      "address": "0xD018E3fDDD28a58886c9036944CfB9872292f883"
+      "address": "0xD018E3fDDD28a58886c9036944CfB9872292f883",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3098,7 +3121,8 @@
       "symbol": "CRACK",
       "name": "Crack",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8F22CD288fa62F5F198ba03fCdb3829DD7C0cbb8/logo.png",
-      "address": "0x8F22CD288fa62F5F198ba03fCdb3829DD7C0cbb8"
+      "address": "0x8F22CD288fa62F5F198ba03fCdb3829DD7C0cbb8",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3106,7 +3130,8 @@
       "symbol": "GOLD",
       "name": "Grand Conquest Gold",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x343499E6315f7d3473a12aaf660Ac02b5739C382/logo.png",
-      "address": "0x343499E6315f7d3473a12aaf660Ac02b5739C382"
+      "address": "0x343499E6315f7d3473a12aaf660Ac02b5739C382",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3114,7 +3139,8 @@
       "symbol": "SPELL",
       "name": "SPELL Token",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x802762e604CE08a79DA2BA809281D727A690Fa0d/logo.png",
-      "address": "0x802762e604CE08a79DA2BA809281D727A690Fa0d"
+      "address": "0x802762e604CE08a79DA2BA809281D727A690Fa0d",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3122,7 +3148,8 @@
       "symbol": "mPumpBTC",
       "name": "mPumpBTC",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xE1F167CDE04d5d0F8d096957b3A23a7005618976/logo.png",
-      "address": "0xE1F167CDE04d5d0F8d096957b3A23a7005618976"
+      "address": "0xE1F167CDE04d5d0F8d096957b3A23a7005618976",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3141,7 +3168,8 @@
       "symbol": "LORE",
       "name": "LORE",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x86056CDB2bF09c540B63F5a0bC054c840cB0De6c/logo.png",
-      "address": "0x86056CDB2bF09c540B63F5a0bC054c840cB0De6c"
+      "address": "0x86056CDB2bF09c540B63F5a0bC054c840cB0De6c",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3149,7 +3177,8 @@
       "symbol": "UNO",
       "name": "UNO",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x08247b1C6D6AACF6C655f711661D5810380C8385/logo.png",
-      "address": "0x08247b1C6D6AACF6C655f711661D5810380C8385"
+      "address": "0x08247b1C6D6AACF6C655f711661D5810380C8385",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3157,7 +3186,8 @@
       "symbol": "PAW",
       "name": "Paw Token",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB43fd1dC4f02d81f962E98203b2cc4FD9E342964/logo.png",
-      "address": "0xB43fd1dC4f02d81f962E98203b2cc4FD9E342964"
+      "address": "0xB43fd1dC4f02d81f962E98203b2cc4FD9E342964",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3165,7 +3195,8 @@
       "symbol": "wifsock",
       "name": "bear wifsock",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x581ce2a21fc0E0a24c52c0816Fdb3FFaff61db77/logo.png",
-      "address": "0x581ce2a21fc0E0a24c52c0816Fdb3FFaff61db77"
+      "address": "0x581ce2a21fc0E0a24c52c0816Fdb3FFaff61db77",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3184,7 +3215,8 @@
       "symbol": "JANITOOR",
       "name": "Left Curve Prince",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x572d55fD6C1aa2c23093fF4E8772DF4B1A8980a2/logo.png",
-      "address": "0x572d55fD6C1aa2c23093fF4E8772DF4B1A8980a2"
+      "address": "0x572d55fD6C1aa2c23093fF4E8772DF4B1A8980a2",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3192,7 +3224,8 @@
       "symbol": "TWIN",
       "name": "TWIN Protocol Token",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xcE7DB5cbA54fa37597c6ECcC91c46e3FB7812390/logo.png",
-      "address": "0xcE7DB5cbA54fa37597c6ECcC91c46e3FB7812390"
+      "address": "0xcE7DB5cbA54fa37597c6ECcC91c46e3FB7812390",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3200,7 +3233,8 @@
       "symbol": "shSOL",
       "name": "shSOL Token",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x3176d5566350a92EB5f0283a4c137746694f03ee/logo.png",
-      "address": "0x3176d5566350a92EB5f0283a4c137746694f03ee"
+      "address": "0x3176d5566350a92EB5f0283a4c137746694f03ee",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3208,7 +3242,8 @@
       "symbol": "MONAD",
       "name": "MonadOnBerachain",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA96eF4e9757aFB7bb039F00BBaa12c46CBeD1407/logo.png",
-      "address": "0xA96eF4e9757aFB7bb039F00BBaa12c46CBeD1407"
+      "address": "0xA96eF4e9757aFB7bb039F00BBaa12c46CBeD1407",
+      "tags": []
     },
     {
       "chainId": 80084,
@@ -3216,7 +3251,8 @@
       "symbol": "ZERU",
       "name": "Zeru Token",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x23bc120feA570576E6D7bAe5195c9D7CD3bB6615/logo.png",
-      "address": "0x23bc120feA570576E6D7bAe5195c9D7CD3bB6615"
+      "address": "0x23bc120feA570576E6D7bAe5195c9D7CD3bB6615",
+      "tags": []
     },
     {
       "chainId": 80084,
