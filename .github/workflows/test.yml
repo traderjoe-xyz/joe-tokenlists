@@ -42,7 +42,7 @@ jobs:
 
       - name: Check Allowed 'chainId' Values
         run: |
-          ALLOWED_CHAIN_IDS=(1 43113 43114 42161 42161 421613 56 97)
+          ALLOWED_CHAIN_IDS=(1 43113 43114 42161 42161 421613 56 97 80084 80094)
           # Convert bash array to jq array format
           JQ_ALLOWED_CHAIN_IDS=$(printf "[%s]" "$(IFS=, ; echo "${ALLOWED_CHAIN_IDS[*]}")")
 
