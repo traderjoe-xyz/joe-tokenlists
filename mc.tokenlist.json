@@ -2764,6 +2764,17 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x06d47F3fb376649c3A9Dafe069B3D6E35572219E/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x7654B08cCd188643c9D6b639535a700D75EbC4FB",
+      "decimals": 18,
+      "name": "BankOfAztech",
+      "symbol": "BOFA",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7654B08cCd188643c9D6b639535a700D75EbC4FB/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
