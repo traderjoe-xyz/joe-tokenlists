@@ -2764,6 +2764,17 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x06d47F3fb376649c3A9Dafe069B3D6E35572219E/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xe684F692bdf5B3B0DB7E8e31a276DE8A2E9F0025",
+      "decimals": 18,
+      "name": "Yak Milk Suzaku Restaked BTC.b",
+      "symbol": "rBTC.b",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe684F692bdf5B3B0DB7E8e31a276DE8A2E9F0025/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
