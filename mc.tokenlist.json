@@ -2775,6 +2775,17 @@
         "AI"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1c7c53aa86B49A28C627B6450091998e447A42f9/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5AF30a5E34b7Dd1Cf1bE96E1784e0F1aa91Aa5e8",
+      "decimals": 8,
+      "name": "EXIM",
+      "symbol": "EXIM",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5AF30a5E34b7Dd1Cf1bE96E1784e0F1aa91Aa5e8/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
