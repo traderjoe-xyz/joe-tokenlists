@@ -2775,6 +2775,17 @@
         "AI"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1c7c53aa86B49A28C627B6450091998e447A42f9/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x66a7b00154CFA3354e6334185f740Db88D12B3bb",
+      "decimals": 18,
+      "name": "JindoJinju",
+      "symbol": "JindoJinju",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x66a7b00154CFA3354e6334185f740Db88D12B3bb/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
