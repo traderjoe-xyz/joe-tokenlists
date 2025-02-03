@@ -2776,7 +2776,8 @@
         "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe684F692bdf5B3B0DB7E8e31a276DE8A2E9F0025/logo.png"
-    {
+    },
+      {
 
       "chainId": 43114,
       "address": "0x1c7c53aa86B49A28C627B6450091998e447A42f9",
