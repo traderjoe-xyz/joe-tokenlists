@@ -2775,6 +2775,17 @@
         "AI"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1c7c53aa86B49A28C627B6450091998e447A42f9/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xA3C7D82a851200902327873e0A380aa11b2176B2",
+      "decimals": 18,
+      "name": "bibim",
+      "symbol": "bibim",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA3C7D82a851200902327873e0A380aa11b2176B2/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
