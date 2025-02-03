@@ -2775,6 +2775,17 @@
         "AI"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1c7c53aa86B49A28C627B6450091998e447A42f9/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xA6270F0336A18c2f28382B6953Ce2bbCADb97e09",
+      "decimals": 18,
+      "name": "SAPSAL",
+      "symbol": "SAPSAL",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA6270F0336A18c2f28382B6953Ce2bbCADb97e09/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
