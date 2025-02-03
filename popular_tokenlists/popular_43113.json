@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Wrapped AVAX",
+        "symbol": "WAVAX",
+        "address": "0xd00ae08403b9bbb9124bb305c09058e32c39a48c",
+        "decimals": 18,
+        "chainId": 43113,
+        "tags": []
+    },
+    {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "address": "0xb6076c93701d6a07266c31066b298aec6dd65c2d",
+        "decimals": 6,
+        "chainId": 43113,
+        "tags": []
+    },
+    {
+        "name": "USD Tether",
+        "symbol": "USDT",
+        "address": "0xab231a5744c8e6c45481754928ccffffd4aa0732",
+        "decimals": 6,
+        "chainId": 43113,
+        "tags": []
+    }
+]
