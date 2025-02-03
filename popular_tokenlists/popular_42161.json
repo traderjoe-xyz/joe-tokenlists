@@ -1,0 +1,154 @@
+[
+    {
+        "name": "Arbitrum",
+        "symbol": "ARB",
+        "contract_address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Bridged USDC",
+        "symbol": "USDC.e",
+        "contract_address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+        "decimals": 6,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "contract_address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+        "decimals": 6,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Camelot Token",
+        "symbol": "GRAIL",
+        "contract_address": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Dai",
+        "symbol": "DAI",
+        "contract_address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Wrapped Ether",
+        "symbol": "ETH",
+        "contract_address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "GMX",
+        "symbol": "GMX",
+        "contract_address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "HEGIC",
+        "symbol": "HEGIC",
+        "contract_address": "0x431402e8b9de9aa016c743880e04e517074d8cec",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Gains Network",
+        "symbol": "GNS",
+        "contract_address": "0x18c11fd286c5ec11c3b683caa813b77f5163a122",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "LayerZero",
+        "symbol": "ZRO",
+        "contract_address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "MAGIC",
+        "symbol": "MAGIC",
+        "contract_address": "0x539bde0d7dbd336b79148aa742883198bbf60342",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Pendle",
+        "symbol": "PENDLE",
+        "contract_address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Radiant v2",
+        "symbol": "RDNT",
+        "contract_address": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Stargate Token",
+        "symbol": "STG",
+        "contract_address": "0x6694340fc020c5e6b96567843da2df01b2ce1eb6",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Tether Token",
+        "symbol": "USDT",
+        "contract_address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+        "decimals": 6,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "TraderJoe Token",
+        "symbol": "JOE",
+        "contract_address": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "WOO",
+        "symbol": "WOO",
+        "contract_address": "0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "contract_address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+        "decimals": 8,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Boop",
+        "symbol": "BOOP",
+        "contract_address": "0x13a7dedb7169a17be92b0e3c7c2315b46f4772b3",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    }
+]

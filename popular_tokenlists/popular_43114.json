@@ -1,0 +1,122 @@
+[
+    {
+        "name": "AVAX",
+        "symbol": "AVAX",
+        "contract_address": "0x0000000000000000000000000000000000000000",
+        "decimals": 18,
+        "chainId": 43114,
+        "tags": []
+    },
+    {
+        "name": "Wrapped AVAX",
+        "symbol": "WAVAX",
+        "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+        "decimals": 18,
+        "chainId": 43114,
+        "tags": []
+    },
+    {
+        "name": "Benqi",
+        "symbol": "QI",
+        "contract_address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+        "decimals": 18,
+        "chainId": 43114,
+        "tags": []
+    },
+    {
+        "name": "Bitcoin (BTC.b)",
+        "symbol": "BTC.b",
+        "contract_address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+        "decimals": 8,
+        "chainId": 43114,
+        "tags": []
+    },
+    {
+        "name": "JOE token",
+        "symbol": "JOE",
+        "contract_address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+        "decimals": 18,
+        "chainId": 43114,
+        "tags": []
+    },
+    {
+        "name": "Tether Token",
+        "symbol": "USDT",
+        "contract_address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+        "decimals": 6,
+        "chainId": 43114,
+        "tags": []
+    },
+    {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "contract_address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+        "decimals": 6,
+        "chainId": 43114,
+        "tags": []
+    },
+    {
+        "name": "Wrapped Bitcoin",
+        "symbol": "WBTC",
+        "contract_address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+        "decimals": 8,
+        "chainId": 43114,
+        "tags": []
+    },
+    {
+        "name": "Wrapped Ether",
+        "symbol": "WETH.e",
+        "contract_address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+        "decimals": 18,
+        "chainId": 43114,
+        "tags": []
+    },
+    {
+        "name": "ArenaToken",
+        "symbol": "ARENA",
+        "contract_address": "0xb8d7710f7d8349a506b75dd184f05777c82dad0c",
+        "decimals": 18,
+        "chainId": 43114,
+        "tags": []
+    },
+    {
+        "name": "AUSD",
+        "symbol": "AUSD",
+        "contract_address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+        "decimals": 6,
+        "chainId": 43114,
+        "tags": []
+    },
+    {
+        "name": "COQINU (COQ)",
+        "symbol": "COQ",
+        "contract_address": "0x420fca0121dc28039145009570975747295f2329",
+        "decimals": 18,
+        "chainId": 43114,
+        "tags": []
+    },
+    {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "contract_address": "0xa80f36ba18c7f721f3f7acdbcdefd3a86869a036",
+        "decimals": 18,
+        "chainId": 43114,
+        "tags": []
+    },
+    {
+        "name": "yellow ket",
+        "symbol": "KET",
+        "contract_address": "0xffff003a6bad9b743d658048742935fffe2b6ed7",
+        "decimals": 18,
+        "chainId": 43114,
+        "tags": []
+    },
+    {
+        "name": "Staked AVAX",
+        "symbol": "sAVAX",
+        "contract_address": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
+        "decimals": 18,
+        "chainId": 43114,
+        "tags": []
+    }
+]

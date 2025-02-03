@@ -1,0 +1,186 @@
+[
+    {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "contract_address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "decimals": 6,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "contract_address": "0x0000000000000000000000000000000000000000",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "Virtual Protocol",
+        "symbol": "VIRTUAL",
+        "contract_address": "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "Coinbase Wrapped BTC",
+        "symbol": "CBBTC",
+        "contract_address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+        "decimals": 8,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "aixbt by Virtuals",
+        "symbol": "AIXBT",
+        "contract_address": "0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "Toshi",
+        "symbol": "TOSHI",
+        "contract_address": "0x8544fe9d190fd7ec52860abbf45088e81ee24a8c",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "Venice Token",
+        "symbol": "VVV",
+        "contract_address": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "Pendle",
+        "symbol": "PENDLE",
+        "contract_address": "0xa99f6e6785da0f5d6fb42495fe424bce029eeb3e",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "Aerodrome",
+        "symbol": "AERO",
+        "contract_address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "Morpho Token",
+        "symbol": "MORPHO",
+        "contract_address": "0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "Brett",
+        "symbol": "BRETT",
+        "contract_address": "0x532f27101965dd16442e59d40670faf5ebb142e4",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "Cookie",
+        "symbol": "COOKIE",
+        "contract_address": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "Degen",
+        "symbol": "DEGEN",
+        "contract_address": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "GAME by Virtuals",
+        "symbol": "GAME",
+        "contract_address": "0x1c4cca7c5db003824208adda61bd749e55f463a3",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "Freysa",
+        "symbol": "FAI",
+        "contract_address": "0xb33ff54b9f7242ef1593d2c9bcd8f9df46c77935",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "Spectral Token",
+        "symbol": "SPEC",
+        "contract_address": "0x96419929d7949d6a801a6909c145c8eef6a40431",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "Moonwell",
+        "symbol": "WELL",
+        "contract_address": "0xa88594d404727625a9437c3f886c7643872296ae",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "Keyboard Cat",
+        "symbol": "KEYCAT",
+        "contract_address": "0x9a26f5433671751c3276a065f57e5a02d2817973",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "SKI MASK DOG",
+        "symbol": "SKI",
+        "contract_address": "0x768be13e1680b5ebe0024c42c896e3db59ec0149",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "Unit 00 - Rei",
+        "symbol": "REI",
+        "contract_address": "0x6b2504a03ca4d43d0d73776f6ad46dab2f2a4cfd",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "VaderAI by Virtuals",
+        "symbol": "VADER",
+        "contract_address": "0x731814e491571a2e9ee3c5b1f7f3b962ee8f4870",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "doginme",
+        "symbol": "DOGINME",
+        "contract_address": "0x6921b130d297cc43754afba22e5eac0fbf8db75b",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    },
+    {
+        "name": "HeyAnon",
+        "symbol": "ANON",
+        "contract_address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
+    }
+]

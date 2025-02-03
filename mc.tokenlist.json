@@ -2767,14 +2767,38 @@
     },
     {
       "chainId": 43114,
+
       "address": "0xe684F692bdf5B3B0DB7E8e31a276DE8A2E9F0025",
       "decimals": 18,
       "name": "Yak Milk Suzaku Restaked BTC.b",
       "symbol": "rBTC.b",
       "tags": [
-        "Meme"
+        "DeFi"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe684F692bdf5B3B0DB7E8e31a276DE8A2E9F0025/logo.png"
+    {
+
+      "chainId": 43114,
+      "address": "0x1c7c53aa86B49A28C627B6450091998e447A42f9",
+      "decimals": 18,
+      "name": "VELVET AI",
+      "symbol": "VELAI",
+      "tags": [
+        "AI"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1c7c53aa86B49A28C627B6450091998e447A42f9/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x73831E7c5577859FB0583aF97C9C68F96A43fcB6",
+      "decimals": 18,
+      "name": "AIGG",
+      "symbol": "AIGG",
+      "tags": [
+        "AI"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x73831E7c5577859FB0583aF97C9C68F96A43fcB6/logo.png"
+
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
