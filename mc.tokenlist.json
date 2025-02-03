@@ -2781,9 +2781,9 @@
       "address": "0x73831E7c5577859FB0583aF97C9C68F96A43fcB6",
       "decimals": 18,
       "name": "AIGG",
-      "symbol": "$AIGG",
+      "symbol": "AIGG",
       "tags": [
-        "Meme"
+        "AI"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x73831E7c5577859FB0583aF97C9C68F96A43fcB6/logo.png"
     }
