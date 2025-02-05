@@ -2892,7 +2892,8 @@
       "decimals": 18,
       "name": "NECTAR",
       "symbol": "NECT",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x28e0e3B9817012b356119dF9e217c25932D609c2/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x28e0e3B9817012b356119dF9e217c25932D609c2/logo.png",
+      "tags": []
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
