@@ -110,9 +110,14 @@ jobs:
                       if [[ ! $folder_name =~ $ETH_ADDRESS_PATTERN ]]; then
                           echo "Invalid folder name in berachain: $folder_name is not a valid ETH address."
                           exit 1
-                      elif [[ ! $folder_name =~ $UPPERCASE_PATTERN ]]; then
-                          echo "Invalid folder name in berachain: $folder_name isn't checksummed address."
-                          exit 1
+                      fi
+
+                      # Skip checksum check for 0x6969696969696969696969696969696969696969
+                      if [[ "$folder_name" != "0x6969696969696969696969696969696969696969" ]]; then
+                          if [[ ! $folder_name =~ $UPPERCASE_PATTERN ]]; then
+                              echo "Invalid folder name in berachain: $folder_name isn't checksummed address."
+                              exit 1
+                          fi
                       fi
 
                       if [[ ! -f "$folder/logo.png" ]]; then
