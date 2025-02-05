@@ -1,0 +1,74 @@
+[
+    {
+        "name": "HONEY",
+        "symbol": "HONEY",
+        "contract_address": "0x0e4aaf1351de4c0264c5c7056ef3777b41bd8e03",
+        "decimals": 18,
+        "chainId": 80084,
+        "tags": []
+    },
+    {
+        "name": "BERA Token",
+        "symbol": "BERA",
+        "contract_address": "0x0000000000000000000000000000000000000000",
+        "decimals": 18,
+        "chainId": 80084,
+        "tags": []
+    },
+    {
+        "name": "OogaBooga token",
+        "symbol": "OOGA",
+        "contract_address": "0x55812bd8683ec95374e42ecfbbc5fb965b3d009a",
+        "decimals": 18,
+        "chainId": 80084,
+        "tags": []
+    },
+    {
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "contract_address": "0x2577d24a26f8fa19c1058a8b0106e2c7303454a4",
+        "decimals": 8,
+        "chainId": 80084,
+        "tags": []
+    },
+    {
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "contract_address": "0xe28afd8c634946833e89ee3f122c06d7c537e8a8",
+        "decimals": 18,
+        "chainId": 80084,
+        "tags": []
+    },
+    {
+        "name": "Magic Internet Money",
+        "symbol": "MIM",
+        "contract_address": "0x08b918dd18e087893bb9d711d9e0bbaa7a63ef63",
+        "decimals": 18,
+        "chainId": 80084,
+        "tags": []
+    },
+    {
+        "name": "Kodiak token",
+        "symbol": "KDK",
+        "contract_address": "0xfd27998fa0eab1a6372db14afd4bf7c4a58c5364",
+        "decimals": 18,
+        "chainId": 80084,
+        "tags": []
+    },
+    {
+        "name": "Ramen Token",
+        "symbol": "RAMEN",
+        "contract_address": "0x94911c98beba5a08fc6d0428d13c19219cd868ff",
+        "decimals": 18,
+        "chainId": 80084,
+        "tags": []
+    },
+    {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "contract_address": "0x05d0dd5135e3ef3ade32a9ef9cb06e8d37a6795d",
+        "decimals": 6,
+        "chainId": 80084,
+        "tags": []
+    }
+]

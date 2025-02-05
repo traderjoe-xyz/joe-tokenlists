@@ -1938,7 +1938,7 @@
       "address": "0xF6C95C3A750CC7f6a8C96d9b08CC132A44c7Bd72",
       "decimals": 18,
       "name": "ACID404: THE SICKOS ",
-      "symbol": "$SICKO",
+      "symbol": "SICKO",
       "tags": [
         "NFT"
       ],
@@ -2596,7 +2596,7 @@
       "name": "BGR",
       "symbol": "BGR",
       "tags": [
-        "DeFi"
+        "AI"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xedd5BBb085d429ECB3C46FCf3BabBD69d242246c/logo.png"
     },
@@ -2745,14 +2745,76 @@
     },
     {
       "chainId": 43114,
+
       "address": "0x8c8d2a7d8d9CF26F5ee1BbFc0bA56e93F4A4A7aC",
       "decimals": 18,
       "name": "AIvalanche DeFAI Agents",
       "symbol": "AVAXAI",
       "tags": [
-        "Meme"
+        "AI"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8c8d2a7d8d9CF26F5ee1BbFc0bA56e93F4A4A7aC/logo.png"
+    },
+
+    {
+
+      "chainId": 43114,
+      "address": "0x24dE8771bC5DdB3362Db529Fc3358F2df3A0E346",
+      "decimals": 18,
+      "name": "avUSD",
+      "symbol": "avUSD",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x24dE8771bC5DdB3362Db529Fc3358F2df3A0E346/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x06d47F3fb376649c3A9Dafe069B3D6E35572219E",
+      "decimals": 18,
+      "name": "Staked avUSD",
+      "symbol": "savUSD",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x06d47F3fb376649c3A9Dafe069B3D6E35572219E/logo.png"
+    },
+    {
+      "chainId": 43114,
+
+      "address": "0xe684F692bdf5B3B0DB7E8e31a276DE8A2E9F0025",
+      "decimals": 18,
+      "name": "Yak Milk Suzaku Restaked BTC.b",
+      "symbol": "rBTC.b",
+      "tags": [
+        "DeFi"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe684F692bdf5B3B0DB7E8e31a276DE8A2E9F0025/logo.png"
+    },
+      {
+
+      "chainId": 43114,
+      "address": "0x1c7c53aa86B49A28C627B6450091998e447A42f9",
+      "decimals": 18,
+      "name": "VELVET AI",
+      "symbol": "VELAI",
+      "tags": [
+        "AI"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1c7c53aa86B49A28C627B6450091998e447A42f9/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x73831E7c5577859FB0583aF97C9C68F96A43fcB6",
+      "decimals": 18,
+      "name": "AIGG",
+      "symbol": "AIGG",
+      "tags": [
+        "AI"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x73831E7c5577859FB0583aF97C9C68F96A43fcB6/logo.png"
+
+
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
