@@ -2745,7 +2745,6 @@
     },
     {
       "chainId": 43114,
-
       "address": "0x8c8d2a7d8d9CF26F5ee1BbFc0bA56e93F4A4A7aC",
       "decimals": 18,
       "name": "AIvalanche DeFAI Agents",
@@ -2755,9 +2754,7 @@
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8c8d2a7d8d9CF26F5ee1BbFc0bA56e93F4A4A7aC/logo.png"
     },
-
     {
-
       "chainId": 43114,
       "address": "0x24dE8771bC5DdB3362Db529Fc3358F2df3A0E346",
       "decimals": 18,
@@ -2781,7 +2778,6 @@
     },
     {
       "chainId": 43114,
-
       "address": "0xe684F692bdf5B3B0DB7E8e31a276DE8A2E9F0025",
       "decimals": 18,
       "name": "Yak Milk Suzaku Restaked BTC.b",
@@ -2791,8 +2787,7 @@
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe684F692bdf5B3B0DB7E8e31a276DE8A2E9F0025/logo.png"
     },
-      {
-
+    {
       "chainId": 43114,
       "address": "0x1c7c53aa86B49A28C627B6450091998e447A42f9",
       "decimals": 18,
@@ -2813,8 +2808,92 @@
         "AI"
       ],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x73831E7c5577859FB0583aF97C9C68F96A43fcB6/logo.png"
-
-
+    },
+    {
+      "chainId": 80094,
+      "address": "0x6969696969696969696969696969696969696969",
+      "decimals": 18,
+      "name": "Wrapped Bera",
+      "symbol": "WBERA",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x6969696969696969696969696969696969696969/logo.png",
+      "tags": [
+        "Top"
+      ]
+    },
+    {
+      "chainId": 80094,
+      "address": "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce",
+      "decimals": 18,
+      "name": "HONEY",
+      "symbol": "HONEY",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce/logo.png",
+      "tags": [
+        "Stablecoins"
+      ]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x549943e04f40284185054145c6E4e9568C1D3241",
+      "decimals": 6,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x549943e04f40284185054145c6E4e9568C1D3241/logo.png",
+      "tags": [
+        "Stablecoins"
+      ]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+      "decimals": 18,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590/logo.png",
+      "tags": [
+        "Top"
+      ]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+      "decimals": 6,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x779Ded0c9e1022225f8E0630b35a9b54bE713736/logo.png",
+      "tags": [
+        "Stablecoins"
+      ]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x1cE0a25D13CE4d52071aE7e02Cf1F6606F4C79d3",
+      "decimals": 18,
+      "name": "NECTAR",
+      "symbol": "NECT",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x1cE0a25D13CE4d52071aE7e02Cf1F6606F4C79d3/logo.png",
+      "tags": [
+        "Stablecoins"
+      ]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c/logo.png",
+      "tags": [
+        "Top"
+      ]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x28e0e3B9817012b356119dF9e217c25932D609c2",
+      "decimals": 18,
+      "name": "NECTAR",
+      "symbol": "NECT",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x28e0e3B9817012b356119dF9e217c25932D609c2/logo.png",
+      "tags": []
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"

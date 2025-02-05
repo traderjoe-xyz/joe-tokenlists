@@ -42,7 +42,7 @@ jobs:
 
       - name: Check Allowed 'chainId' Values
         run: |
-          ALLOWED_CHAIN_IDS=(1 43113 43114 42161 42161 421613 56 97)
+          ALLOWED_CHAIN_IDS=(1 43113 43114 42161 42161 421613 56 97 80094)
           # Convert bash array to jq array format
           JQ_ALLOWED_CHAIN_IDS=$(printf "[%s]" "$(IFS=, ; echo "${ALLOWED_CHAIN_IDS[*]}")")
 
@@ -80,8 +80,9 @@ jobs:
           ETH_ADDRESS_PATTERN="^0x[a-fA-F0-9]{40}$"
           UPPERCASE_PATTERN="[A-F]"
 
+          # First check main logos directory
           for folder in "$LOGOS_DIR"/*; do
-              if [[ -d "$folder" ]]; then
+              if [[ -d "$folder" ]] && [[ "$(basename "$folder")" != "berachain" ]]; then
                   folder_name=$(basename "$folder")
                   
                   if [[ ! $folder_name =~ $ETH_ADDRESS_PATTERN ]]; then
@@ -92,12 +93,39 @@ jobs:
                       exit 1
                   fi
 
-                  # Check if the logo.png file exists in the folder
                   if [[ ! -f "$folder/logo.png" ]]; then
                       echo "Missing (or wrongly named) logo.png file in folder: $folder_name"
                       exit 1
                   fi
               fi
           done
+
+          # Then check berachain logos directory
+          BERACHAIN_DIR="$LOGOS_DIR/berachain"
+          if [[ -d "$BERACHAIN_DIR" ]]; then
+              for folder in "$BERACHAIN_DIR"/*; do
+                  if [[ -d "$folder" ]]; then
+                      folder_name=$(basename "$folder")
+                      
+                      if [[ ! $folder_name =~ $ETH_ADDRESS_PATTERN ]]; then
+                          echo "Invalid folder name in berachain: $folder_name is not a valid ETH address."
+                          exit 1
+                      fi
+
+                      # Skip checksum check for 0x6969696969696969696969696969696969696969
+                      if [[ "$folder_name" != "0x6969696969696969696969696969696969696969" ]]; then
+                          if [[ ! $folder_name =~ $UPPERCASE_PATTERN ]]; then
+                              echo "Invalid folder name in berachain: $folder_name isn't checksummed address."
+                              exit 1
+                          fi
+                      fi
+
+                      if [[ ! -f "$folder/logo.png" ]]; then
+                          echo "Missing (or wrongly named) logo.png file in berachain folder: $folder_name"
+                          exit 1
+                      fi
+                  fi
+              done
+          fi
 
           echo "Every folder has a valid name and contains logo.png."
