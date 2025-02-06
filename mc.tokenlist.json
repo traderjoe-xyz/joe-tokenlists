@@ -2894,6 +2894,168 @@
       "symbol": "NECT",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x28e0e3B9817012b356119dF9e217c25932D609c2/logo.png",
       "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xac03CABA51e17c86c921E1f6CBFBdC91F8BB2E6b",
+      "decimals": 18,
+      "name": "Infrared BGT",
+      "symbol": "iBGT",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xac03CABA51e17c86c921E1f6CBFBdC91F8BB2E6b/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x9b6761bf2397Bb5a6624a856cC84A3A14Dcd3fe5",
+      "decimals": 18,
+      "name": "Infrared BERA",
+      "symbol": "iBERA",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x9b6761bf2397Bb5a6624a856cC84A3A14Dcd3fe5/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
+      "decimals": 18,
+      "name": "Solv BTC",
+      "symbol": "SolvBTC",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x541FD749419CA806a8bc7da8ac23D346f2dF8B77/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
+      "decimals": 18,
+      "name": "SolvBTC Babylon",
+      "symbol": "SolvBTC.BBN",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xCC0966D8418d412c599A6421b760a847eB169A8c/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xEc901DA9c68E90798BbBb74c11406A32A70652C3",
+      "decimals": 18,
+      "name": "StakeStone Ether",
+      "symbol": "STONE",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xEc901DA9c68E90798BbBb74c11406A32A70652C3/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xff12470a969Dd362EB6595FFB44C82c959Fe9ACc",
+      "decimals": 18,
+      "name": "USDa",
+      "symbol": "USDa",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xff12470a969Dd362EB6595FFB44C82c959Fe9ACc/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x2840F9d9f96321435Ab0f977E7FDBf32EA8b304f",
+      "decimals": 18,
+      "name": "USDa saving token",
+      "symbol": "sUSDa",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x2840F9d9f96321435Ab0f977E7FDBf32EA8b304f/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "decimals": 18,
+      "name": "USDe",
+      "symbol": "USDe",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      "decimals": 18,
+      "name": "Staked USDe",
+      "symbol": "sUSDe",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x7DCC39B4d1C53CB31e1aBc0e358b43987FEF80f7",
+      "decimals": 18,
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x7DCC39B4d1C53CB31e1aBc0e358b43987FEF80f7/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xC3827A4BC8224ee2D116637023b124CED6db6e90",
+      "decimals": 8,
+      "name": "uniBTC",
+      "symbol": "uniBTC",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xC3827A4BC8224ee2D116637023b124CED6db6e90/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+      "decimals": 8,
+      "name": "Lombard Staked Bitcoin",
+      "symbol": "LBTC",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xecAc9C5F704e954931349Da37F60E39f515c11c1/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xdCB3D91555385DaE23e6B966b5626aa7A75Be940",
+      "decimals": 8,
+      "name": "CIAN yield layer pumpBTC",
+      "symbol": "ylpumpBTC",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xdCB3D91555385DaE23e6B966b5626aa7A75Be940/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x907883da917ca9750ad202ff6395C4C6aB14e60E",
+      "decimals": 8,
+      "name": "CIAN yield layer uniBTC",
+      "symbol": "yluniBTC",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x907883da917ca9750ad202ff6395C4C6aB14e60E/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xa958090601E21A82e9873042652e35891D945a8C",
+      "decimals": 18,
+      "name": "CIAN yield layer stETH",
+      "symbol": "ylstETH",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xa958090601E21A82e9873042652e35891D945a8C/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x5B82028cfc477C4E7ddA7FF33d59A23FA7Be002a",
+      "decimals": 18,
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x5B82028cfc477C4E7ddA7FF33d59A23FA7Be002a/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x850CDF416668210ED0c36bfFF5d21921C7adA3b8",
+      "decimals": 18,
+      "name": "rswETH",
+      "symbol": "rswETH",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x850CDF416668210ED0c36bfFF5d21921C7adA3b8/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+      "decimals": 18,
+      "name": "KelpDao Restaked ETH",
+      "symbol": "rsETH",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x4186BFC76E2E237523CBC30FD220FE055156b41F/logo.png",
+      "tags": []
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
