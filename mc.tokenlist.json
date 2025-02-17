@@ -2800,6 +2800,17 @@
     },
     {
       "chainId": 43114,
+      "address": "0xFF24003428Fb2E969C39EdEe4e9F464b0b78313d",
+      "decimals": 18,
+      "name": "Waifu",
+      "symbol": "WAIFU",
+      "tags": [
+        "Meme"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFF24003428Fb2E969C39EdEe4e9F464b0b78313d/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x73831E7c5577859FB0583aF97C9C68F96A43fcB6",
       "decimals": 18,
       "name": "AIGG",
